@@ -5,22 +5,22 @@
 # technické nastavení
 #
 
-title: Your awesome title
+title: Pirátská strana | Praha 11
 email: info@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Web místního sdružení České pirátské strany v Praze 11.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, Jižní město, Praha 11, Jižák, Jižňák, Piráti Praha 11
 
 administrator:
   email: to@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Piráti Praha 11
+  shortName: Praha 11
+  contactUid: jiri.dohnal
+  email: praha11@pirati.cz
+  phone: +420 775 333 608
   address: |
     Řehořova 943/19,
     130 00 Praha 3
@@ -58,7 +58,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
+  profilePage: https://www.facebook.com/pirati11.cz/
   appId: 1526197851008996
 
 twitter:
@@ -66,7 +66,7 @@ twitter:
   profile: PiratskaStrana
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratipraha11/
 
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
@@ -78,7 +78,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/praha11.pirati.cz/
   branch: master
 
 #
