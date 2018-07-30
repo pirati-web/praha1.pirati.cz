@@ -1,0 +1,64 @@
+---
+layout: default
+title: Kontaktní informace
+---
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" itemscope="">
+            <!--<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">-->
+            <header class="c-page-header">
+              <h1 itemprop="headline" class="c-page-title">Kontaktní informace </h1>
+            </header>
+            <div class="o-section-block o-section-block--fill">
+              <div class="u-cf">
+                <div class="medium-12 large-8 columns o-section-mediumdown-divided-small">
+                <div itemprop="description" class="c-content-block c-emphasized-text">
+                  {{ content }}
+                </div>
+                </div>
+                <div class="medium-12 large-4 columns o-section-mediumdown-divided-small">
+                    {% include contacts/basic-contacts.html %}
+                </div>
+              </div>
+            </div>
+          </article>
+        </main>
+      </div>
+    </section>
+  </div>
+</div>
+<hr>
+<div class="row o-section-block o-section-block--divided">
+
+    <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <div class="o-section-block">
+          <h2>Kontaktní osoba</h2>
+          {% assign contactPersons = site.people | where_exp: "item","item.categories contains 'kontaktni_osoba'" | sort:"ordpak" %}
+          {% for person in contactPersons %}
+            {% include people/profile-badge.html item=person imgSize='big' imgStyle='round' headlineClass='t-h3' %}
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </div>
+
+  {% if page.residence %}
+  <div class="medium-12 large-4 columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <div class="o-section-block">
+          {% include contacts/residence.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+</div>
