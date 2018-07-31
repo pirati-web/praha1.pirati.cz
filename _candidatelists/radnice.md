@@ -18,7 +18,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Politolog
     party: Piráti  
   - uid: ladislav.kos
-    age: 63
+    age: 32
     profession: Konzultatnt online marketingu
     party: Piráti
   - uid: michal.kovarik
