@@ -16,9 +16,6 @@ main:
   - link: /clenove/
     name: Naši členové
     match: clenove    
-  - link: /lide/
-    name: O nás
-    match: lide
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
