@@ -1,7 +1,7 @@
 ---
 uid: ladislav.kos
 name:     Ladislav Kos
-fullname: Ladislav Kos ml., Ing.
+fullname: Ing. Ladislav Kos
 category:
   - clenove
   - kandidat-obec

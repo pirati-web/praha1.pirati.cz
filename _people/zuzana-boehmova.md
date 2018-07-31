@@ -1,11 +1,11 @@
 ---
 uid: zuzana.boehmova
 name:     Zuzana Böhmová  	# běžně používáné jméno
-fullname: Zuzana Böhmová, Mgr.  	# jméno s tituly etc.
+fullname: Mgr. Zuzana Böhmová  	# jméno s tituly etc.
 category:
   - priznivci
   - kandidat-obec
-description: 28 let, bez PP, učitel
+description: 28 let, bez PP, učitelka
 img: people/t-zuzana-boehmova.jpg # zakomentuj radek dokud není fotka
 mail:
   - zuzana.boehm@pirati.cz

@@ -1,7 +1,7 @@
 ---
 uid: duska.martin
 name:     Martin Duška
-fullname: Martin Duška, Mgr.
+fullname: Mgr. Martin Duška
 category:
   - clenove
   - kandidat-obec
