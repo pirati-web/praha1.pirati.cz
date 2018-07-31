@@ -5,8 +5,10 @@ fullname: Ing. Michaela Al-Ali Poláková
 category:
   - priznivci
   - kandidat-obec
-description: 44 let, stavební inženýrka
+description: 44 let, bez PP, stavební inženýrka
 img: people/t-michaela-polakova.jpg
 ---
+
+44 let, bez PP, stavební inženýrka
 
 ---

@@ -7,9 +7,9 @@ category:
   - kandidat-obec
   - pms  
 ordclenove: 1
-description: zastupitel MČ P 11, předseda MS # zobrazuje se v lide
+description: zastupitel MČ Prahy 11, předseda MS
 profession: 40 let, člen Pirátů, člen Koalice Trojmezí, projektový manažer, zastupitel MČ Praha 11
-img: people/t-jiri-dohnal.jpg # zakomentuj radek dokud není fotka
+img: people/t-jiri-dohnal.jpg
 mail:
   - jiri.dohnal@pirati.cz
 mob: +420 608 770 778 
@@ -24,4 +24,5 @@ Na Jižním Městě žiji rád, vidím jeho pozitivní i negativní stránky. Ty
 Co mohou Piráti nabídnout Jižnímu Městu pro volební období 2018 až 2022? Jednoznačně transparentní řízení radnice, optimální a efektivní financování místní samosprávy, její digitalizaci a především tým mladých politiků, kteří nemají žádnou korupční historii. To v dnešní době, bohužel, není samozřejmostí.
  
 V letošních komunálních volbách Vám přeji šťastnou ruku ve prospěch našeho Jižního Města.
+
 ---
