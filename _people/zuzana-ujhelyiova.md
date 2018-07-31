@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 35 let, členka Pirátů, teoložka
-img: people/zuzana-ujhelyiova.jpg
+img: people/t-zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz
 profiles:

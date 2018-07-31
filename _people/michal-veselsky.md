@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: 38 let, člen SZ, výzkumný pracovník
-#img: people/michal-veselsky.jpg
+img: people/t-michal-veselsky.jpg
 mail:
   - martin.muzikant@pirati.cz
 

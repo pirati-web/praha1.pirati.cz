@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 30 let, člen Pirátů, nakladatelský pracovník/publicista
-img: people/michal-kovarik.jpg
+img: people/t-michal-kovarik.jpg
 mail:
   - michal.kovarik@pirati.cz
 

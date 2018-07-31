@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 33 let, člen Pirátů, meteorolog, vědecký pracovník
-img: people/jan-mejsnar.jpg
+img: people/t-jan-mejsnar.jpg
 mail:
   - jan.mejsnar@pirati.cz
 profiles:

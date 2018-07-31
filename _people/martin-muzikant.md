@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 47 let, člen Pirátů, manažer
-img: people/martin-muzikant.jpg
+img: people/t-martin-muzikant.jpg
 mail:
   - martin.muzikant@pirati.cz
 profiles:

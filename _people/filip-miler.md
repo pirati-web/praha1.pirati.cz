@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: kandidát do ZMČ # zobrazuje se v lide
-img: people/filip-miler.jpg # zakomentuj radek dokud není fotka
+img: people/t-filip-miler.jpg # zakomentuj radek dokud není fotka
 mail:
   - filip.miler@pirati.cz
  

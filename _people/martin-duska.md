@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 2
 description: 26 let, člen Pirátů, politolog
-img: people/martin-duska.jpg
+img: people/t-martin-duska.jpg
 mail:
   - martin.duska@pirati.cz
 profiles:

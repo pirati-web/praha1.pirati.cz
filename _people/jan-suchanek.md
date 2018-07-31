@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: 42 let, bez PP, webmaster
-#img: people/jan-suchanek.jpg
+img: people/t-jan-suchanek.jpg
 mail:
   - honza@suchanek.cz
 #mob: +420 777 258 580

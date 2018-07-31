@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 34 let, člen Pirátů, manažer
-img: people/milan-minarik.jpg
+img: people/t-milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz
 mob: +420 773 264 564
