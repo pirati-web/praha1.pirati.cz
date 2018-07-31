@@ -152,6 +152,6 @@ tail: # zbytek kandidatky
   - name: Jana Navrátilová
     age: 43 
     profession: V domácnosti
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+#note: # poznámka pod kanidátku
+#    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
