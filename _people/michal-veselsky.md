@@ -1,5 +1,5 @@
 ---
-uid: martin.muzikant
+uid: michal.veselsky
 name:     Michal Veselský
 fullname: Michal Veselský
 category:
