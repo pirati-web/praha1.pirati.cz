@@ -5,7 +5,7 @@ fullname: Filip Miler  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
-description: 39 let, člen Pirátů, vývojář informačních systémů, hudebník # zobrazuje se v lide
+description: člen Pirátů, vývojář informačních systémů, hudebník # zobrazuje se v lide
 img: people/t-filip-miler.jpg # zakomentuj radek dokud není fotka
 age: 
 mail:
