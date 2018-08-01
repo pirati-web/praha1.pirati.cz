@@ -5,7 +5,7 @@ fullname: Milan Minařík
 category:
   - clenove
   - kandidat-obec
-description: 34 let, člen Pirátů, manažer
+description: manažer
 img: people/t-milan-minarik.jpg
 mail:
   - milan.minarik@pirati.cz

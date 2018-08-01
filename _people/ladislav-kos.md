@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 3
-description: 32 let, člen Pirátů, konzultant online marketingu
+description: konzultant online marketingu
 img: people/t-ladislav-kos.jpg
 mail:
   - ladislav.kos@pirati.cz

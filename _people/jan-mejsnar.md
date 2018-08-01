@@ -5,7 +5,7 @@ fullname: Jan Mejsnar  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
-description: 33 let, člen Pirátů, meteorolog, vědecký pracovník
+description: meteorolog, vědecký pracovník
 img: people/t-jan-mejsnar.jpg
 mail:
   - jan.mejsnar@pirati.cz

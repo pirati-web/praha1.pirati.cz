@@ -5,7 +5,7 @@ fullname: Mgr. Martina Paříková
 category:
   - priznivci
   - kandidat-obec
-description: 33 let, Software Engineer
+description: Software Engineer
 img: people/t-martina-parikova.jpg
 mail:
   - martina.parikova@gmail.com

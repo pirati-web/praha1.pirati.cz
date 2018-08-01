@@ -5,7 +5,7 @@ fullname: Michal Kovařík
 category:
   - clenove
   - kandidat-obec
-description: 30 let, člen Pirátů, nakladatelský pracovník/publicista
+description: nakladatelský pracovník/publicista
 img: people/t-michal-kovarik.jpg
 mail:
   - michal.kovarik@pirati.cz

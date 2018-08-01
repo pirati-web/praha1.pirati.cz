@@ -5,7 +5,7 @@ fullname: Michal Veselský
 category:
   - priznivci
   - kandidat-obec
-description: 38 let, člen SZ, výzkumný pracovník
+description: člen SZ, výzkumný pracovník
 img: people/t-michal-veselsky.jpg
 profiles:
   facebook: https://www.facebook.com/michal.veselsky.3

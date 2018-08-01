@@ -5,7 +5,7 @@ fullname: Mgr. Zuzana Böhmová  	# jméno s tituly etc.
 category:
   - priznivci
   - kandidat-obec
-description: 28 let, bez PP, učitelka
+description: učitelka
 img: people/t-zuzana-boehmova.jpg # zakomentuj radek dokud není fotka
 mail:
   - zuzana.boehm@pirati.cz

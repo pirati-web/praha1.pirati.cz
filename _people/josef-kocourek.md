@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 4
-description: 54 let, člen Pirátů, provozní dispečer
+description: provozní dispečer
 img: people/t-josef-kocourek.jpg
 mail:
   - josef.kocourek@pirati.cz

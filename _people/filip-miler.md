@@ -5,8 +5,8 @@ fullname: Filip Miler  	# jméno s tituly etc.
 category:
   - clenove
   - kandidat-obec
-description: člen Pirátů, vývojář informačních systémů, hudebník # zobrazuje se v lide
-img: people/t-filip-miler.jpg # zakomentuj radek dokud není fotka
+description: vývojář informačních systémů, hudebník
+img: people/t-filip-miler.jpg
 age: 
 mail:
   - filip.miler@pirati.cz

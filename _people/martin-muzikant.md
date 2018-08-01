@@ -5,7 +5,7 @@ fullname: Mag. Martin Muzikant, Ph.D.
 category:
   - clenove
   - kandidat-obec
-description: 47 let, člen Pirátů, manažer
+description: manažer
 img: people/t-martin-muzikant.jpg
 mail:
   - martin.muzikant@pirati.cz

@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 ordclenove: 2
-description: 26 let, člen Pirátů, politolog
+description: politolog
 img: people/t-martin-duska.jpg
 mail:
   - martin.duska@pirati.cz

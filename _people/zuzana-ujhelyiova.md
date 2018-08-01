@@ -5,7 +5,7 @@ fullname: Mgr. Zuzana Ujhelyiová
 category:
   - clenove
   - kandidat-obec
-description: 35 let, členka Pirátů, teoložka
+description: teoložka
 img: people/t-zuzana-ujhelyiova.jpg
 mail:
   - zuzana.ujhelyiova@pirati.cz

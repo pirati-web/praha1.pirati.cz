@@ -5,7 +5,7 @@ fullname: Jan Suchánek
 category:
   - priznivci
   - kandidat-obec
-description: 42 let, bez PP, webmaster
+description: webmaster
 img: people/t-jan-suchanek.jpg
 mail:
   - honza@suchanek.cz

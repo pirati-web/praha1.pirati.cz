@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 ordclenove: 16
-description: 27 let, bez PP, doktorand na MFF UK
+description: doktorand na MFF UK
 img: people/t-lada-pexova.jpg
 
 profiles:
