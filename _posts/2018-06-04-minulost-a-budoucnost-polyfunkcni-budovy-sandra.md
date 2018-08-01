@@ -1,7 +1,7 @@
 ---
 date: 2018-06-04
 category: blog
-tags: majetek pošta
+#tags: majetek pošta
 layout: post
 title: Minulost a budoucnost polyfunkční budovy Sandra
 author: Jiří Dohnal

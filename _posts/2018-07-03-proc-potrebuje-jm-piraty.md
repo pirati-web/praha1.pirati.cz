@@ -1,7 +1,7 @@
 ---
 date: 2018-07-03
 category: blog
-tags: majetek pošta
+#tags: majetek pošta
 layout: post
 title: Proč potřebuje Jižní Město Piráty?
 author: Bc. Martin Duška

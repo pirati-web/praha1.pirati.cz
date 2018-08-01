@@ -1,7 +1,7 @@
 ---
 date: 2018-06-07
 category: blog
-tags: majetek pošta
+#tags: majetek pošta
 layout: post
 title: Jižní Město - přeplněný přístav
 author: Ing. Ladislav Kos ml.

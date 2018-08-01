@@ -1,7 +1,7 @@
 ---
 date: 2018-06-26
 category: blog
-tags: majetek pošta
+#tags: majetek pošta
 layout: post
 title: Zelené Jižní Město?
 author: Milan Minařík
