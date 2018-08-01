@@ -15,10 +15,7 @@ main:
     match: aktuality
   - link: /clenove/
     name: Naši členové
-    match: clenove    
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+    match: clenove
   - link: /kontakt/
     name: Kontakt
     match: kontakt
