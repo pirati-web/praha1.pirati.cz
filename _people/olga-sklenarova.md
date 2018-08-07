@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 
-img: people/olga-sklenarova.jpg
+img: people/04-olga-sklenarova.jpg
 age: 
 mail:
   - olga.sklenarova@pirati.cz

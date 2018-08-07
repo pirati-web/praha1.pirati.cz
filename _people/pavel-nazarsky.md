@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 
-img: people/pavel-nazarsky.jpg
+img: people/01-pavel-nazarsky.jpg
 age: 
 mail:
   - pavel.nazarsky@pirati.cz

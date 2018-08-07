@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 
-img: people/david-bodecek.jpg
+img: people/02-david-bodecek.jpg
 age: 
 mail:
   - david.bodecek@pirati.cz
