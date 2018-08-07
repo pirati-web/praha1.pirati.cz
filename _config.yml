@@ -131,3 +131,6 @@ assets:
     - assets/video
     - assets/img
     - _sass
+
+administrator:
+  email: jan.suchanek@gmail.com
