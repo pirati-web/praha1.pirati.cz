@@ -59,5 +59,8 @@ www.martinawalterova.com
 
 Michal Kovařík, Piráti Praha 11
 
+---
+
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/2018-jaro-praha-1.pdf) (velikost 3,8 Mb).
 
 - - -
