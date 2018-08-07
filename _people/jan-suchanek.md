@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: webmaster
-img: people/t-jan-suchanek.jpg
+#img: people/t-jan-suchanek.jpg
 mail:
   - honza@suchanek.cz
 profiles:
