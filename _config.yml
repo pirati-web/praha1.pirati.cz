@@ -28,7 +28,7 @@ calendar:
   
 facebook:
   loadSDK: true
-  profilePage: https://www.facebook.com/pirati11.cz/
+  profilePage: https://www.facebook.com/PiratiP1/
   appId: 1526197851008996
 
 twitter:
