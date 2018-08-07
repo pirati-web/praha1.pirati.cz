@@ -1,17 +1,17 @@
 # Welcome to Jekyll!
 #
-title: Piráti Praha 11
-email: praha11@pirati.cz
+title: Piráti Praha 1
+email: praha1@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
-  Stránka místního sdružení Piráti Praha 11.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+  Stránka místního sdružení Piráti Praha 1.
+keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 1, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 
 organization:
-  name: Piráti Praha 11
-  shortName: Piráti Praha 11
-  contactUid: jiri.dohnal
-  email: jiri.dohnal@pirati.cz
-  phone: +420 775 333 608
+  name: Piráti Praha 1
+  shortName: Piráti Praha 1
+  contactUid: pavel.nazarsky
+  email: praha1@pirati.cz
+  phone: +420 
   address: |
     Řehořova 19
     130 00 Praha 3
