@@ -15,6 +15,8 @@ profiles:
   facebook: https://www.facebook.com/jitka.nazarska
 ---
 
+Učitelka MŠ, předsedkyně Pirátů Prahy 1
+
 Narodila se v Praze. Po prožitém dětství na Žižkově se s rodinou odstěhovala na Jižní Město, kde se jí narodily dvě dcery. Stála u  zrodu mateřského centra, které více než rok vedla. V roce 2003 se odstěhovala na Prahu 1, kde žije dodnes. 
 
 “Ráda se procházím Prahou, zahrádkařím v Kobylisích a zacvičím si chikung. 

@@ -15,6 +15,8 @@ profiles:
   facebook: https://www.facebook.com/profile.php?id=100005635390577
 ---
 
+Učitel ZŠ, místopředseda a lídr Pirátů Prahy 1
+
 Absolvoval Pedagogickou fakultu se specializací na 1. stupeň ZŠ. Už v průběhu studia jej oslovilo dílo J. A. Komenského, kterého považuje za největšího ducha evropské filosofie.
 V současnosti učí na Základní škole Na Chodovci v Praze 4.
 
