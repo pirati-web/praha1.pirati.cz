@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "~>5.0.0"
+gem "jekyll-theme-pirati", "6.1.2"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -29,6 +29,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
+  gem 'jekyll-environment-variables'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -44,3 +45,7 @@ gem "image_optim_bin" # Optional
 gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
+
+group :development, :test do
+  gem "html-proofer"
+end

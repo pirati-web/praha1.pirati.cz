@@ -10,12 +10,34 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
+  - link: /
+    name: Úvod
+    class: hide-for-medium
   - link: /aktuality/
     name: Aktuality
     match: aktuality
   - link: /clenove/
     name: Naši členové
     match: clenove
+  - link: /podporte-nas/
+    name: Podpořte nás
+        
+  #- link: /komunalni-volby-2018/
+  #  name: Komunální volby 2018
+  #  match: komunalni-volby-2018
+  #  submenu:
+  #    - link: /komunalni-volby-2018/
+  #      name: Radnice
+  #      match: komunalni-volby-2018
+  #    - link: /komunalni-volby-2018/mo-i/
+  #      name: MO I
+  #      match: mo-i
+  #    - link: /komunalni-volby-2018/mo-ii/
+  #      name: MO II
+  #      match: mo-ii        
+  #    - link: /komunalni-volby-2018/mo-v/
+  #      name: MO V
+  #      match: mo-v
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -24,21 +46,21 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /pripoj-se/
+      - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+      - link: /clenove/
+        name: Členové
+      - link: /komunalni-volby-2018/
+        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
-      - link: https://ib.fio.cz/ib/transparent?a=2001084292
+      - link: https://ucet.pirati.cz
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv

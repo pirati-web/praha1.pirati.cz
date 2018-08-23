@@ -1,171 +1,243 @@
-# example.pirati.cz
+# pardubice.pirati.cz
 
-Tento web slouží jako výchozí stanice pro tvorbu dalších webu. Ať už regionálních nebo specializovaných celostátních.
-Nebojte se cokoliv přiohnout, koukejte se do dalšich pirátských webů o featurach které se vám líbí a přidejte si je do svého.
+[![Build Status](https://travis-ci.org/pirati-web/pardubice.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pardubice.pirati.cz)
+
+Web Pardubické pirátské buňky.
 
 ## Obsah
+- [pardubice.pirati.cz](#pardubicepiraticz)
+    - [Obsah](#obsah)
+    - [Instalace](#instalace)
+        - [Varianta 1 - Docker](#varianta-1---docker)
+        - [Varianta 2 - Přímé spuštění](#varianta-2---pime-sputni)
+            - [Fedora 25](#fedora-25)
+                - [Instalace závislostí](#instalace-zavislosti)
+            - [Ubuntu 16.04](#ubuntu-1604)
+                - [Instalace závislostí](#instalace-zavislosti)
+            - [macOS](#macos)
+                - [Instalace závislostí](#instalace-zavislosti)
+                - [Další postup](#dali-postup)
+    - [Spuštění](#sputni)
+        - [Docker](#docker)
+            - [Unix-based OS](#unix-based-os)
+            - [Windows](#windows)
+        - [Přímé spuštění](#pime-sputni)
+    - [Adresářová struktura](#adresaova-struktura)
+    - [Jak to celé funguje?](#jak-to-cele-funguje)
+    - [Deployment](#deployment)
+    - [Jak přispívat](#jak-pispivat)
+        - [Git](#git)
+        - [Správný commit](#spravn-commit)
+        - [Pull requesty](#pull-requesty)
 
-- [Úvod](#intro)
-- [Lokální spuštění](#install)
-- [Souborová struktura](#file-structure)
-- [Jednoduchá změna pomocí GitHub](#bfu-github)
-- [Složitější změny](#development)
-- [Vytvoření regionálního webu](#forking)
-- [Získání pomoci](#getting-help)
 
-## Úvod
+## Instalace
 
-Pirátská strana má své weby pro veřejnost statické a umístěné na vlastním serveru. 
+Existují dvě formy instalace, jednodušší je použití Docker engine, které funguje
+všude. Web lze spustit i přímo bez Dockeru, ale v tom případě je vyžadován
+Unix-based OS.
 
-Samotné texty a data jsou umístěné v GIT repozitářích jako je tento. Repozitář je taková
-chytrá složka souborů. Chytrá je v tom, že si pamatuje veškerou historii umožňuje více
-lidem pracovat zároveň a slučovat jejich práci. 
+### Varianta 1 - Docker
 
-Repozitáře si můžete stáhnout (clone) na svůj počítač nebo k němu přistupovat pomocí githubu.
-Z githubu se repozitář stahuje na naše servery.
+Jediné co je potřeba nainstalovat je  Docker engine pro vaši platformu [na
+oficiálním webu](https://docs.docker.com/install/). Docker engine funguje na
+všech postatných platformách (Linux, macOS, Windows).
 
-Když dojde ke změně dat tak se na naších serverech repozitář zkompiluje. K tomu se používá Jekyll,
-ten vezme soubory z aktulání verze repozitáře, přidá k nim soubory z 
-[jekyll-theme-pirati](https://github.com/pirati-web/jekyll-theme-pirati) a vyrobí z nich samotné
-html & css, které pak čte webový prohlížeč.
+### Varianta 2 - Přímé spuštění
 
-## Lokální spuštění
+Vyžaduje Unix-based OS.
 
-Instalace na Fedora 25:
+#### Fedora 25
+
+##### Instalace závislostí
+
 ```
-sudo dnf group install "C Development Tools and Libraries"
-sudo dnf install ruby-devel
-sudo dnf install rubygem-jekyll
+dnf install rubygem-jekyll
 ```
 
-Instalace Ubuntu 16.04:
+#### Ubuntu 16.04
+
+##### Instalace závislostí
 
 ```
-sudo apt-get install ruby-dev gcc make libghc-zlib-dev
+sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev
 gem install rubygems-update
 gem install jekyll bundler
 bundle
+npm install
+```
+#### macOS
+
+
+
+##### Instalace závislostí
+
+```
+brew install rbenv
+rbenv init
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 ```
 
-Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
+##### Další postup
 
-Po stažení nové verze může být potřeba:
-`bundle install --path vendor/bundle`
+Znovu spustit Terminál. V repository adresáři pak spustit:
 
-Spustění je pomocí
-`jekyll serve --watch --livereload`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+```
+rbenv install 2.3.0-dev
+rbenv local
+gem install rubygems-update
+gem install jekyll bundler
+bundle
+npm install
+```
 
-Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+## Spuštění
 
-## Souborová struktura
+### Docker
 
-### Pomocné soubory
-* `Gemfile` se soubor "knihoven" které potřebuje Jekyll, nastavit v něm můžete např verzi thema které použijete. `Gemfile.lock` je pomocný soubor pro stejnou věc.
-* `_config.yml` slouží jako hlavní návod pro Jekyll jak překládat, vyplňuji se v něm důležité texty a odkazy a taky nastavují některé parametry thema
-* `Dockerfile` a `docker-compose.yml` slouží k lokálnímu spuštění webu.
-* `README.md` je tento text.
-* `_site` a `vendor` jsou složky viditelné jen při lokálním spuštení. V `_site` jsou výsledné html stránky. V `vendor` jsou uložené "knihovny".
+#### Unix-based OS
 
-### Data
-* V `assets` budete použítat primárně složku `img` kam patří fotky a obrázky.
-* `_posts`, `_people`, `_program` obsahují soubory s články, lidmi a programovými body. Soubory jsou vždy ve formátu markdown a na vrhchu mají `yml` hlavičku která je ohraničená `---`.
-* Složka `_data` obsahuje soubory které jsou pouze tou hlavičkou. Kromě `yml` mohou obsahovat i `json`.  V `_data/menu.yml` se nastavují odkazy v horní liště, menu i na spodu stránky.
+Otevřít terminal v adresáři webu a spustit:
 
-### Webové stránky
-Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
-* `index.html` popisuje titulní stránky
-* v dalších složkách jako je např `kontakt` nebo `lide` najdeme popis stránek, které budou na *example.pirati.cz/kontakt/* resp *example.pirati.cz/lide/* krom indexu tam lze přidávat další stránky pokud např v `komunalni-volby` přidáte soubor `harmonogram.md` ve správném formátu, tak vyrobíte stránku *example.pirati.cz/komunalni-volby/harmonogram.html*
+```
+docker-compose up
+```
 
-## Jednoduchá změna pomocí GitHub
+#### Windows
 
-Rozlišujeme dva typy uživatelů. 
-Prvními jsou lidé pouze zaregistrovaný na githubu může navrhnout změnu kdekoliv.
-Druhými jsou správci (collaborants) ti můžou rovnou přispívat a schvalovat změny.
+Otevřete
+[PowerShell](https://365tipu.cz/2015/08/12/k-cemu-je-ve-windows-powershell-a-kde-ho-tam-najdu/)
+v adresáři webu a postupně zadejte následující příkazy:
 
-Pro jednoduché weby doporučujeme mít pouze dva správce,
-jednoho 'editora' který na web dáva články informace a na začátku ho plnil a druhého
-technicky zdatného, který řeší problémy a dělat velké změny. Ostatní přispěvatelé 
-mohou navrhovat změny.
+```
+$Env:COMPOSE_CONVERT_WINDOWS_PATHS=1
+docker-compose up
+```
 
-### Registrace na Githubu
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
 
-Registrujte se [tady](https://github.com/join?source=header-home)
-jako username doporučuji zvolit reálné jméno a přidat i fotku. Usnadníte tím práci editorům a celkovou spolupráci pirátu na webech.
+**Poznámka:** Je pravděpodobné, že Windows po vás budou chtít heslo k PC.
 
-### Drobná změna
+### Přímé spuštění
 
-Jako je např. oprava gramatické chyby nebo přidání telefoního čísla.
+Otevřít terminal v adresáři webu a spustit:
 
-Najděte si daný soubor. Vpravo nahoře obsahu toho souboru je symbol tužky. Kliknětě a navrhněte změny. Pokud není naprosto jasné co děláte tak do commit message dole připište zdůvodnění. Dejte navrhnout úpravy a pak schválit merge request. Tj. je třeba kliknout dvakrát.
+```
+npm start
+```
 
-Existuje ještě elegantní trik jak se dostat k editaci: přímo na samotném webu najít vpravo dole tlačítko navrhnout změnu.
+Web pak běží na [http://localhost:4000](http://localhost:4000/).
 
-### Přidání textového souboru
+## Adresářová struktura
 
-Na githubu najeďte do složky, kam chcete soubor přidat, a klidněte na "create new file". Doporučuji si zároveň otevřít jiný soubor z dané složky, ať z něj můžete zkopírovat strukturu a vyměnit jenom data.
+```
+├── _config.yml                     - konfigurační soubor
+├── _data                           - yaml soubory nahrazující DB
+├── _includes                       - html snippety (hlavička, patička, ...)
+│   ├── footer.html                     -- patička stránky
+│   ├── header.html                     -- hlavička stránky
+│   └── head.html                       -- meta hlavička stránky
+├── _layouts                        - šablony jednotlivých typů stránek
+│   ├── blank.html                      -- zcela prázdná stránka
+│   ├── compress.html                   -- layout, který komprimuje obsah
+│   ├── default.html                    -- výchozí layout (použitelný pro většinu stránek)
+│   ├── page.html                       -- běžná stránka, rozšiřuje default.html
+│   └── post.html                       -- layout pro článek
+├── _people                         - vlastní kolekce obsahující stránky jednotlivých osob
+│   ├── osoba.md
+│   └── ...
+├── _posts                          - příspěvky v markdownu
+├── _sass                           - SASS styly (konvertované do css)
+│   ├── components                  - styly pro jednotlivé komponentové styly (footer, header, program, ...)
+│   ├── objects                     - styly pro objekty
+│   ├── utilities
+│   ├── vendor                      - styly používaných knihoven (foundation, jquery-ui, ...)
+│   ├── _base.scss                  - sem lze dát co jinam nepatří
+│   └── _settings.scss              - konfigurace Foundation css
+│
+├── _site                           - vygenerovaná stránka
+├── assets                          - přílohy (obrázky, pdf etc.)
+│   └── img
+├── aktuality                       - hlavní stránka aktuality
+│   └── index.html
+├── clenove                         - hlavní stránka seznamu členů
+│   └── index.html
+├── komunalni-volby-2018
+│   ├── index.html                  - hlavní stránka a rozcestník pro komunální volby
+│   ├── obvod-pardubice-i.html          -- stránky jednotlivých obvodů
+│   └── obvod-pardubice-ii.html
+├── kontakt
+│   └── index.html                  - hlavní stránka kontakt
+├── pripoj-se
+│   └── index.html                  - hlavní stránka pro engagement
+└── index.html                      - úvodní stránka / homepage
+```
 
-### Přidání fotky
+## Jak to celé funguje?
 
-Fotky může přidávat pouze 'editor'.
+Výsledný web je staticky vygenerovaný za použití [Jekyllu](http://jekyllrb.com/). Během buildu (lokálního, nebo produkčního) se provede následující:
 
-### Schválení změny
+1. Kompilace JS dependencies (jQuery, jQuery UI)
+2. Agregace CSS dependencies (Foundation, FontAwesome, jQuery UI)
+3. Vyčištění cachí (`.jekyll-cache`)
+4. Vyčištění `_site` adresáře
+5. Spuštění Jekyll build commandu: `bundle exec jekyll build`
 
-Na hlavní stránce nahoře je pole "merge request" - tam se nachází seznam návrhů. Projděte si je, rozklikejte je a po kontrole můžete kliknout na "merge pull request" a následně "confirm merge".
+Produkční build má navíc ještě jeden krok,
+[htmlproofer](https://github.com/gjtorikian/html-proofer), který ověří, že
+všechny linky někam vedou.
 
-### Kontrola
+## Deployment
 
-Pokud děláte změny takto přes github, může dojít k chybě, které si hned nevšimnete. Proto je po změně potřeba zkontrolovat, že se vše povedlo. Nicméně buťte trpěliví, může trvat až pět minut než se změna projeví. Existují tři typy chyb:
+Deployment momentálně funguje automaticky za použití Travis CI. Používají se
+dvě branche:
 
-- První je, že se něco viditelně rozbije - například zmizí kus textu a vy vidíte jen "tel" a za tím nic
-- Druhý je, že se něco rozbije natolik, že web ani nejde přeložit. V tom případě zůstane ve staré verzi a vy nevidíte žádnou změnu.
-- Třetí a nejhorší je, že nahrajete něco, co byste na pirati.cz vůbec neměli nahrávat. Tomu zabráníte jedině tak, že pečlivě kontrolujete commity a nepustíte dál žadnou změnu, které nerozumíte.
+- **master**: obsahuje testovací verzi webu
+- **production**: obsahuje ostrou verzi webu
 
-To, že něco pokazíte se může stát každému. Důležité je nebát si říct o pomoc a chybu napravit.
+K nasazení dojde automaticky při pushi do jedné ze dvou větví. Potom automaticky
+dojde k produkčnímu buildu a výsledek je pushnut na server pomocí `rsync`. Stav
+builu lze sledovat v
+[Travisu](https://travis-ci.org/pirati-web/pardubice.pirati.cz).
 
-## Složitější změny
+## Jak přispívat
 
-Tento web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi. Verze se nastavuje v `Gemfile` a je zmíněna i v `assets` části `_config.yml`.
+Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze
+statických [šablonovaných (Liquid)](https://shopify.github.io/liquid/) stránek.
+Díky tomu je vše velmi jednoduché:
 
-Pokud chcete zasahovat do JS nebo CSS tak si přečtete [dokumentaci thema](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/development.md)
+- články jsou markdown soubory v adresaři `_posts`
+- profily lidí z týmu jsou markdown soubory v adresaři `_pepople`
+- programové body lze upravovat v `_program`
+- stránky jsou klasické html soubory (mohou být i markdown)
 
-## Vytvoření regionálního webu
+### Git
 
-Pokud byste tuto šablonu chtěli využít pro tvorbu webu svého místního sdružení, změňte následující:
+Pro publikaci změn se používá Git. Ten rozděluje "změny" na tzv. commity.
 
-- v souboru `_config.yml` změňte hodnoty v horní části (title, description, url) a odkazy pod tím
-- v adresáři `_people` odstraňte naše lidi a místo toho založte vlastní
-- v adresáři `assets/img/people` dejte fotky vašich lidí
-- v adresáři `_posts` odstraňte vzorový blogový příspěvek a dejte vlastní
-- v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
-- v souboru `kontakty/index.md` upravte doporučené kontakty, zároveň u jednoho člověka v people vyplňte `category` `kontaktni_osoba`
-- v souboru `lide/index.html` upravte text a obsah stránky `O nas`
+Rychlé intro do Gitu lze najít [třeba tady](http://rogerdudler.github.io/git-guide/).
+Pro obsluhu Gitu na GitHubu je nejsnazší si stáhnout [GitHub
+Desktop](https://desktop.github.com/).
 
-### Titulní obrázek
+### Správný commit
 
-Přidejte široký webový a úzký mobilní obrázek a nastavte parametry v `_config.yml`
+Správný commit vždy:
 
-### Kontaky na PiCe
+- zachová funkčnost
+- dodává 1 funcionalitu (např. nové menu)
+- obsahuje popis z kterého je zřejmé, co mění (např.: *Rewrite main menu from Foundation 5 to Foundation 6*)
 
-V `_config.yml` vyplně adresu PiCe a obrázek. Následně v `kontakty/index.html` nastavte `residence: yes`.
+### Pull requesty
 
-### Více kandidátek
+Pro zasílání změn ke správci webu je nejlepší používat tzv. [pull
+requesty](https://help.github.com/articles/about-pull-requests/). Prvním krokem
+je vytvoření vlastního [forku](https://help.github.com/articles/fork-a-repo/), tam si změny provedete a následně uděláte **pull
+request**.
 
-To je trošku tricky nastavení, pro inspiraci se podívejte do `jekyll-theme-pirati`.
+Probíhá to tedy takto:
 
-### Kalednář
-
-Doporučujeme si zjisti googleapikey vašeho kaledáře a doplnit ho do `_config.yml`, pak bude kalendář v designu, který odpovída zbytku webu
-## Získání pomoci
-
-Projděte si [návod na git](http://www.kutac.cz/blog/pocitace-a-internety/git-tutorialy-a-navody/) nebo 
-[knížku v čestine](https://www.root.cz/knihy/pro-git/)
-
-Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
-
-Example web používá [jekyll-pirati-theme](https://github.com/jitka/jekyll-theme-pirati). Cokoliv z něj jde přepsat. Používejte co nejnovějši verzi.
-
-Technicky přesné dotazy můžete směřovat na TODO-issue-theme nebo [redmine](https://redmine.pirati.cz/projects/to/issues/new)
-
-Na cokoliv se zeptejte třeba na [chatu](https://chat.pirati.cz/channel/tech-weby)
-
-Ptejte se lidí okolo vás, kteří danou věc dělali, TO a dalších. Jak říkala moje prababička "Líná huba, holé neštěstí".
+1. Vytvoření vlastního forku
+2. Provedení změn v kódu.
+3. Vytvoření commitu. Kroky 2. a 3. mohou probíhat vícekrát.
+4. Po dokončení všech úprav vytvoření pull requestu.
+5. Pull request je schválen správce hlavního repository, tím jsou vaše změny provedeny.

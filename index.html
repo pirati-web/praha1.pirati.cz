@@ -1,15 +1,20 @@
 ---
 layout: default
-rbar: 
-   - fb
-   - calendar
+rbar:
+  - calendar
+  - fb
+description: >
+  Piráti od roku 2018 zakotvili i v Pardubicích. Prosazujeme transparentní
+  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Pardubice,
+  které jsou moderní, přátelské a především ochotné naslouchat svým občanům.
+  Sledujte co je nového a buďte u toho.
 ---
 
-{% include homepage/banner.html 
-   link='/komunalni-volby/'
+{% include homepage/banner.html
+   link='/komunalni-volby-2018/'
    title='Komunální volby 2018'
-   default='foto_P5_vsichni_sirsi.jpg'
-   mobile='foto_P5_vsichni_sirsi.jpg'
+   default='header/komunal-banner-large.png'
+   mobile='header/komunal-banner-small.png'
    breakpoint=640
 %}
 
@@ -18,7 +23,7 @@ rbar:
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
         <header class="o-section-header">
-          <h1 class="o-section__heading">Aktuální témata</h1>
+          <h1 class="o-section__heading t-h1-super">Aktuální témata</h1>
         </header>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}

@@ -1,89 +1,60 @@
 # Welcome to Jekyll!
 #
-title: Piráti Praha 1
-email: praha1@pirati.cz
-description: >- # this means to ignore newlines until "baseurl:"
-  Stránka místního sdružení Piráti Praha 1.
-keywords: piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 1, piráti na pětce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-organization:
-  name: Piráti Praha 1
-  shortName: Piráti Praha 1
-  contactUid: pavel.nazarsky
-  email: praha1@pirati.cz
-  phone: +420 
-  address: |
-    Řehořova 19
-    130 00 Praha 3
-  residenceImg:
-  mapLink: https://mapy.cz/s/2N7Yv
-  redmineLink: https://redmine.pirati.cz/projects
+# Site settings
+title: Piráti Praha 11 - Jižní město (Roztyly, Háje, Chodov, Litochleby, Opatov)
+email: praha11@pirati.cz
+description: Stránka místního sdružení Piráti Praha 11 na Jižním Městě (Roztyly, Háje, Chodov, Litochleby, Opatov)
+keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na jižáku, Jižní Město, Roztyly, Háje, Chodov, Litochleby, Opatov # dobré keywords jsou ty co 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha11.pirati.cz" # the base hostname & protocol for your site
 
-
-calendar:
-  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
-  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
-  title: "Celopražský kalendář"
-  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
-  
-facebook:
-  loadSDK: true
-  profilePage: https://www.facebook.com/PiratiP1/
-  appId: 1526197851008996
-
-twitter:
-  loadSDK: true
-  profile: piratipraha
-
-instagram:
-  profilePage: https://www.instagram.com/piratipraha11/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
-
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
-
-github:
-  url: https://github.com/pirati-web/praha11.pirati.cz/
-  branch: master
-
-############## SETTINGS ########
-github_username:  jekyll
+administrator:
+  email: jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
 theme: jekyll-theme-pirati
 
 sass:
   style: compressed
   sass_dir: _sass
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-pirati
+
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-environment-variables
+
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
 exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
   - readme.md
   - Gemfile
   - Gemfile.lock
   - vendor
 
-permalink: /aktuality/:title.html
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    root: /clenove/
+    permalink: /clenove/:path/
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /komunalni-volby-2018/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -95,17 +66,76 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: 
+      rbar:
         - foto
         - personContact
+        - people
+      keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: 
-         - garant
-         - program
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
+
+organization:
+  name: Česká pirátská strana - MS Praha 11
+  shortName: Piráti Praha 11
+  email: praha11@pirati.cz
+  contactUid: jiri.dohnal
+  phone: +420 608 770 778
+  address: |
+    Řehořova 19
+    130 00 Praha 3
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 11</a>
+
+calendar:
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  title: Nadcházející události
+  #id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  id: rf0um1k433bmqmmfq4m68hsmv4@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rf0um1k433bmqmmfq4m68hsmv4%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
+  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
+
+facebook:
+  profilePage: https://www.facebook.com/pirati11.cz/
+  loadSDK: true
+  appId: 1526197851008996
+
+twitter:
+  profile: piratipraha11
+  loadSDK: true
+
+instagram:
+  profilePage: https://www.instagram.com/piratipraha11/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+#forum:
+#  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/praha11.pirati.cz
+  branch: master
 
 emptyArray: []
 
@@ -125,12 +155,10 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.0.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.1.2/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
 
-administrator:
-  email: jan.suchanek@gmail.com
