@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Piráti Praha 11 - Jižní město (Roztyly, Háje, Chodov, Litochleby, Opatov)
+title: Piráti Praha 1
 email: praha11@pirati.cz
-description: Stránka místního sdružení Piráti Praha 11 na Jižním Městě (Roztyly, Háje, Chodov, Litochleby, Opatov)
-keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 11, piráti na jižáku, Jižní Město, Roztyly, Háje, Chodov, Litochleby, Opatov # dobré keywords jsou ty co 
+description: Stránka místního sdružení Piráti Praha 1 na Starém Měste v centru Prahy
+keywords: Piráti, Česká pirátská strana, svoboda, demokracie, Piráti Praha 1, piráti v centru Prahy # dobré keywords jsou ty co 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha11.pirati.cz" # the base hostname & protocol for your site
+url: "https://praha1.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
@@ -82,10 +82,10 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Česká pirátská strana - MS Praha 11
-  shortName: Piráti Praha 11
-  email: praha11@pirati.cz
-  contactUid: jiri.dohnal
+  name: Česká pirátská strana - MS Praha 1
+  shortName: Piráti Praha 1
+  email: praha1@pirati.cz
+  contactUid: pavel.nazarsky
   phone: +420 608 770 778
   address: |
     Řehořova 19
@@ -105,7 +105,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková stránka
-    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 11</a>
+    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 1</a>
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
@@ -155,10 +155,9 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.1.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.7.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
-
