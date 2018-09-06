@@ -19,6 +19,9 @@ main:
   - link: /clenove/
     name: Naši členové
     match: clenove
+  - link: /komunalni-volby-2018/
+    name: Volby 2018
+    match: komunalni-volby-2018
   - link: /podporte-nas/
     name: Podpořte nás
         
