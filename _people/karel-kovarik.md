@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: ekonom, právník
-#img: people/06-karel-kovarik.jpg
+img: people/06-karel-kovarik.jpg
 age: 
 mail:
   - karel.kovarik@pirati.cz
