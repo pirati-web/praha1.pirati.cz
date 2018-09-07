@@ -25,7 +25,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: architekt 
     age: 51 let
     party: Piráti
-  - uid: karel.kovarik  
+  - uid: karel.kovarik
     profession: ekonom, právník 
     age: 58 let
     party: Piráti
