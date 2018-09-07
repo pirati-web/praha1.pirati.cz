@@ -3,125 +3,109 @@ title: Kandidátka
 uid: magistrat
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: 1.jiri.dohnal
-  age: 40
-  profession: Projektový manažer
+  uid: pavel.nazarsky
+  age: 56 let
+  profession: Učitel ZŠ, místopředseda a lídr Pirátů Prahy 1
   party: Piráti
-  description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
+  #description: 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: 2.zuzana.ujhelyiova
-    profession: Teoložka
-    age: 35
+  - uid: david.bodecek
+    profession: pedagog, procesní analytik 
+    age: 38 let
     party: Piráti
-  - uid: 3.duska.martin
-    age: 26
-    profession: Politolog
-    party: Piráti  
-  - uid: 4.ladislav.kos
-    age: 32
-    profession: Konzultatnt online marketingu
+  - uid: jitka.nazarska 
+    profession: učitelka MŠ 
+    age: 48 let
     party: Piráti
-  - uid: 5.michal.kovarik
-    age: 30
-    profession: Nakladatelský pracovník, publicista
-    party: Piráti  
-  - uid: 6.josef.kocourek
-    age: 54
-    profession: Provozní dispečer
+  - uid: olga.sklenarova
+    profession: učitelka IT na ZŠ a SŠ 
+    age: 49 let
     party: Piráti
-  - uid: 7.jan.mejsnar
-    age: 33
-    profession: Meteorolog, vědecký pracovník
+  - name: tomas.vich
+    profession: architekt 
+    age: 51 let
     party: Piráti
-  - uid: 8.zuzana.boehmova
-    age: 28
-    profession: Učitelka
-    party: Piráti    
-  - uid: 9.martin.muzikant
-    age: 47 
-    profession: Manažer kvality
-    party: Piráti 
-  - uid: 10.michal.veselsky
-    profession: Výzkumný pracovník, šachista a koloběžkář
-    age: 38
-  - uid: 11.milan.minarik
-    age: 34
-    profession: Manažer
-    party: Piráti 
-  - uid: 12.jan.suchanek
-    age: 42
-    profession: Webmaster
-    party: BEZPP
-  - uid: 13.michaela.polakova
-    age: 44
-    profession: Stavební inženýrka
-    party: BEZPP
-  - uid: martin.petrtyl
-    age: 41
-    profession: Fundraiser
-    party: BEZPP    
-  - uid: martina.parikova
-    age: 33
-    profession: Software engineer
-    party: BEZPP    
-  - uid: lada.pexova
-    age: 28
-    profession: Studentka MFF Univerzity Karlovy
-    party: BEZPP        
-tail:   
-  - name: Mgr. Pavel Nazarský
-    #age: 32  
-    profession: učitel ZŠ
-    #party: BEZPP     
-  - name: Mgr. David Bodeček
-    profession: pedagog, procesní analytik
-  - name: Jitka Nazarská
-    profession: učitelka MŠ
-  - name: PhDr. Olga Sklenářová
-    profession: učitelka IT na ZŠ a SŠ
-  - name: Ing. Arch. Tomáš Vích
-    profession: architekt
-  - name: Ing. Karel Kovařík
-    profession: ekonom, právník
-  - name: Jaroslava Nárožná
-    profession: herečka Divadélko Romaneto
-  - name: RNDr. Tomáš Raiter
-    profession: ešitel projektu kvalita očima pacientů
-  - name: Bc. Adam Kheil
-    profession: IT manažer
-  - name: Ing. Michal Štěpán
-    profession: inženýr
-  - name: Kristýna Kohoutová
-    profession: student
-  - name: Jan Hřebíček
-    profession: ředitel zájezdy.cz
-  - name: Ing. Ilja Holub, Ph.D.
-    profession: IT consultant
-  - name: Nikol Švecová, DiS
-    profession: sociální pracovník
-  - name: JUDr. Michaela Šubrtová
-    profession: advokát
-  - name: Jakub Fišer
-    profession: vedoucí pracovník v soc. službách
-  - name: Ing. Pavel Mánek
-    profession: analytik
-  - name: Petra Lifartová
-    profession: policie ČR
-  - name: Akad. Arch. Alexander Mandič
-    profession: architekt
-  - name: Mgr. Jana Machálková
-    profession: OSVČ
-  - name: Čestmír Hrbáček
-    profession: bankovní úředník
-  - name: Jitka Štětková
-    profession: správkyně depozitáře
-  - name: MUDr. Miroslav Hanák
-    profession: lékař
-  - name: Martin Kocourek
-    profession: jevištní mistr
-  - name: Alžběta Šarochová
-    profession: mateřská dovolená
-
+  - uid: karel.kovarik  
+    profession: ekonom, právník 
+    age: 58 let
+    party: Piráti
+  - uid: jaroslava.narozna
+    profession: herečka Divadélko Romaneto 
+    age: 55 let
+    party: Piráti
+  - uid: tomas.raiter  
+    profession: řešitel projektu kvalita očima pacientů 
+    age: 56 let
+    party: Piráti
+  - uid: adam.kheil  
+    profession: IT manažer 
+    age: 25 let
+    party: Piráti
+  - uid: michal.stepan  
+    profession: inženýr 
+    age: 53 let
+    party: Piráti
+  - name: kristyna.kohoutova  
+    profession: student 
+    age: 21 let
+    party: Piráti        
+tail:       
+  - name: Jan Hřebíček  
+    profession: ředitel zájezdy.cz 
+    age: 49 let
+    party: Piráti
+  - name: Ing. Ilja Holub, Ph.D.  
+    profession: IT consultant 
+    age: 47 let
+    party: Piráti
+  - name: Nikol Švecová, DiS  
+    profession: sociální pracovník 
+    age: 31 let
+    party: Piráti
+  - name: JUDr. Michaela Šubrtová  
+    profession: advokát 
+    age: 40 let
+    party: Piráti
+  - name: Jakub Fišer  
+    profession: vedoucí pracovník v soc. službách 
+    age: 29 let
+    party: Piráti
+  - name: Ing. Pavel Mánek  
+    profession: analytik 
+    age: 58 let
+    party: Piráti
+  - name: Petra Lifartová  
+    profession: policie ČR 
+    age: 47 let
+    party: Piráti
+  - name: Akad. Arch. Alexander Mandič  
+    profession: architekt 
+    age: 75 let
+    party: Piráti
+  - name: Mgr. Jana Machálková  
+    profession: OSVČ 
+    age: 38 let
+    party: Piráti
+  - name: Čestmír Hrbáček  
+    profession: bankovní úředník 
+    age: 47 let
+    party: Piráti
+  - name: Jitka Štětková  
+    profession: správkyně depozitáře 
+    age: 64 let
+    party: Piráti
+  - name: MUDr. Miroslav Hahák  
+    profession: lékař 
+    age: 61 let
+    party: Piráti
+  - name: Martin Kocourek  
+    profession: jevištní mistr 
+    age: 40 let
+    party: Piráti
+  - name: Alžběta Šarochová  
+    profession: mateřská dovolená 
+    age: 27 let
+    party: Piráti
  
 note: # poznámka pod kanidátku
 ---
