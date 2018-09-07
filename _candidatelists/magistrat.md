@@ -21,7 +21,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: učitelka IT na ZŠ a SŠ 
     age: 49 let
     party: Piráti
-  - name: tomas.vich
+  - uid: tomas.vich
     profession: architekt 
     age: 51 let
     party: Piráti
