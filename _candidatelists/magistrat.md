@@ -40,16 +40,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: adam.kheil  
     profession: IT manažer 
     age: 25 let
-    party: Piráti
-  - uid: michal.stepan  
+    party: Piráti       
+tail: 
+  - name: Michal Stepan  
     profession: inženýr 
     age: 53 let
     party: Piráti
-  - name: kristyna.kohoutova  
+  - name: Kristyna Kohoutova  
     profession: student 
     age: 21 let
-    party: Piráti        
-tail:       
+    party: Piráti       
   - name: Jan Hřebíček  
     profession: ředitel zájezdy.cz 
     age: 49 let
