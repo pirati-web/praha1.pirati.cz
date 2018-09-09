@@ -7,15 +7,13 @@ category:
   - kandidat-obec
 description: řešitel projektu kvalita očima pacientů
 img: people/08-tomas-raiter.jpg
-age: 55 let
+age: 56
 mail:
   - tomas.raiter@pirati.cz
  
 profiles:
-  #facebook: 
+  facebook: 
 ---
-
-
 
 
 ---
