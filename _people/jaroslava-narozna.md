@@ -1,5 +1,5 @@
 ---
-uid: jitka.narozna
+uid: jaroslava.narozna
 name:     Jaroslava Nárožná
 fullname: Jaroslava Nárožná
 category:
