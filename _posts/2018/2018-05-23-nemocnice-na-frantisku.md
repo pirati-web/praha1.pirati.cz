@@ -4,8 +4,8 @@ category: blog
 #tags: majetek pošta
 layout: post
 title: Nemocnice na Františku
-author: Jitka Nazarská
-authorId: jitka.nazarska
+author: Pavel Nazarský
+authorId: pavel.nazarsky
 image: articles/2018/2018-05-23-nemocnice-na-frantisku.jpg
 ---
 

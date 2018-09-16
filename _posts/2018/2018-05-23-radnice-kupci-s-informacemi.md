@@ -4,8 +4,8 @@ category: blog
 #tags: majetek pošta
 layout: post
 title: Radnice Prahy 1 kupčí s informacemi a porušuje zákon
-author: Jitka Nazarská
-authorId: jitka.nazarska
+author: Adam Zábranský
+authorId: adam.zabransky
 image: articles/2018/2018-05-23-radnice-kupci-s-informacemi.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 uid: zdravotnictvi
-garant: 1.jiri.dohnal
+garant: 
 title: Zdravotnictví, bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

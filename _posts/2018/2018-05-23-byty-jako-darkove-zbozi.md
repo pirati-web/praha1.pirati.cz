@@ -1,11 +1,11 @@
 ---
-date: 2018-05-23
+date: 2018-08-20
 category: blog
 #tags: majetek pošta
 layout: post
 title: Byty jako dárkové zboží pro členy Top 09
-author: Jitka Nazarská
-authorId: jitka.nazarska
+author: David Bodeček
+authorId: david.bodecek
 image: articles/2018/2018-05-23-byty-jako-darkove-zbozi.jpg
 ---
 

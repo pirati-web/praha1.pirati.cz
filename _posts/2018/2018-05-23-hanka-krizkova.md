@@ -1,11 +1,11 @@
 ---
-date: 2018-05-23
+date: 2018-09-10
 category: blog
 #tags: majetek pošta
 layout: post
 title: Hanka věří Pirátům
 author: Jitka Nazarská
-authorId: jitka.nazarska
+authorId: david.bodecek
 image: articles/2018/2018-05-23-hanka-krizkova.jpg
 ---
 
