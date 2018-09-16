@@ -1,11 +1,11 @@
-# pardubice.pirati.cz
+# praha1.pirati.cz
 
-[![Build Status](https://travis-ci.org/pirati-web/pardubice.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pardubice.pirati.cz)
+[![Build Status](https://travis-ci.org/pirati-web/praha1.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/praha1.pirati.cz)
 
-Web Pardubické pirátské buňky.
+Web Prahy 1 - pirátské buňky.
 
 ## Obsah
-- [pardubice.pirati.cz](#pardubicepiraticz)
+- [praha1.pirati.cz](#praha1piraticz)
     - [Obsah](#obsah)
     - [Instalace](#instalace)
         - [Varianta 1 - Docker](#varianta-1---docker)
@@ -164,8 +164,7 @@ Web pak běží na [http://localhost:4000](http://localhost:4000/).
 │   └── index.html
 ├── komunalni-volby-2018
 │   ├── index.html                  - hlavní stránka a rozcestník pro komunální volby
-│   ├── obvod-pardubice-i.html          -- stránky jednotlivých obvodů
-│   └── obvod-pardubice-ii.html
+
 ├── kontakt
 │   └── index.html                  - hlavní stránka kontakt
 ├── pripoj-se
@@ -198,7 +197,7 @@ dvě branche:
 K nasazení dojde automaticky při pushi do jedné ze dvou větví. Potom automaticky
 dojde k produkčnímu buildu a výsledek je pushnut na server pomocí `rsync`. Stav
 builu lze sledovat v
-[Travisu](https://travis-ci.org/pirati-web/pardubice.pirati.cz).
+[Travisu](https://travis-ci.org/pirati-web/praha1.pirati.cz).
 
 ## Jak přispívat
 
