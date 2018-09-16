@@ -5,8 +5,8 @@ title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/otevrena-radnice.png
-perex:  
-description: 
+perex: Spustíme agendu občanských podnětů.  Otevřeme komise i výbory. Ankety a dotazníky nám umožní analyzovat skutečné potřeby občanů města. Budeme pořádat veřejné besedy za účasti odborné i laické veřejnosti. Posuneme interpelace na vhodnější hodinu. Jednání zastupitelstva budou pro veřejnost natáčena. Zavedeme participativní rozpočet.  Zkvalitníme informační portál a zřídíme informační, poradenské a kontaktní místo. Zpřístupníme data veřejnosti.  Zavedeme rozklikávací rozpočet a transparentní účetnictví. Veřejné peníze poskytneme jen průhledným subjektům. Prosazujeme osobní odpovědnost úředníků i politiků.  
+description: Spustíme agendu občanských podnětů.  Otevřeme komise i výbory. Ankety a dotazníky nám umožní analyzovat skutečné potřeby občanů města. Budeme pořádat veřejné besedy za účasti odborné i laické veřejnosti. Posuneme interpelace na vhodnější hodinu. Jednání zastupitelstva budou pro veřejnost natáčena. Zavedeme participativní rozpočet.  Zkvalitníme informační portál a zřídíme informační, poradenské a kontaktní místo. Zpřístupníme data veřejnosti.  Zavedeme rozklikávací rozpočet a transparentní účetnictví. Veřejné peníze poskytneme jen průhledným subjektům. Prosazujeme osobní odpovědnost úředníků i politiků. 
 keywords: radnice
 order: 1
 ---
