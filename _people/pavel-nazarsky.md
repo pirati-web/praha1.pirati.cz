@@ -1,11 +1,11 @@
 ---
 uid: pavel.nazarsky
 name:     Pavel Nazarský
-fullname: Pavel Nazarský
+fullname: Nazarský Pavel Mgr.
 category:
   - clenove
   - kandidat-obec
-description: Učitel ZŠ, místopředseda a lídr Pirátů Prahy 1
+description: Učitel 1. st. ZŠ, místopředseda a lídr Pirátů Prahy 1
 img: people/01-pavel-nazarsky.jpg
 age: 56
 mail:
