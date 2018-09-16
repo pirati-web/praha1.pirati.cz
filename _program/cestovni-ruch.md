@@ -1,5 +1,5 @@
 ---
-uid: radnice
+uid: cestovni-ruch
 garant: adam.kheil
 title: Cestovní ruch
 campaignCategoryUid: magistrat
