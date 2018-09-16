@@ -4,7 +4,7 @@ garant: tomas.vich
 title: Životní prostředí
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/zivotni-prostredi.jpg
 perex: 
 description: 
 order: 6

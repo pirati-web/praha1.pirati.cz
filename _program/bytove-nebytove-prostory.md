@@ -4,7 +4,7 @@ garant: tomas.vich
 title: Bytové a nebytové prostory, majetek
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/bytove-a-nebytove-prostory.png
 perex: 
 description: 
 keywords: radnice

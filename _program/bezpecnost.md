@@ -4,7 +4,7 @@ garant: tomas.vich
 title: Bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/bezpecnost-a-poradek.png
 perex: 
 description: 
 keywords: radnice

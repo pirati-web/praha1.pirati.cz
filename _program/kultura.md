@@ -4,7 +4,7 @@ garant: jaroslava.narozna
 title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/kultura-verejneho-prostoru.jpg
 perex: 
 description: 
 keywords: kultura

@@ -4,7 +4,7 @@ garant: pavel.nazarsky
 title: Otevřená radnice v moderním městě
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/otevrena-radnice.png
 perex:  
 description: 
 keywords: radnice

@@ -4,7 +4,7 @@ garant:
 title: Zdravotnictví, bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/zdravotni-a-socialni-pece.jpg
 perex: 
 description: 
 keywords: radnice

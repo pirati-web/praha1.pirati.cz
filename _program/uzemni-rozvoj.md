@@ -4,7 +4,7 @@ garant: tomas.vich
 title: Územní rozvoj, bydlení
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/uzemni-planovani.jpg
 perex: 
 description: 
 keywords: radnice

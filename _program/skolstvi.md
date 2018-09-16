@@ -4,7 +4,7 @@ garant: olga.sklenarova
 title: Školství
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/skolstvi-sport-a-volny-cas.jpg
 perex: 
 keywords: a kole
 order: 2

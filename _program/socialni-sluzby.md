@@ -4,7 +4,7 @@ garant: jitka.nazarska
 title: Sociální služby
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
-#img: miscellaneous/volebni-rozcestnik.png
+img: miscellaneous/karikatura-fotografka.png
 perex: 
 description: 
 keywords: sociální služby
