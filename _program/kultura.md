@@ -1,6 +1,6 @@
 ---
 uid: kultura
-garant: jitka.narozna
+garant: jaroslava.narozna
 title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
