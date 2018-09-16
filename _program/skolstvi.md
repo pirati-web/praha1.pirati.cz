@@ -7,7 +7,7 @@ campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
 perex: 
 keywords: a kole
-order: 1
+order: 2
 ---
 
 Více peněz na kvalitu vzdělání, méně na zbytečnosti. Inovativní vzdělávání do veřejných škol.

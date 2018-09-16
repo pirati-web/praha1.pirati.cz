@@ -1,5 +1,5 @@
 ---
-uid: uzemni-rozvoj
+uid: bytove-nebytove-prostory
 garant: tomas.vich
 title: Bytové a nebytové prostory, majetek
 campaignCategoryUid: magistrat

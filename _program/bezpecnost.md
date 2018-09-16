@@ -1,5 +1,5 @@
 ---
-uid: uzemni-rozvoj
+uid: bezpecnost
 garant: tomas.vich
 title: Bezpečnost
 campaignCategoryUid: magistrat
