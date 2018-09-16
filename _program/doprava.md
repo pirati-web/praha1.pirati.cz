@@ -5,7 +5,8 @@ title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/kultura-verejneho-prostoru.jpg
-perex: 
+perex: Území Prahy 1 má středověkou dispozici, a slibovat občanům, že se sem podaří “nacpat“ ještě více aut, je nezodpovědné. - Jsme pro urychlené dobudování Městského vnitřního okruhu a nutných návazných komunikací. Městský okruh je důležitým nástrojem pro omezení automobilové dopravy v centru města. Již dnes lze zvýšit plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy ­ zejména metra a tramvají.
+description: Území Prahy 1 má středověkou dispozici, a slibovat občanům, že se sem podaří “nacpat“ ještě více aut, je nezodpovědné. - Jsme pro urychlené dobudování Městského vnitřního okruhu a nutných návazných komunikací. Městský okruh je důležitým nástrojem pro omezení automobilové dopravy v centru města. Již dnes lze zvýšit plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy ­ zejména metra a tramvají.
 keywords: doprava, město, pěšky, mhd, autem, na kole
 order: 4
 ---
