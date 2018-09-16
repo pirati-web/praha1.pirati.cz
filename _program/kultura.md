@@ -5,8 +5,8 @@ title: Kultura, volný čas a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/kultura-verejneho-prostoru.jpg
-perex: 
-description: 
+perex: Podpoříme občany v pořádání kulturních a sousedských akcí. Chceme finančně podpořit smysluplné projekty, nabídnout vyšší granty neziskovým organizacím, sdružením i jednotlivcům. Podpoříme komunitní akce. Chceme občanům, spolkům a zájmovým skupinám poskytnout místa pro jejich setkávání a aktivity. Vhodné prostory nabídneme pro širší využití. Některé přímo zřídíme jako tzv. městské klubovny pro pravidelné i jednorázové akce.
+description: Podpoříme občany v pořádání kulturních a sousedských akcí. Chceme finančně podpořit smysluplné projekty, nabídnout vyšší granty neziskovým organizacím, sdružením i jednotlivcům. Podpoříme komunitní akce. Chceme občanům, spolkům a zájmovým skupinám poskytnout místa pro jejich setkávání a aktivity. Vhodné prostory nabídneme pro širší využití. Některé přímo zřídíme jako tzv. městské klubovny pro pravidelné i jednorázové akce.
 keywords: kultura
 order: 2
 ---

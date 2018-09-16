@@ -5,8 +5,8 @@ title: Životní prostředí
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/zivotni-prostredi.jpg
-perex: 
-description: 
+perex: Zajistíme kvalitní náhradní výsadbu za pokácené stromy. Vysadíme více stromů v pražských ulicích a propojíme parky u magistrály. Dotačně podpoříme zelené střechy a vertikální zahrady, zatravnění a květnaté pásy. Veřejný prostor obohatíme zřizováním pítek, fontán a kašen. Využijeme moderní technologie pro monitoring a informování o kvalitě ovzduší. Upřednostníme šetrné formy dopravy. V centru města vytvoříme klidové zóny. Budeme usilovat o omezení hluku a snížení světelného znečištění. Třídění odpadu považujeme za samozřejmost a má naši podporu. 
+description: Zajistíme kvalitní náhradní výsadbu za pokácené stromy. Vysadíme více stromů v pražských ulicích a propojíme parky u magistrály. Dotačně podpoříme zelené střechy a vertikální zahrady, zatravnění a květnaté pásy. Veřejný prostor obohatíme zřizováním pítek, fontán a kašen. Využijeme moderní technologie pro monitoring a informování o kvalitě ovzduší. Upřednostníme šetrné formy dopravy. V centru města vytvoříme klidové zóny. Budeme usilovat o omezení hluku a snížení světelného znečištění. Třídění odpadu považujeme za samozřejmost a má naši podporu. 
 order: 6
 ---
 

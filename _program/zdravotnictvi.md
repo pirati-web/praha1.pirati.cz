@@ -5,8 +5,8 @@ title: Zdravotnictví, bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/zdravotni-a-socialni-pece.jpg
-perex: 
-description: 
+perex: Dostupnější a dosažitelná běžná péče ­ zmapujeme momentální kapacitu zařízení pro udržení dostupnosti služeb. Podpoříme agentury domácí péče. Budeme apelovat a pomoci při vytváření bezbariérových prodejen, míst a vstupů pro usnadnění života obyvatelům Prahy 1. Podpoříme sociální podnikání. Dáme prostor chráněným kavárnám a dílnám pro jejich realizaci. Posílíme terénní sociální pracovníky a sociální kurátory Prahy 1. Budeme úzce spolupracovat s neziskovými organizacemi, s policií a Magistrátem hlavního města Prahy. Budeme řešit příčiny i důsledky bezdomovectví. Těm, kteří se na ulici ocitnou, nabídneme pomocnou ruku.
+description: Dostupnější a dosažitelná běžná péče ­ zmapujeme momentální kapacitu zařízení pro udržení dostupnosti služeb. Podpoříme agentury domácí péče. Budeme apelovat a pomoci při vytváření bezbariérových prodejen, míst a vstupů pro usnadnění života obyvatelům Prahy 1. Podpoříme sociální podnikání. Dáme prostor chráněným kavárnám a dílnám pro jejich realizaci. Posílíme terénní sociální pracovníky a sociální kurátory Prahy 1. Budeme úzce spolupracovat s neziskovými organizacemi, s policií a Magistrátem hlavního města Prahy. Budeme řešit příčiny i důsledky bezdomovectví. Těm, kteří se na ulici ocitnou, nabídneme pomocnou ruku.
 keywords: radnice
 order: 5
 ---
