@@ -30,9 +30,11 @@ description: >
   které je moderní, přátelská a především ochotná naslouchat svým občanům.
   Sledujte co je nového a buďte u toho.</p>
 
-<h2>Aktuální dění na Praze 1 a u Pirátů</h2>
-<iframe width="732" height="412" src="https://www.youtube.com/embed/w2QGlpIqQQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<h2>Aktuální dění na Praze 1 a u Pirátů</h2>
+<div style="max-height:412px ;max-width:732px">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/w2QGlpIqQQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
