@@ -15,3 +15,10 @@ Podpoříme občany v pořádání kulturních a sousedských akcí. Praha 1 pot
 
 - Podpoříme komunitní akce.
 - Chceme občanům, spolkům a zájmovým skupinám poskytnout místa pro jejich setkávání a aktivity. Vhodné prostory nabídneme pro širší využití. Některé přímo zřídíme jako tzv. městské klubovny pro pravidelné i jednorázové akce.
+
+## Kultura veřejného prostor
+
+Prostředí kultivuje. Architektura spočívá v civilizovaném naplňování potřeb činorodého ruchu města i potřeby zeleně, klidu, stínu a estetické kvality.
+
+- Zkulturníme veřejné prostory nejen kvalitním mobiliářem a soustavnou údržbou, ale také aktivním podílem na jeho celkovém zvelebování.
+- U stavební činnosti v památkové rezervaci dohlédneme na dodržování platných norem. V nově zastavovaných územích i ve stávající zástavbě je ostražitost namístě. S kvalitou stavby budeme sledovat i přínos městskému prostředí. Obecný zájem je pro nás rozhodujícím kritériem.
