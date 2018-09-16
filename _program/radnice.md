@@ -11,3 +11,45 @@ keywords: radnice
 order: 1
 ---
 
+## TRANSPARENTNOST - průhledné a veřejně přístupné jednání
+
+Jsme přesvědčeni, že právě transparentnost dokáže minimalizovat nebezpečí korupce a soustřeďování moci v úzké skupině vyvolených.
+
+Zpřístupníme data veřejnosti. Přehledy majetku, faktur, smluv včetně příloh, analýz a mnohé další dokumenty města budou na portálu otevřených dat.
+
+Zavedeme rozklikávací rozpočet a transparentní účetnictví.
+
+Veřejné peníze poskytneme jen průhledným subjektům. Grantové a výběrové komise obsadíme odborníky. Skončíme s praxí zakázek “šitých na míru”.
+
+Prosazujeme osobní odpovědnost úředníků i politiků. Na jednání Rady zavedeme jmenovité hlasování - dnes občané neví, kdo jak hlasoval.
+Majetková přiznání politiků.
+
+## PARTICIPACE - spoluúčast občanů na rozhodování
+
+Spoluúčast na rozhodování v důsledku znamená i spoluúčast na užívání obecního majetku. Čím smysluplněji bude s majetkem a prostředky obce nakládáno, tím větší díl připadne na užívání občany.
+
+Spustíme agendu občanských podnětů. Veřejné vedení agendy umožní širokou diskuzi občanů, iniciativ, odborníků, zastupitelů koaličních i opozičních. Zásadní podněty budou zařazovány na jednání výborů, komisí i zastupitelstva.
+
+Otevřeme komise i výbory. Občané jsou pro nás partneři, nemáme co skrývat.
+Ankety a dotazníky nám umožní analyzovat skutečné potřeby občanů města.
+K aktuálním problémům městské části a k záměrům zastupitelstva budeme pořádat veřejné besedy za účasti odborné i laické veřejnosti.
+
+Posuneme interpelace na vhodnější hodinu. Současná praxe, kdy je obecným interpelacím vymezen čas mezi 12:00 a 12:30, je diskriminující pro zaměstnané občany. Jednání zastupitelstva budou pro veřejnost natáčena.
+
+Zavedeme participativní rozpočet. Část městských peněz bude rozdělena na projekty iniciované občany.
+
+## SERVIS OBČANŮM - pomocná ruka
+
+Zkvalitníme informační portál a zřídíme informační, poradenské a kontaktní místo. Občané zde získají potřebnou pomoc s řešením konkrétních problémů. Místo může sloužit i pro sdělování názorů občanů.
+
+Úřad do domu - starší nebo nemocní občané by si mohli vyřídit různé záležitosti pomocí úředníka, který by za nimi přišel až domů.
+
+## CESTOVNÍ RUCH
+
+Turismus nesmí narušovat sousedský život v centru města, aby zde občané mohli normálně žít a pracovat. Neúnosný hluk a nepořádek v ulicích a v domech s nelegálními apartmány způsobil postupný odliv rezidentů z centra Prahy. Ti, kteří zde chtějí nadále bydlet, se musí účinně bránit bezohlednosti podnikatelů v turistickém ruchu. Nelegální a podvodné podnikání nebudeme trpět. Turistické služby musí dodržovat daná pravidla.
+Kultivovaný turismus namísto alkoholových zájezdů (pivní kola, noční kluby..)
+
+Poplatky z turismu občanům na zkvalitnění života na Praze 1
+
+Důsledné potírání nelegálních ubytovacích služeb - zejména nelegální apartmány a turistické ubytovny kamuflované jako krátkodobé pronájmy a sdílené ubytování.
+Jsme pro regulaci platforem sdíleného ubytování (airbnb, booking aj.) po vzoru světových metropolí.
