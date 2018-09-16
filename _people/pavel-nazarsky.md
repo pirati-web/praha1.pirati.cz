@@ -1,7 +1,7 @@
 ---
 uid: pavel.nazarsky
 name:     Pavel Nazarský
-fullname: Nazarský Pavel Mgr.
+fullname: Mgr. Pavel Nazarský 
 category:
   - clenove
   - kandidat-obec

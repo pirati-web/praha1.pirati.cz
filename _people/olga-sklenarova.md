@@ -1,13 +1,14 @@
 ---
 uid: olga.sklenarova
 name:     Olga Sklenářová
-fullname: Olga Sklenářová
+fullname: PhDr. Olga Sklenářová
+
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Učitelka IT na ZŠ a gymnáziu
 img: people/04-olga-sklenarova.jpg
-age: 
+age: 49
 mail:
   - olga.sklenarova@pirati.cz
  

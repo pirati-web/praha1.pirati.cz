@@ -1,7 +1,7 @@
 ---
 uid: jitka.nazarska
 name:     Jitka Nazarská
-fullname: Jitka Nazarská
+fullname: Jitka Nazarská 
 category:
   - clenove
   - kandidat-obec

@@ -1,13 +1,13 @@
 ---
 uid: david.bodecek
 name:     David Bodeček
-fullname: David Bodeček
+fullname: Bodeček David Mgr.
 category:
   - clenove
   - kandidat-obec
 description: Pedagog, metodik, procesní analytik
 img: people/02-david-bodecek.jpg
-age: 
+age: 38
 mail:
   - david.bodecek@pirati.cz
  
