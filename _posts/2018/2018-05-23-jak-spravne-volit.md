@@ -6,7 +6,7 @@ layout: post
 title: Jak správně volit? Stačí jeden křížek
 author: Jitka Nazarská
 authorId: jitka.nazarska
-image: articles/2018/2018-05-23-radnice-kupci-s-informacemi.jpg
+image: articles/2018/2018-05-23-jak-spravne-volit.jpg
 ---
 
 Volby do místního zastupitelstva mají svá specifika, kterými se liší od
