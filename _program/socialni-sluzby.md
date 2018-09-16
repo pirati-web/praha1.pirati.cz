@@ -8,7 +8,7 @@ campaignGroupUid: volby-2018
 perex: 
 description: 
 keywords: sociální služby
-order: 4
+order: 3
 ---
 
 Je pro nás důležité, aby lidé žijící na Praze 1 měli dostupnou zdravotní a sociální péči, aby zde fungovala sociální soudržnost a realizovaly se nové projekty. V realizaci projektů budeme vycházet hlavně z potřeb občanů.

@@ -7,7 +7,7 @@ campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
 perex: 
 description: 
-order: 4
+order: 6
 ---
 
 Zdravé životní prostředí je základem pro to, aby se nám dobře žilo. Budeme bojovat proti přehřívání města, znečišťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát.

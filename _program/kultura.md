@@ -8,7 +8,7 @@ campaignGroupUid: volby-2018
 perex: 
 description: 
 keywords: kultura
-order: 3
+order: 2
 ---
 
 ## KULTURA ODSPODA

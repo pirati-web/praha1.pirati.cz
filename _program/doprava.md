@@ -7,7 +7,7 @@ campaignGroupUid: volby-2018
 #img: miscellaneous/volebni-rozcestnik.png
 perex: 
 keywords: doprava, město, pěšky, mhd, autem, na kole
-order: 5
+order: 7
 ---
 
 Území Prahy 1 má středověkou dispozici, a slibovat občanům, že se sem podaří "nacpat“ ještě více aut, je nezodpovědné.
