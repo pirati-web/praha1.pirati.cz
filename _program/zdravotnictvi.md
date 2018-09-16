@@ -1,6 +1,6 @@
 ---
 uid: zdravotnictvi
-garant: 
+garant: jitka.nazarska
 title: Zdravotnictví, bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
