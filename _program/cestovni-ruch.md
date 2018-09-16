@@ -5,8 +5,8 @@ title: Cestovní ruch
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 #img: miscellaneous/otevrena-radnice.png
-perex:  
-description: 
+perex: Kultivovaný turismus namísto alkoholových zájezdů (pivní kola, noční kluby…) Poplatky z turismu občanům na zkvalitnění života na Praze 1. Důsledné potírání nelegálních ubytovacích služeb ­ zejména nelegální apartmány a turistické ubytovny kamuflované jako krátkodobé pronájmy a sdílené ubytování. Jsme pro regulaci platforem sdíleného ubytování (Airbnb, Booking aj.) po vzoru světových metropolí. 
+description: Kultivovaný turismus namísto alkoholových zájezdů (pivní kola, noční kluby…) Poplatky z turismu občanům na zkvalitnění života na Praze 1. Důsledné potírání nelegálních ubytovacích služeb ­ zejména nelegální apartmány a turistické ubytovny kamuflované jako krátkodobé pronájmy a sdílené ubytování. Jsme pro regulaci platforem sdíleného ubytování (Airbnb, Booking aj.) po vzoru světových metropolí.
 keywords: radnice
 order: 3
 ---
