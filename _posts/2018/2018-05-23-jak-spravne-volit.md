@@ -1,5 +1,5 @@
 ---
-date: 2018-05-23
+date: 2018-09-16
 category: blog
 #tags: majetek pošta
 layout: post
