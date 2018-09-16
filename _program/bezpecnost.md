@@ -5,8 +5,8 @@ title: Bezpečnost
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/bezpecnost-a-poradek.png
-perex: 
-description: 
+perex: Zajistíme více strážníků v ulicích, zejména pochůzkářů na problémových místech a v problémových časech. Dohlédneme na účelné využívání městského kamerového systému. Kamerový systém doplníme měřením hluku. Strážníkům poskytneme „Manuál pro standardní situace a pravomoce strážníků.
+description: Zajistíme více strážníků v ulicích, zejména pochůzkářů na problémových místech a v problémových časech. Dohlédneme na účelné využívání městského kamerového systému. Kamerový systém doplníme měřením hluku. Strážníkům poskytneme „Manuál pro standardní situace a pravomoce strážníků.
 keywords: radnice
 order: 9
 ---
