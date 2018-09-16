@@ -3,10 +3,10 @@ date: 2018-05-23
 category: blog
 #tags: majetek pošta
 layout: post
-title: ravidelná setkávání s občany přinášejí ovoce: Ukázaly se nejpalčivější problémy na Praze 1
+title: Pravidelná setkávání s občany přinášejí ovoce: Ukázaly se nejpalčivější problémy na Praze 1
 author: Jitka Nazarská
 authorId: jitka.nazarska
-image: articles/2018/2018-05-23-pravidelna-setkavani.jpg
+#image: articles/2018/2018-05-23-pravidelna-setkavani.jpg
 ---
 
 V&nbsp;listopadu loňského roku se v&nbsp;tichosti pokusila radnice Prahy&nbsp;1 v&nbsp;koncesním
