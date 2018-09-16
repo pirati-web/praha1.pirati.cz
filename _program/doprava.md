@@ -1,6 +1,6 @@
 ---
 uid: doprava
-garant: karel.kovarik
+garant: pavel.nazarsky
 title: Doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

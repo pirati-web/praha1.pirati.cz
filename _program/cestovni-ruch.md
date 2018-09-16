@@ -1,6 +1,6 @@
 ---
 uid: cestovni-ruch
-garant: adam.kheil
+garant: tomas.raiter
 title: Cestovní ruch
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
