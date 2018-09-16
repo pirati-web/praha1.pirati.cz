@@ -3,7 +3,7 @@ uid: tomas.raiter
 name:     Tomáš Raiter
 fullname: RNDr. Tomáš Raiter
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: řešitel projektu kvalita očima pacientů
 img: people/08-tomas-raiter.jpg
