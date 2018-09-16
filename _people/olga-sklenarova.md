@@ -8,7 +8,7 @@ category:
   - kandidat-obec
 description: Učitelka IT na ZŠ a gymnáziu
 img: people/04-olga-sklenarova.jpg
-age: 49
+age: 49 let
 mail:
   - olga.sklenarova@pirati.cz
  

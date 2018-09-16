@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Pedagog, metodik, procesní analytik
 img: people/02-david-bodecek.jpg
-age: 38
+age: 38 let
 mail:
   - david.bodecek@pirati.cz
  

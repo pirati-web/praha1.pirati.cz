@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Učitel 1. st. ZŠ, místopředseda a lídr Pirátů Prahy 1
 img: people/01-pavel-nazarsky.jpg
-age: 56
+age: 56 let
 mail:
   - pavel.nazarsky@pirati.cz
  

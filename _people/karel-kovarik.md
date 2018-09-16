@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: ekonom, právník
 img: people/06-karel-kovarik.jpg
-age: 
+age: 58 let
 mail:
   - karel.kovarik@pirati.cz
  
@@ -15,8 +15,6 @@ profiles:
   #facebook: 
 ---
 
-
-ekonom, právník
  Studium: Provozně-ekonomická fakulta Mendelovy univerzity Brno, Právnická fakulta UK, postgraduály: Graduate School of Banking at Colorado, Boulder/DENVER, U.S.A., University of Michigan Business School, DETROIT, U.S.A.
 Pracovní pobyty: Vídeň, London
 Stáže: Tokio, Frankfurt

@@ -1,13 +1,13 @@
 ---
 uid: tomas.vich
 name:     Tomáš Vích
-fullname: Ing. arch. Tomáš Vích
+fullname: Ing. arch. Tomáš Vích  
 category:
   - clenove
   - kandidat-obec
-description: architekt, urbanista, publicista
+description: architekt
 img: people/05-tomas-vich.jpg
-age: 
+age: 51 let
 mail:
   - tomas.vich@pirati.cz
  

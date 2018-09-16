@@ -8,7 +8,7 @@ category:
 categories: kontaktni_osoba
 description: Učitelka MŠ, předsedkyně Pirátů Prahy 1
 img: people/03-jitka-nazarska.jpg
-age: 
+age: 48 let
 mail:
   - jitka.nazarska@pirati.cz
  
