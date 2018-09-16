@@ -1,6 +1,6 @@
 ---
 uid: bezpecnost
-garant: tomas.vich
+garant: pavel.nazarsky
 title: Bezpečnost a pořáddek
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018

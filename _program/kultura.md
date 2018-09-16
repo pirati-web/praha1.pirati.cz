@@ -1,7 +1,7 @@
 ---
 uid: kultura
 garant: jaroslava.narozna
-title: Kultura odspoda
+title: Kultura veřejného prostoru
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/kultura-verejneho-prostoru.jpg

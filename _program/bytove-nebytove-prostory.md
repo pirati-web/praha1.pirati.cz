@@ -1,6 +1,6 @@
 ---
 uid: bytove-nebytove-prostory
-garant: tomas.vich
+garant: david.bodecek
 title: Bytové a nebytové prostory, majetek
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
