@@ -5,8 +5,8 @@ title: Sociální služby
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/karikatura-fotografka.png
-perex: 
-description: 
+perex: Je pro nás důležité, aby lidé žijící na Praze 1 měli dostupnou zdravotní a sociální péči, aby zde fungovala sociální soudržnost a realizovaly se nové projekty. V realizaci projektů budeme vycházet hlavně z potřeb občanů.
+description: Je pro nás důležité, aby lidé žijící na Praze 1 měli dostupnou zdravotní a sociální péči, aby zde fungovala sociální soudržnost a realizovaly se nové projekty. V realizaci projektů budeme vycházet hlavně z potřeb občanů. 
 keywords: sociální služby
 order: 3
 ---
