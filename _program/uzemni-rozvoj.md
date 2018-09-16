@@ -5,8 +5,8 @@ title: Územní rozvoj, bydlení
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/uzemni-planovani.jpg
-perex: 
-description: 
+perex: Naplánujeme dlouhodobou strategii rozvoje Prahy 1, která přetrvá více než jedno volební období.  Umožníme, aby se občané mohli na tvorbě plánů spolupodílet.  Krásné a zdravé město nám pro radost. Urychlíme stavební řízení, která se vyhnou dohadům a netransparentnostem. Jsme proti megalomanskému projektu Central Business District Masarykovo nádraží v Praze od Penta Investments. Budeme iniciovat mezinárodní konferenci a ideovou urbanistickou soutěž na koncepci celého prostoru od Štvanice k Národnímu muzeu.
+description: Naplánujeme dlouhodobou strategii rozvoje Prahy 1, která přetrvá více než jedno volební období.  Umožníme, aby se občané mohli na tvorbě plánů spolupodílet.  Krásné a zdravé město nám pro radost. Urychlíme stavební řízení, která se vyhnou dohadům a netransparentnostem. Jsme proti megalomanskému projektu Central Business District Masarykovo nádraží v Praze od Penta Investments. Budeme iniciovat mezinárodní konferenci a ideovou urbanistickou soutěž na koncepci celého prostoru od Štvanice k Národnímu muzeu.
 keywords: radnice
 order: 4
 ---
