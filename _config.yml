@@ -7,7 +7,7 @@
 
 # Site settings
 title: Piráti Praha 1
-email: praha11@pirati.cz
+email: praha1@pirati.cz
 description: Stránka místního sdružení Piráti Praha 1 na Starém Měste v centru Prahy
 keywords: Piráti, Česká pirátská strana, svoboda, demokracie, Piráti Praha 1, piráti v centru Prahy # dobré keywords jsou ty co 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -134,7 +134,7 @@ gplus:
 #  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/praha11.pirati.cz
+  url: https://github.com/pirati-web/praha1.pirati.cz/
   branch: master
 
 emptyArray: []
