@@ -70,6 +70,8 @@ transparentnost a co nejvíce veřejně dostupných informací, aby „stošestk
 občané vůbec nemuseli používat a všechny informace si našli na webu Prahy 1.
 
 
+---
 
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
 
 - - -

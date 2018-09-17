@@ -38,5 +38,8 @@ Pirátská rekapitulace: Co ještě si necháme líbit? Dá se v centru ještě 
 Po všech setkáních s občany je jisté, že problémů je spousta. Naprosto nejpalčivější problém Prahy 1 je „sdílené ubytování“. Současné vedení města problémy neřeší. Na možnostech řešení pracují piráti na komunální i parlamentní úrovni. Uvítáme vaše podněty. Každý se může podílet na naší politice.
 
 
+---
+
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
 
 - - -

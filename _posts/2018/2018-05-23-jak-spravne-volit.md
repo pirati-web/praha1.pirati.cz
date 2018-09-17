@@ -70,4 +70,9 @@ Křížkujte jen jednu vámi zvolenou stranu a jinak nic. Tedy popsanou možnost
 vyhodnocování a sčítání je  obtížné i pro členy okrskových volebních komisí 
 (OVK). Chcete-li přispět k&nbsp;regulérnosti voleb, staňte se členy OVK.
 
+
+---
+
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
+
 - - -

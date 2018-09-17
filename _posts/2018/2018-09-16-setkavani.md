@@ -34,4 +34,8 @@ Maurizio Café (Jindřišská 21)
 Doprava - s
 
 
+---
+
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
+
 - - -

@@ -44,4 +44,9 @@ a dali podnět k jejímu prošetření. Kateřina Hamr tímto způsobem mohla z�
 neoprávněnou výhodu oproti jiným, „běžným“ občanům Prahy&nbsp;1. Do dnešního dne
 záležitost nebyla tajemníkem ani radním Macháčkem objasněna.
 
+
+---
+
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
+
 - - -
