@@ -24,6 +24,7 @@ main:
     match: komunalni-volby-2018
   - link: /podporte-nas/
     name: Podpořte nás
+    match: podporte-nas
         
   #- link: /komunalni-volby-2018/
   #  name: Komunální volby 2018
