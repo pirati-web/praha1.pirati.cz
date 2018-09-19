@@ -111,7 +111,7 @@ calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
   title: Nadcházející události
   id: pirati.praha1@gmail.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rf0um1k433bmqmmfq4m68hsmv4%40group.calendar.google.com&amp;color=%23B1365F&amp;src=pirati.praha1%40gmail.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha1%40gmail.com&amp;color=%23B1365F&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
 
 facebook:
   profilePage: https://www.facebook.com/PiratiP1/
