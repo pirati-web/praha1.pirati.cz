@@ -47,6 +47,6 @@ Nadějná varianta je, že v roce 2019 by měla NNF přejít pod Magistrát.
 
 ---
 
-Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/2018-09-19-praha-1.pdf) (velikost 6,7 Mb).
 
 - - -

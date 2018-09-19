@@ -47,6 +47,6 @@ záležitost nebyla tajemníkem ani radním Macháčkem objasněna.
 
 ---
 
-Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/pha-1-ii-metroplan.pdf) (velikost 6,7 Mb).
+Pirátské listy Praha 1 [ke stažení zde](/assets/pdf/2018-09-19-praha-1.pdf) (velikost 6,7 Mb).
 
 - - -
