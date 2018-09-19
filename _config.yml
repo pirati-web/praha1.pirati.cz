@@ -105,7 +105,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková stránka
-    body: <a href="https://www.facebook.com/pirati11.cz/" target="_blank">Piráti Praha 1</a>
+    body: <a href="https://www.facebook.com/PiratiP1/" target="_blank">Piráti Praha 1</a>
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
@@ -124,7 +124,7 @@ twitter:
   loadSDK: true
 
 instagram:
-  profilePage: https://www.instagram.com/piratipraha11/
+  #profilePage: https://www.instagram.com/piratipraha11/
 
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
