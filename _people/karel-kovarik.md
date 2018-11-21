@@ -3,7 +3,7 @@ uid: karel.kovarik
 name:     Karel Kovařík
 fullname: Ing. Karel Kovařík
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: ekonom, právník
 img: people/06-karel-kovarik.jpg
