@@ -8,8 +8,7 @@ category:
   - pms
 ordpms: 3  
 description: 
-Místostarosta Praha 1 oblast školství a otevřená radnice a participaci,
-učitel 1. st. ZŠ, místopředseda a lídr Pirátů Prahy 1
+Místostarosta Praha 1 oblast školství a otevřená radnice a participaci, učitel 1. st. ZŠ, místopředseda a lídr Pirátů Prahy 1
 img: people/01-pavel-nazarsky.jpg
 age: 56 let
 mail:
