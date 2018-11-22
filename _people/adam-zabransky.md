@@ -4,7 +4,6 @@ name:     Adam Zábranský  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - kandidat-obec
-- pms
 contactType: Média
 img: people/11-adam-zabransky.jpg   # 165 x 220
 description: Předseda zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, 1. místopředseda krajského sdružení Pirátů v Praze             	# kratký popis, max 160 znaků
