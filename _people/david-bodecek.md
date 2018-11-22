@@ -5,7 +5,7 @@ fullname: Bodeček David Mgr.
 category:
   - clenove
   - kandidat-obec
-description: Pedagog, metodik, procesní analytik
+description: radní pro oblast majetku včetně správy nemovitostí, pronájmů bytových a nebytových prostor, pedagog, metodik, procesní analytik
 img: people/02-david-bodecek.jpg
 age: 38 let
 mail:
