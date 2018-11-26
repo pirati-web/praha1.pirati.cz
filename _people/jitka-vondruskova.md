@@ -1,15 +1,15 @@
 ---
-uid: jitka.vondruskova
-name:     Jitka Vondrušková
-fullname: Jitka Vondrušková
+uid: jitka.vondrouskova
+name:     Jitka Vondroušková
+fullname: Jitka Vondroušková
 category:
   - clenove
   - kandidat-obec
-description: 
-img: people/10-jitka-vondruskova.jpg
+description: asistentka
+img: people/10-jitka-vondrouskova.jpg
 #age: 48 let
 mail:
-  - jitka.vondruskova@pirati.cz
+  - jitka.vondrouskova@pirati.cz
  
 profiles:
   facebook: 
