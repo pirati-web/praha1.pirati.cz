@@ -9,7 +9,7 @@ authorId: pavel.nazarsky
 image: articles/2018/2018-11-04-mesic-po-volbach.jpg
 ---
 
-Dobrý den, zdravím všechny, kteří pln nedočkavosti navštívili naší stránku. Určitě vás zajímá, kdy už konečně začneme.
+Dobrý den, zdravím všechny, kteří plni nedočkavosti navštívili naší stránku. Určitě vás zajímá, kdy už konečně začneme.
 
 Mám pro vás dvě zprávy a obligátně začnu nejprve tou špatnou:
 
