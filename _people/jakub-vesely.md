@@ -2,7 +2,7 @@
 uid: jakub.vesely
 name:     Jakub Veselý
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 #description: 
 img: people/jakub-vesely.jpg
