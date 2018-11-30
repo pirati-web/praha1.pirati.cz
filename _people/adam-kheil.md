@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: IT manager
-img: people/09-adam-kheil.jpg
+img: people/adam-kheil.jpg
 age: 25 let
 mail:
   - adam.kheil@pirati.cz

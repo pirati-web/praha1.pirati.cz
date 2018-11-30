@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Radní pro oblast majetku včetně správy nemovitostí, pronájmů bytových a nebytových prostor, pedagog, metodik, procesní analytik
-img: people/02-david-bodecek.jpg
+img: people/david-bodecek.jpg
 age: 38 let
 mail:
   - david.bodecek@pirati.cz

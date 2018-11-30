@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: herečka Divadélko Romaneto
-img: people/07-jaroslava-narozna.jpg
+img: people/jaroslava-narozna.jpg
 age: 55 let
 mail:
   - jaroslava.narozna@pirati.cz

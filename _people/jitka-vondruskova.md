@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: asistentka
-img: people/10-jitka-vondrouskova.jpg
+img: people/jitka-vondrouskova.jpg
 #age: 48 let
 mail:
   - jitka.vondrouskova@pirati.cz

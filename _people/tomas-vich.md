@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: zastupitel MČ Praha 1, architekt
-img: people/05-tomas-vich.jpg
+img: people/tomas-vich.jpg
 age: 51 let
 mail:
   - tomas.vich@pirati.cz

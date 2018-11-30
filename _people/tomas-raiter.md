@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: řešitel projektu Kvalita očima pacientů
-img: people/08-tomas-raiter.jpg
+img: people/tomas-raiter.jpg
 age: 56 let
 mail:
  
