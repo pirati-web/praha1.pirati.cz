@@ -3,13 +3,11 @@ date: 2018-11-24
 category: blog
 #tags: majetek pošta
 layout: post
-title: S radostí oznamujeme, že dne 19.listopadu roku 2018 se na Žofíně podařilo to, co jsme našim voličům s nadějí slibovali
+title: Druhé zastupitelstvo Prahy 1 s online přenosem a vánoční tematikou
 author: Pavel Nazarský
 authorId: pavel.nazarsky
-image: articles/2018/2018-11-24-novy-urad.jpg
+image: articles/2018/2018-12-06-zmc-prosinec.jpg
 ---
-
-Druhé zastupitelstvo Prahy 1 s online přenosem a vánoční tematikou. 
 
 Zajistili jsme více prostoru pro veřejnost, čas pro interpelace je vyčleněn od 18:00 do 19:00. Online stream bude dostupný od 16:00. 
 
