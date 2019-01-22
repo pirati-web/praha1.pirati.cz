@@ -2,7 +2,7 @@
 date:         2019-01-22
 tags:         praha1 kauzy
 title:        "ÚOHS dal za pravdu Pirátům, ČSSD na Praze 1 si dohazovala zakázky v rozporu se zákonem"
-image: 	      posts/uohs.jpg
+image: 	      articles/2019/uohs.jpg
 author:       Martina Vacková
 ---
 
