@@ -18,7 +18,7 @@ Možností, jak na obecní rozpočty nepřenášet řešení negativních extern
 
 Jako základní kámen se jeví existence dokumentu „Zásady a podmínky pro jednání s developery“, na základě kterého mohou vznikat kvalitní „Plánovací smlouvy“. Obce si tak usnadní svoji roli a mohou u vzniku developerských projektů lépe 
 předejít následným problémům (např. nedostatek parkovacích míst)
-získat do rozpočtu obce finanční prostředky nebo rovnou nefinanční plnění pro rozvoj související infrastruktury, veřejné a občanské vybavenosti (školky, zeleň, komunikace, inženýrské sítě atd.) získat odpovídající záruku právní vymahatelnosti skutečné realizace dohodnuté spoluúčasti stavebníků na rozvoji obce Prezentace z konference ke stažení
-https://www.zdravamesta.cz/cz/vystupy-z-konference-vysvihnete-se
+získat do rozpočtu obce finanční prostředky nebo rovnou nefinanční plnění pro rozvoj související infrastruktury, veřejné a občanské vybavenosti (školky, zeleň, komunikace, inženýrské sítě atd.) získat odpovídající záruku právní vymahatelnosti skutečné realizace dohodnuté spoluúčasti stavebníků na rozvoji obce Prezentace z konference ke stažení [Prezentace z konference ke stažení](https://www.zdravamesta.cz/cz/vystupy-z-konference-vysvihnete-se)
+
 
 
