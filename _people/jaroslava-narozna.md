@@ -9,7 +9,7 @@ category:
   - kontaktni_osoba
 categories: kontaktni_osoba    
 ordpms: 1  
-description: herečka Divadélko Romaneto
+description: herečka Divadélko Romaneto, předsedkyně Pirátů Prahy 1
 img: people/jaroslava-narozna.jpg
 age: 55 let
 mail:

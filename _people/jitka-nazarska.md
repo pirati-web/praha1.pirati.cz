@@ -8,7 +8,7 @@ category:
   - pms
 categories: kontaktni_osoba    
 ordpms: 2
-description: Učitelka MŠ, předsedkyně Pirátů Prahy 1
+description: Učitelka MŠ
 img: people/jitka-nazarska.jpg
 age: 48 let
 mail:
