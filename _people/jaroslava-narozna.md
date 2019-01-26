@@ -5,6 +5,10 @@ fullname: Jaroslava Nárožná
 category:
   - clenove
   - kandidat-obec
+  - pms
+  - kontaktni_osoba
+categories: kontaktni_osoba    
+ordpms: 1  
 description: herečka Divadélko Romaneto
 img: people/jaroslava-narozna.jpg
 age: 55 let

@@ -5,6 +5,8 @@ fullname: Ing. arch. Tomáš Vích
 category:
   - clenove
   - kandidat-obec
+  - pms
+ordpms: 3  
 description: zastupitel MČ Praha 1, architekt
 img: people/tomas-vich.jpg
 age: 51 let
