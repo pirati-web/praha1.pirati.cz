@@ -13,5 +13,4 @@ Každou druhou středu můžete zavítat na setkání příznivců Pirátů z Pr
 
 Nejbližší termín 6. 2. 2019
 
-Další termíny na:
-https://praha.pirati.cz/pripoj-se/kalendar/
+Další termíny na: [https://praha.pirati.cz/pripoj-se/kalendar/](https://praha.pirati.cz/pripoj-se/kalendar/)
