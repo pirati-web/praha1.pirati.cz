@@ -9,5 +9,4 @@ authorId: jitka.nazarska
 image: articles/2019/2019-01-29-online-prenos-ze-zastupitelstva.jpg
 ---
 
-<h2>Celostátní Pirátské forum v Táboře</h2>
 <div class="fb-video" data-href="https://www.facebook.com/ceska.piratska.strana/videos/537072540145667/?t=0" data-width="600" data-show-text="false"></div>
