@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-obec
 contactType: Média
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Předseda zastupitelského klubu Pirátů v ZHMP. místopředseda krajského sdružení Pirátů v Praze             	# kratký popis, max 160 znaků
+description: Radní hl. m. Prahy pro bydlení a transparentnost
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
