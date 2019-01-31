@@ -3,12 +3,11 @@ uid: jitka.nazarska
 name:     Jitka Nazarská
 fullname: Jitka Nazarská 
 category:
-  - clenove
   - kandidat-obec
   - pms
 categories: kontaktni_osoba    
 ordpms: 2
-description: Učitelka MŠ, předsedkyně zastupitelského klubu Pirátů Prahy 1 a  místpředsedkyně Pirátů Prahy 1
+description: Učitelka MŠ, předsedkyně zastupitelského klubu Pirátů Prahy 1 a  místopředsedkyně Pirátů Prahy 1
 img: people/jitka-nazarska.jpg
 age: 48 let
 mail:

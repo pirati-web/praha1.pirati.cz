@@ -3,7 +3,6 @@ uid: jaroslava.narozna
 name:     Jaroslava Nárožná
 fullname: Jaroslava Nárožná
 category:
-  - clenove
   - kandidat-obec
   - pms
   - kontaktni_osoba

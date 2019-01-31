@@ -5,7 +5,6 @@ fullname: Ing. arch. Tomáš Vích
 category:
   - clenove
   - kandidat-obec
-  - pms
 ordpms: 3  
 description: zastupitel MČ Praha 1, architekt, místopředseda Pirátů Prahy 1
 img: people/tomas-vich.jpg
