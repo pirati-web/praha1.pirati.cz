@@ -5,7 +5,7 @@ tags: Praha
 layout: post
 title: Premiéra oddávání na Staroměstské radnici
 author: Jitka Nazarská
-authorId: jitka.narazrska
+authorId: jitka.nazarska
 image: articles/2019/2019-02-08-premiera-oddavani-na-staromestske-radnici.jpg
 ---
 
