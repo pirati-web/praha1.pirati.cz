@@ -95,6 +95,7 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110101
 
 contactSummaryItems:
   - type: organizationEmail
