@@ -24,6 +24,10 @@ Nedostatek bytů k bydlení, deformace cen bytů a nájemného. Podnikání v ob
 
 Naše stanovisko je v souladu s výsledky analýzy IPR: [Fenomén Airbnb a jeho dopady v kontextu hl.m. Prahy](http://www.iprpraha.cz/uploads/assets/dokumenty/ssp/analyzy/bydleni_realitni_trh/fenomen_airbnb_a_jeho_dopady_v_kontextu_hl.m.prahy.pdf)
 
+![Úklid Blankytu](/assets/img/articles/2019/2019-02-17-stanovisko-k-kratkodobym-pronajmum-2.jpg)
+
+![Úklid Blankytu](/assets/img/articles/2019/2019-02-17-stanovisko-k-kratkodobym-pronajmum-3.jpg)
+
 
 
 
