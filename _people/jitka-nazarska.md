@@ -19,9 +19,10 @@ profiles:
 
 Učitelka MŠ, předsedkyně Pirátů Prahy 1
 
-Narodila se v Praze. Po prožitém dětství na Žižkově se s rodinou odstěhovala na Jižní Město, kde se jí narodily dvě dcery. Stála u  zrodu mateřského centra, které více než rok vedla. V roce 2003 se odstěhovala na Prahu 1, kde žije dodnes. 
+Prakticky od narození 1970 žiji v Praze. Vystřídala jsem 3 městské části. Po prožitém dětství na Žižkově jsem se s rodinou odstěhovala na Jižní Město, kde se mi narodily dvě dcery. Byla u zrodu mateřského centra, které jsem přes rok vedla. V roce 2003 jsem se odstěhovala na Prahu 1, kde žiji doteď. Mezitím jsme se rozvedla a znovu vdala, za Pavla Nazarského, a přivdala jsem si další dceru. Před nedávnem se mi narodil vnuk. 
 
-“Ráda se procházím Prahou, zahrádkařím v Kobylisích a zacvičím si chikung. 
-Pociťuji stále větší tlak politiky na naše životy. Místo aby se vše zjednodušovalo a měli jsme se čím dál lépe, je to naopak. Myslím, že právě Pirátská strana je nadějí pro změnu.”
+V Pirátské straně jsem místopředsedkyní MS Piráti Praha 1. Po úspěšných volbách 2018 jsem se stala zastupitelkou MČ Praha 1. Zde jsem předsedkyní zastupitelského klubu, neuvolněnou předsedkyní sociální komise. Jsem také členkou sociálního výboru a komise výchova a vzdělávání. 
+
+Profesí jsem učitelka MŠ a pracuji na OSVČ. V minulosti jsem vedla kurzy pro rodiče s dětmi. Ráda si zacvičím jogu, či-kung a nejraději se procházím a medituji v přírodě. 
 
 ---
