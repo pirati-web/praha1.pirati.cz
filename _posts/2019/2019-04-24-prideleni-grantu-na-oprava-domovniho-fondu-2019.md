@@ -21,6 +21,8 @@ Celkem bylo podáno 29 žádostí. U 3 žádostí byli jejich žadatelé vyzván
 
 Při plánování žadatelů byla uvedena celková částka na opravy a to ve výši 51 mil. Kč. Z 29 žadatelů v 10ti případech šlo o "nováčky", kteří se v minulosti tohoto projektu neúčastnili. Ve 24 případech je MČ Praha 1 členem SVJ, které bylo žadatelem o grant.
 
+![PŘIDĚLENÍ GRANTŮ NA OPRAVU DOMOVNÍHO FONDU PRO ROK 2019 (GODF)](/assets/img/articles/2019/2019-04-24-prideleni-grantu-na-oprava-domovniho-fondu-2019-02.jpg)
+
 K navazujícímu harmonogramu. Do 30.6.2019 dojde k podpisu smluv, na základě kterých do 31.7.2019 bude žadatelům proplaceno 50 % přidělené dotační částky. K dokončení stavebních prací, které musely být započaty nejdříve 1. ledna 2019, musí dojít nejpozději k 31.10.2019. Do 8.11.2019 žadatelé musí odevzdat veškeré podklady a to tak, aby do 13.12.2019 mohly být provedeny kontroly staveb, a do 20.12.2019 mohla být vyplacena 2. polovina grantu. Ta v jiném případě by nebyla uhrazena, ba naopak, žadatel musí vrátit jeho první polovinu.
 
 Na závěr si dovolím shrnout dosavadní průběh tohoto projektu, který na Praze 1 probíhá od roku 2008. Včetně letošního roku bylo podáno 615 žádostí. Uspělo cca 82% žadatelů, a přiděleno bylo 264 mil. Kč. Nutno dodat, že k přidělené částce 264 mil. Kč ze strany žadatelů bylo, resp. bude, nainvestováno pro zlepšení stavu domovního fondu na území Prahy 1, dalších 820 mil. Kč.
