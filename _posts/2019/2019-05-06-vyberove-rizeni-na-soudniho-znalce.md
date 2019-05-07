@@ -6,7 +6,7 @@ layout: post
 title: VÝBĚROVÉ ŘÍZENÍ NA SOUDNÍ ZNALCE
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2019/2019-04-24-valorizace-najemneho-2019.jpg
+image: articles/2019/2019-05-06-vyberove-rizeni-na-soudniho-znalce.jpg
 ---
  
 # PRAHA 1 - zprávy z kanceláře Davida Bodečka-  radního pro majetek a bytovou politiku 
