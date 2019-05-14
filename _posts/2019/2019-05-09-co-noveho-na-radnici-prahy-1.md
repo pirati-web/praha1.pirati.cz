@@ -17,7 +17,7 @@ Za participační lze považovat i setkání v terénu nebo  přímo v mé kance
 
 Participace je i plánování a strategie. Pravidelně zasedá Komise pro participaci a agendu 21. Vedle spolupráce s IPRem komise doporučila i členství v  Národní síti zdravých měst - [https://www.zdravamesta.cz/index.shtml](https://www.zdravamesta.cz/index.shtml)  Věřím, že příští zasedání zastupitelstva naše členství schválí.
 
-Závěrem vás zvu na další setkání s občany 22.5. v 18:30 do Café klub Míšenská (č.p.3). Rád se s vámi setkám i osobně. Volejte 221 097 618 nebo pište na <pavel.nazarsky@Praha1.cz>
+Závěrem vás zvu na další setkání s občany 29.5. v 18:30 do Café klub Míšenská (č.p.3). Rád se s vámi setkám i osobně. Volejte 221 097 618 nebo pište na <pavel.nazarsky@Praha1.cz>
 
 Mgr. Pavel Nazarský - místostarosta MČ Praha 1
 
