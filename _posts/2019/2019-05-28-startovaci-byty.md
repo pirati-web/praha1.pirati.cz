@@ -12,6 +12,7 @@ image: articles/2019/2019-05-28-startovaci-byty.jpg
 ## PRAHA 1 - zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka.
 
 Na dnešním jednání Rady MČ Praha 1 bylo rozhodnuto, že celkem osm bytů o velikosti 1+kk a 2+kk nabídne Praha 1 ve dvoukolovém výběrovém řízení mladým lidem, kteří potřebují vyřešit svoji bytovou situaci a chtějí svůj život i v nejbližších letech spojit s první městskou částí. Byty se nacházejí v multifunkčním a mezigeneračním domě v Samcově 3. Děkuji kolegům radním, kteří podpořili tuto záležitost, stejně tak děkuji kolegům z Komise pro bydlení, která Radě předložila noty pro vypsání projektu. Ten byl v předcházejícím volebním období realizován a to již ve dvou ročnících.
+
  　
 Bytový dům v Samcově 3, vystavěný Městskou částí Praha 1, poskytuje od roku 2016 mezigenerační bydlení, když první tři podlaží tvoří byty s pečovatelskou službou a ve čtvrtém až šestém podlaží jsou mj. také startovací byty.
 
