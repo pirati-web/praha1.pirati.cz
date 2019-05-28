@@ -6,7 +6,7 @@ layout: post
 title: ŠANCE PRO MLADÉ LIDI V PRAZE 1 - STARTOVACÍ BYTY OD RADNICE!
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2019/2019-02-22-david-bodecek-pruchod-spalena-opatovicka.jpg
+image: articles/2019/2019-05-28-startovaci-byty.jpg
 ---
  
 ## PRAHA 1 - zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka.
