@@ -20,9 +20,8 @@ Byty jsou určeny pro mladé lidi do 30 let, kteří měli nebo mají po dobu mi
 
 Výběrové řízení na pronájem startovacích bytů bude mít 2 kola. V 1. kole výběrového řízení komise vyhodnotí formální správnost přihlášek, tedy zda jsou splněny stanovené náležitosti. Je důležité, aby uchazeči měli dostatek finančních prostředků na zaplacení kauce ve výši trojnásobku měsíčního nájemného, aby proti nim nebylo vedeno trestní stíhání a aby neměli závazky vůči České republice, Hlavnímu městu Praha či jeho městským částem.
 
-Přihlášky, které budou splňovat stanovené náležitosti, postoupí do 2. kola výběrového řízení, jež proběhne formou veřejného losování. Obě výběrová řízení by měla proběhnout do konce června, aby už v průběhu prázdnin mohlo začít předávání bytů mladým lidem.
-　
-　
+Přihlášky, které budou splňovat stanovené náležitosti, postoupí do 2. kola výběrového řízení, jež proběhne formou veřejného losování. Obě výběrová řízení by měla proběhnout do konce června, aby už v průběhu prázdnin mohlo začít předávání bytů mladým lidem.　
+
 Termíny pro podání přihlášek i pro jednotlivá kola, stejně jako veškeré podmínky, vzor nájemní smlouvy a další informace budou v nejbližších dnech zveřejněny na úřední desce a na [www.praha1.cz](www.praha1.cz). 　
 
 ## Byty určené pro projekt "Startovací byty 2019":
