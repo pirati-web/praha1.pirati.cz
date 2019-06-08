@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -13,7 +12,7 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "7.2.0"
+gem "jekyll-theme-pirati", "7.4.0"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -30,7 +29,6 @@ group :jekyll_plugins do
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
-  gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
