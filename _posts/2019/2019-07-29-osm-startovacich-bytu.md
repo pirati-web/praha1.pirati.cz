@@ -1,12 +1,12 @@
 ---
-date: 2019-07-29
+date: 2019-06-29
 category: blog
 #tags: majetek pošta
 layout: post
 title: NOVÍ MLADÍ NÁJEMNÍCI V OSMI  BYTECH MEZIGENERAČNÍHO DOMU
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2019/2019-01-07-galerie-stepanska-47-1.jpg
+image: articles/2019/2019-07-29-osm-startovacich-bytu.jpg
 ---
 
 PRAHA 1 - zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka
