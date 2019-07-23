@@ -11,7 +11,7 @@ image: articles/2019/2019-07-23-vyjadreni.jpg
 
 Ahoj, všem. Rád bych se ohradil proti dalším několika nepravdám, které byly uvedeny ve včerejším a v dnešním článku deníku Blesk, a rád bych se proti nim striktně vymezil. 
 
-- https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/613497/sachy-s-bytem-v-parizske-stacil-dopis-radnimu-a-jeho-kolegyne-vyhrala-prohranou-obalkovou-soutez.html
+- [https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/613497/sachy-s-bytem-v-parizske-stacil-dopis-radnimu-a-jeho-kolegyne-vyhrala-prohranou-obalkovou-soutez.html]
 
 Celý včerejší článek vyznívá mylným a zcela zavádějícím dojmem, že se jednalo o prodej bytu v Pařížské ulici (poukazuji primárně na věty: „Získat byt v Pařížské, nejdražší pražské ulici, není nemožné,“ nebo …“ Své kolegyni přihrál byt“). Ve skutečnosti se jedná o záměr na pronájem na 1 rok, a to již deset let prázdné části bytové jednotky, která je součástí úředně rozděleného bytu bez WC, koupelny, kuchyně  a napojení na vodovod. Vše uvedené je společné pro obě části bytu se společnými měřidly. Stejně tak se "investigativní" novinář nezabývá tím, že městská část díky neobsazenosti zpětně přišla o částku více než 1 mil. Kč v případě, že by měsíční nájem byl ve výši 10.500 Kč. V  případě měsíčního nájmu 17.500 Kč by se jednalo o částku přesahující 2 mil. Kč.
 
@@ -65,17 +65,11 @@ Pevně věřím, že redakci brzy dojde složka nepravdivých a zavádějících
 
 Toto vše, i to, co bude následovat, beru jako pomstu k záležitosti vztahující se k pletichám a spekulativním prodejům bytů na Praze 1 a to v minulém a v předminulém volebním období s počtem 37 obviněných.
 
-- https://www.seznamzpravy.cz/clanek/zazrak-v-bytove-krizi-lukrativni-prazske-byty-za-hubicku-vynesly-desitkam-politiku-obvineni-76107
+- [https://www.seznamzpravy.cz/clanek/zazrak-v-bytove-krizi-lukrativni-prazske-byty-za-hubicku-vynesly-desitkam-politiku-obvineni-76107]
 
-- https://www.seznamzpravy.cz/clanek/tykacovi-usetrili-pri-koupi-bytu-pres-osm-milionu-starosta-prahy-1-obesel-zastupitele-74508
+- [https://www.seznamzpravy.cz/clanek/tykacovi-usetrili-pri-koupi-bytu-pres-osm-milionu-starosta-prahy-1-obesel-zastupitele-74508]
 
 Děkuji všem, kteří do mě vložili svou důvěru a podporují mě! Jsem tu pro to, abych odváděl dobrou práci pro občany a s tímto velkým záměrem jsem do politiky vstoupil.
 
 Vyjádření Pirátské listy:
-- https://www.piratskelisty.cz/clanek-2521-pirat-bodecek-rozkryl-kauzy-za-desitky-milionu-ted-ho-vlaci-v-bulvaru-jak-se-veci-doopravdy-maji 
-
-
-Jarka Nárožná 
-Tel. +420 602 259 272 
-email: legranda@seznam.cz
-www.divadelkoromaneto.cz
+- [https://www.piratskelisty.cz/clanek-2521-pirat-bodecek-rozkryl-kauzy-za-desitky-milionu-ted-ho-vlaci-v-bulvaru-jak-se-veci-doopravdy-maji]
