@@ -3,7 +3,7 @@ date: 2019-07-23
 category: blog
 #tags: majetek pošta
 layout: post
-title: Vyjádření Davida Bodecka (Radni pro majetek a bytovou politiku)
+title: Vyjádření Davida Bodečka (Radní pro majetek a bytovou politiku)
 author: David Bodeček
 authorId: david.bodecek
 image: articles/2019/2019-07-23-vyjadreni.jpg
