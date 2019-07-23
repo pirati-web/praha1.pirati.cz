@@ -28,23 +28,23 @@ Další zásadní nepravdou uveřejněnou v článku je, že neúspěšným v z�
 
 # Následovaly doplňující dotazy:
 
-1. **Proč tedy bylo výběrové řízení vůbec uspořádáno, když ve výsledku zcela postrádá smysl.**\
+1. **Proč tedy bylo výběrové řízení vůbec uspořádáno, když ve výsledku zcela postrádá smysl.**
 *Důležité je oddělit veřejnou soutěž na straně jedné a záměr dle zákona o obcích na straně druhé. Při vypsání záměru šlo o skutečnost, že se jedná o administrativně rozdělený byt, který je vhodné zcelit nebo alespoň obsadit lidmi, kteří spolu vyjdou. Jde o prevenci sousedských sporů. Obdobně se postupuje i u záměrů na nebytové prostory.*
 
-2. **Vzhledem k informaci "Nejvyšší cena není jediným hodnotícím kritériem výběru nájemců" - můžete mi tedy prosím zaslat ona zveřejněná kritéria a podmínky, které byly uvedeny při zahájení celého řízení?**\
+2. **Vzhledem k informaci "Nejvyšší cena není jediným hodnotícím kritériem výběru nájemců" - můžete mi tedy prosím zaslat ona zveřejněná kritéria a podmínky, které byly uvedeny při zahájení celého řízení?**
 *Požadované zasílám v příloze.*
 
 Jak jsem uvedl, nešlo o výběrové řízení, ale o moderovanou soutěž na straně poptávky, která městskou část nezavazovala k uzavření smlouvy, a která organizačně doprovodí zveřejněný záměr, který zákon blíže nekonkretizuje. Důležité je, vybrat nejvhodnějšího zájemce. 
 
-3. **Považujete za transparentní a formálně v pořádku, když je týden po otevření obálek s nabídkami někým z účastníků, kdo má přímou vazbu na p. Bodečka, částka navýšena na "potřebnou" k vítězství?**\
+3. **Považujete za transparentní a formálně v pořádku, když je týden po otevření obálek s nabídkami někým z účastníků, kdo má přímou vazbu na p. Bodečka, částka navýšena na "potřebnou" k vítězství?**
 *Na rozhodnutí rady nemělo primárně vliv uchazečkou navýšená  částka. V zájmu obce by mělo být, aby byly byty využívány a neležely (ani zčásti) ladem a aby společnou toaletu sdíleli pokud možno členové rodiny a ne osoby vzájemně cizí. Upozorňuji, že se jednalo, v rámci vypsaného záměru, o část bytové jednotky bez přívodu vody.  Dále upozorňuji, že tato část bytové jednotky byla od roku 2008, vyjma roku 2010, a to až doposud, prázdná.*
 *Podmínky pro uchazeče neobsahovaly žádné hodnotící kritérium, tedy nešlo o to, získat nejvyšší nabídku a automaticky bez zvážení všech faktorů bytové politiky uzavřít smlouvu s kýmkoliv.*
 *V žádném případě nemělo vliv na rozhodnutí rady, že vybraná uchazečka byla na stejné kandidátní listině při loňských komunálních volbách. I přesto  jsem na toto členy rady upozornil.*
 
-4. **Rada před zahájením řízení neznala "technické podmínky bytu a sociální důvody"?**\
+4. **Rada před zahájením řízení neznala "technické podmínky bytu a sociální důvody"?**
 *O základních technických podmínkách bytu byli členové rady seznámeni při schválení vypsaného záměru. V mezidobí, zejména v době prohlídek, došlo ke zjištění dalších skutečností, které byly členům rady odprezentovány při vyhodnocování záměru. Nejvhodnějším aspektem z pohledu zájmu městské části, s odkazem na podmínky, bylo podpořit obyvatele s kořeny v daném místě a preventivně působit na vznik sousedských sporů, taktéž na sociální aspekty. Tím byla radou vyhodnocena uchazečka, která měla rodinnou vazbu na nájemce obsazené administrativní části.*
 
-5. **Jak bylo relevantnímu výherci, panu A. Š., který nabídl 17 tisíc korun, zdůvodněno, že byt nezískal?**\
+5. **Jak bylo relevantnímu výherci, panu A. Š., který nabídl 17 tisíc korun, zdůvodněno, že byt nezískal?**
 *Zpětnou vazbu zasílá příslušný majetkový odbor. Na základě získané informace z odboru byli všichni účastníci výběrového řízení seznámeni s výsledkem rozhodovacího procesu. Jak mi bylo sděleno, bez odůvodnění. Postupovalo se podle dříve "zaběhlých kolejí" a já bych v této záležitosti do budoucna, v rámci připravovaných nových pravidel, podmínek a systému, toto změnil. Rozhodnutí by neměla být dle mého názoru jen strohá úřední oznámení.*
 
 # Mé vyjádření k dnešnímu článku.
