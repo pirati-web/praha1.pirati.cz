@@ -61,5 +61,5 @@ Toto vše, i to, co bude následovat, beru jako pomstu k záležitosti vztahují
 
 Děkuji všem, kteří do mě vložili svou důvěru a podporují mě! Jsem tu pro to, abych odváděl dobrou práci pro občany a s tímto velkým záměrem jsem do politiky vstoupil.
 
-Vyjádření Pirátské listy:
+# Vyjádření Pirátské listy:
 - [https://www.piratskelisty.cz/clanek-2521-pirat-bodecek-rozkryl-kauzy-za-desitky-milionu-ted-ho-vlaci-v-bulvaru-jak-se-veci-doopravdy-maji](https://www.piratskelisty.cz/clanek-2521-pirat-bodecek-rozkryl-kauzy-za-desitky-milionu-ted-ho-vlaci-v-bulvaru-jak-se-veci-doopravdy-maji)
