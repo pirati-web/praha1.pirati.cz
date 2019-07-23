@@ -6,7 +6,7 @@ layout: post
 title: Pirát Bodeček rozkryl kauzy za desítky milionů, teď ho vláčí v bulváru. Jak se věci doopravdy mají?
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2019/2019-07-23-vyjadreni.jpg
+image: articles/2019/2019-07-23-pirat-bodecek-rozkryl-kauzy-za-desitky-milionu-ted-ho-vlaci-v-bulvaru-jak-se-veci-doopravdy-maji.jpg
 ---
 
 V Radě Prahy 1 máme pouze 2 hlasy z 8. Náš radní David Bodeček je neprávem zatahován do kauzy o jeho údajném střetu zájmů. Jedná se však o rozhodnutí celé Rady města Prahy 1 a souzní se stávajícím nastavením celé koalice. Fakta jsou taková, že v posledních měsících rozkryl kauzy pochybného rozprodávání městských bytů pod cenou, které proběhly za vlády bývalého starosty Prahy 1 Oldřicha Lomeckého, a to v hodnotě několika desítek milionů korun. V této věci padlo třicet sedm trestních oznámení. Články v Blesku vnímáme jako osobní pomstu jeho osobě.
