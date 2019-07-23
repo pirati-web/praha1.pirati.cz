@@ -9,7 +9,7 @@ authorId: david.bodecek
 image: articles/2019/2019-07-23-vyjadreni.jpg
 ---
 
-Ahoj, všem. Rád bych se ohradil proti dalším několika nepravdám, které byly uvedeny ve včerejším a v dnešním článku deníku Blesk, a rád bych se proti nim striktně vymezil. 
+**Ahoj, všem. Rád bych se ohradil proti dalším několika nepravdám, které byly uvedeny ve včerejším a v dnešním článku deníku Blesk, a rád bych se proti nim striktně vymezil.**
 
 - [https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/613497/sachy-s-bytem-v-parizske-stacil-dopis-radnimu-a-jeho-kolegyne-vyhrala-prohranou-obalkovou-soutez.html](https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/613497/sachy-s-bytem-v-parizske-stacil-dopis-radnimu-a-jeho-kolegyne-vyhrala-prohranou-obalkovou-soutez.html)
 
