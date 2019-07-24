@@ -9,6 +9,8 @@ authorId: pavel.nazarsky
 image: articles/2019/2019-07-23-odpovednost-za-ruseni-nocniho-klidu.jpg
 ---
 
+Článek v PL: [https://www.parlamentnilisty.cz/arena/rozhovory/Mistostarosta-Prahy-1-Odpovednost-za-ruseni-nocniho-klidu-v-kratkodobe-pronajimanych-bytech-ponese-nove-take-ubytovatel-589832](https://www.parlamentnilisty.cz/arena/rozhovory/Mistostarosta-Prahy-1-Odpovednost-za-ruseni-nocniho-klidu-v-kratkodobe-pronajimanych-bytech-ponese-nove-take-ubytovatel-589832)
+
 **ROZHOVOR „Určitě se nesmíříme s rušením nočního klidu přímo v sousedních bytech, krátkodobě pronajímaných. Našli jsme způsob, jak nepostihovat pouze hlučící hosty, ale zejména jejich ubytovatele. To je nové. Sami ubytovatelé musí ve vlastním zájmu začít dbát o to, aby se jejich hosté nedopouštěli přestupků,“ řekl pro ParlamentníListy.cz místostarosta Prahy 1 Pavel Nazarský.**
 
 **Jaké jsou vůbec pravomoci radnice zasáhnout do situace v krátkodobém pronajímání bytů?**
