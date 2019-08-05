@@ -15,7 +15,7 @@ Starosta Pavel Čižinský (PS), místostarosta Pavel Nazarský (Piráti) a radn
 
 Víceméně rychlá shoda panovala na formách přípustného buskingu. Za pouliční umění nelze ani podle občanů, ani podle přítomných umělců považovat převleky za cokoliv, bubliny, po kterých zůstává nebezpečně kluzký povrch, vystoupení s hady a podobné bizarnosti.
 
-![Připomínkování  magistrátní novely vyhlášky o pouličním umění uspořádalo vedení Prahy 1](/assets/img/articles/2019/2019-08-05-busking-v-praze-1-1.jpg)
+![Připomínkování  magistrátní novely vyhlášky o pouličním umění uspořádalo vedení Prahy 1](/assets/img/articles/2019/2019-08-05-busking-v-praze-1-2.jpg)
 
 Naopak kvalitní hudební produkci si lidé rádi poslechnou. Do koloritu města patří i výtvarní umělci, případně taneční vystoupení. Hudebníci by mohli podléhat režimu licencí, kdy by získali povolení v Praze vystupovat na přidělených místech a v dohodnutých časech. Další požadavek se vztahoval k hlasitosti produkce. Lidé si nepřejí zesilování hudby či zpěvu reproduktory. Na rozdíl od umělců, kteří požadovali zesilovače do výkonu 5 wattů. Představitelé radnice namítali, že dodržení výkonu lze jen stěží kontrolovat.
  
