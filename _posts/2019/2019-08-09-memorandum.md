@@ -5,7 +5,7 @@ category: blog
 layout: post
 title:  Memorandum o spolupráci při řešení bytové nouze
 author: David Bodeček
-authorId: jitka.nazarska
+authorId: david.bodecek
 image: articles/2019/2019-08-09-memorandum.jpg
 ---
 
