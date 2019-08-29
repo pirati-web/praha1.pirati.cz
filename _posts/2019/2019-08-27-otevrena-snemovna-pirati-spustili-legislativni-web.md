@@ -1,11 +1,11 @@
 ---
-date:         2019-08-27
-category:     blog
-tags:         celostátní digitalizace legislativa
-layout:       post
-title:        "Piráti spustili web Otevřená sněmovna, umožní sledování a připomínkování legislativy online"
-image:        articles/2019/2019-08-27-bartos-profant-os.jpg
+date: 2019-08-27
+category: blog
+tags: celostátní digitalizace legislativa
+layout: post
+title:  Piráti spustili web Otevřená sněmovna, umožní sledování a připomínkování legislativy online
 author:       Mediální odbor
+image: articles/2019/2019-08-27-bartos-profant-os.jpg
 ---
 
 Praha, 27. srpna 2018 – Piráti dnes spouští přelomový projekt s názvem Otevřená sněmovna, webový server, který umožní sledování a připomínkování klíčové legislativy, a to od úplného počátku až po finální znění návrhu. Účelem Otevřené sněmovny je zprůhlednění legislativního procesu a transparentní zapojení odborníků do paragrafové tvorby zákonů, a především prezentace otevřeného přístupu, který Piráti deklarovali již před svým vstupem do Poslanecké sněmovny. 
