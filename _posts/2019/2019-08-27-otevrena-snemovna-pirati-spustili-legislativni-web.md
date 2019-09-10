@@ -4,7 +4,7 @@ category: blog
 tags: celostátní digitalizace legislativa
 layout: post
 title:  Piráti spustili web Otevřená sněmovna, umožní sledování a připomínkování legislativy online
-author:       Mediální odbor
+author: Mediální odbor
 image: articles/2019/2019-08-27-bartos-profant-os.jpg
 ---
 
