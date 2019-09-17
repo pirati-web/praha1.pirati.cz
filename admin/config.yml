@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: pirati-web/praha1.pirati.cz   # Path to your Github repository
+  branch: master              # Branch to update
+  base_url: https://piraweboauth.herokuapp.com
+
+media_folder: "assets/img/posts"
+lang: "cs"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "články" # Used in the UI, ie.: "New Post"
+    folder: "_posts"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
+      - {label: "Publikováno", name: "published", widget: "boolean", default: true}
+      - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Autor", name: "author", widget: "string", required: true}
+      - {label: "Plakatek (hlavní obrázek)", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "SEO Popisek", name: "description", widget: "text", required: true}
+      - {label: "SEO tagy", name: "tags", widget: "text", required: true}
+    card: {type: "image", image: "image", text: "title", required: true}
