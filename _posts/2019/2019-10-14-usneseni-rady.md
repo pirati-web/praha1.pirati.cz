@@ -1,3 +1,13 @@
+---
+date: 2019-10-14
+category: blog
+tags: celostátní digitalizace legislativa
+layout: post
+title:  Vyřízení petice "Za zachování přirozené vegetace - vzrostlých stromů a keřů Petřína
+author: Mediální odbor
+image: articles/2019/2019-10-14-usneseni-rady.jpg
+---
+
 V úterý 8.10 přijala rada městské části Praha 1 toto usnesení 
                                                         
 Městská část Praha 1
