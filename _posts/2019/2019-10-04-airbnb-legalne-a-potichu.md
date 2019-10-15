@@ -1,5 +1,5 @@
 ---
-date: 2019-10-02
+date: 2019-10-04
 category: blog
 tags: celostátní digitalizace legislativa
 layout: post

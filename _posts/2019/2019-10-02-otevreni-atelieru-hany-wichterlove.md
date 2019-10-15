@@ -1,11 +1,11 @@
 ---
-date: 2019-10-07
+date: 2019-10-02
 category: blog
 tags: celostátní digitalizace legislativa
 layout: post
 title:  Ateliér sochařky Hany Wichterlové se znovu otevře veřejnosti. 
 author: Mediální odbor
-image: articles/2019/2019-10-09-otevreni-atelieru-hany-wichterlove.jpg
+image: articles/2019/2019-10-02-otevreni-atelieru-hany-wichterlove.jpg
 ---
                            
 PRAHA 1 - zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka
