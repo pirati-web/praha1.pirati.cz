@@ -5,7 +5,7 @@ tags:
 layout: post
 author: Pirátský zastupitelský klub 
 title: Na radnici Prahy 1 byl 15.10 2019 založen nový odbor
-image: articles/2019/2019-10-21-novy-odbor-na-radnici.jpg
+image: articles/2019/2019-10-21-novy-odbor-na-radnici.png
 ---
 
 Velmi důležitý. Nikoli však primárně pro občany Prahy 1, ale pro ty, kteří občanům Prahy 1 vykonávají službu - pro úředníky radnice.
