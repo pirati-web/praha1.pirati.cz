@@ -3,7 +3,7 @@ date:         2019-11-05
 layout: post
 tags:         praha-1 piráti
 title:        "Záchody Petřín. Přemístit WC nebo celý projekt pozastavit?"
-image: 	      articles/2019-11-05-participace-zachody-petrin.jpg
+image: 	      articles/2019/2019-11-05-participace-zachody-petrin.jpg
 author:       MHMP
 ---
 Piráti konečně prosadili, aby se o záchodcích diskutovalo s veřejností.
