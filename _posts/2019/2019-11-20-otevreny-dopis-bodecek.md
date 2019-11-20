@@ -3,7 +3,7 @@ date:         2019-11-20
 layout: post
 tags:         praha-1 piráti
 title:        "Otevřený dopis Davida Bodečka starostovi Prahy 1 ve věci řešení nefunkčního a personálně podhodnoceného úřadu"
-image: 	      rticles/david-bodecek.jpg
+image: 	      articles/david-bodecek.jpg
 author: David Bodeček
 authorId: david.bodecek
 ---
