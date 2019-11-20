@@ -2,7 +2,7 @@
 date:         2019-11-20
 tags:         praha-1
 title:        "Chápeme důvody našeho radního pro majetek a bytovou politiku Davida Bodečka"
-image: 	      2019/2019-11-20-chapeme-duvody-naseho-radniho.jpg
+image: 	      articles/2019/2019-11-20-chapeme-duvody-naseho-radniho.jpg
 author:       Piráti
 ---
 
