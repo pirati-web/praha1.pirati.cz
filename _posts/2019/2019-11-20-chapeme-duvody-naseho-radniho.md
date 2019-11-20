@@ -6,7 +6,6 @@ title:        "Chápeme důvody našeho radního pro majetek a bytovou politiku 
 image: 	      articles/2019/2019-11-20-chapeme-duvody-naseho-radniho.jpg
 author:       Piráti
 ---
-
 „Chápeme důvody našeho radního pro majetek a bytovou politiku Davida Bodečka k napsání otevřeného dopisu 
 určenému starostovi městské části Praha 1, ve kterém uvedl deset závažných bodů k řešení. V dopise zdůrazňuje 
 zejména problematiku personálního podstavu ve vybraných odborech úřadu městské části Praha 1. Je nám jasné, 
