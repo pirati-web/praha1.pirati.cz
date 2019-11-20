@@ -1,9 +1,11 @@
 ---
 date:         2019-11-20
-tags:         praha-1
+layout: post
+tags:         praha-1 piráti
 title:        "Otevřený dopis Davida Bodečka starostovi Prahy 1 ve věci řešení nefunkčního a personálně podhodnoceného úřadu"
-image: 	      articles/david-bodecek.jpg
-author:       David Bodeček
+image: 	      rticles/david-bodecek.jpg
+author: David Bodeček
+authorId: david.bodecek
 ---
 
 Mgr. Pavel Čižinský
