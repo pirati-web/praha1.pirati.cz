@@ -1,6 +1,5 @@
 ---
 layout: post
-category: CLANKY
 title: "Listopad 2019 - podzimní Škola Zdravých měst v\_Hodoníně"
 date: '2019-12-09'
 author: Pavel Nazarský
