@@ -4,7 +4,7 @@ category: CLANKY
 title: "Listopad 2019 - podzimní Škola Zdravých měst v\_Hodoníně"
 date: '2019-12-09 10:09am'
 author: Pavel Nazarský
-image: /assets/img/articles/nszm-hodonin-6-8-11-19.jpg
+image: articles/nszm-hodonin-6-8-11-19.jpg
 tags: "podzimní Škola Zdravých měst v\_Hodoníně\n"
 ---
 Od středy do pátku 6. až 8. listopadu proběhla podzimní Škola Zdravých měst
