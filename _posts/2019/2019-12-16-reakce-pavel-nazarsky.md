@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: Reakce Pavel Nazarský
 date: '2019-12-16'
