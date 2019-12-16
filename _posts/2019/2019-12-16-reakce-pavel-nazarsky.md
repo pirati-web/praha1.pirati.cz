@@ -2,9 +2,9 @@
 layout: blog
 category: CLANKY
 title: Reakce Pavel Nazarský
-date: '2019-12-16 03:20pm'
+date: '2019-12-16'
 author: Pavel Nazarský
-image: /assets/img/articles/pavel-nazarsky.jpg
+image: articles/pavel-nazarsky.jpg
 tags: |-
   Piráti Praha 1
   Pavel Nazarský
