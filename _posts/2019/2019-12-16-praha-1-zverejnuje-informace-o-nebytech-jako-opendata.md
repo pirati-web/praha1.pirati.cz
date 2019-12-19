@@ -1,4 +1,6 @@
 ---
+layout: post
+category: CLANKY
 date:         2019-12-16
 tags:         praha-1
 title:        "Praha 1 zveřejňuje seznam všech svých pronajatých nebytových prostor na pražském portálu Opendata"
