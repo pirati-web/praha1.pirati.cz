@@ -4,7 +4,7 @@ category: blog
 title: >-
   Prahou 1 zmítá zrada na voličích od tří koaličních zastupitelů z My co tady
   žijeme
-date: '2020-01-09 01:17pm'
+date: '2020-01-09'
 author: Jitka Nárožná
 image: articles/2019/2019-01-27-treti-zmc.jpg
 tags: |-
