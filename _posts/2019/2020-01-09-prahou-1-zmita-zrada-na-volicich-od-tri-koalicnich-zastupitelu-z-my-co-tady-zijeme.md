@@ -6,7 +6,7 @@ title: >-
   žijeme
 date: '2020-01-09'
 author: Piráti Praha 1
-image: articles/2019/2019-01-27-treti-zmc.jpg
+image: articles/2019/23215504_507272422968622_6004861457427488809_o.jpg
 tags: |-
   piráti praha 1
   koalice
