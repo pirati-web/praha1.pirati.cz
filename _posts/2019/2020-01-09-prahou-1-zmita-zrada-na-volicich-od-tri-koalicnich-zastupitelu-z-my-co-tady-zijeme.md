@@ -11,7 +11,7 @@ tags: |-
   piráti praha 1
   koalice
 ---
-**Praha, 9. ledna 2020 - Koalice na Praze 1 se otřásá v základech. Koaliční subjekty Prahu 1 sobě, Piráty a Zelenou Pro Jedničku zradil jejich koaliční partner, konkrétně tři zastupitelé z uskupení My co tady žijeme. Aktuálně hrozí návrat starých struktur a korupčních pořádků do vedení jedné z nejbohatších městských částí. Piráti zásadně nesouhlasí se změnou stávající koalice a zůstávají na straně občanů Prahy 1 a poctivých členů koalice. Jediná možnost je pokračovat v pozitivních změnách, které se svým příchodem na radnici nastartovaly. ** 
+**Praha, 9. ledna 2020 - Koalice na Praze 1 se otřásá v základech. Koaliční subjekty Prahu 1 sobě, Piráty a Zelenou Pro Jedničku zradil jejich koaliční partner, konkrétně tři zastupitelé z uskupení My co tady žijeme. Aktuálně hrozí návrat starých struktur a korupčních pořádků do vedení jedné z nejbohatších městských částí. Piráti zásadně nesouhlasí se změnou stávající koalice a zůstávají na straně občanů Prahy 1 a poctivých členů koalice. Jediná možnost je pokračovat v pozitivních změnách, které se svým příchodem na radnici nastartovaly.** 
 
 *“Po všech diskuzích, které se odehrály v koalici i se zástupci opozice, je naprosto evidentní, že se jedná o dlouhodobě promyšlený plán na zradu na voličích od koaličních partnerů z uskupení My co tady žijeme. To uspělo ve volbách hlavně z toho důvodu, že se vymezilo proti klubu TOP 09 s pošramocenou pověstí, o které se zasadil bývalý starosta Lomecký se svými korupčními praktikami,”* říká Jitka Nazarská, předsedkyně zastupitelského klubu Pirátů Prahy 1. 
 
