@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   Prahou 1 zmítá zrada na voličích od tří koaličních zastupitelů z My co tady
   žijeme
