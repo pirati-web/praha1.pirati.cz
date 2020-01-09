@@ -6,6 +6,7 @@ title: >-
   žijeme
 date: '2020-01-09 01:17pm'
 author: Jitka Nárožná
+image: articles/2019/2019-01-27-treti-zmc.jpg
 tags: |-
   piráti praha 1
   koalice
