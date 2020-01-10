@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Nové vedení na Praze 1 dosáhlo mnoha skvělých změn. Teď hrozí, že se věci vrátí ke starým pořádkům
-date: 2020-01-09
+date: 2020-01-10
 author: Pavel Nazarský
 image: articles/2019/23215504_507272422968622_6004861457427488809_o.jpg
 tags: |-
