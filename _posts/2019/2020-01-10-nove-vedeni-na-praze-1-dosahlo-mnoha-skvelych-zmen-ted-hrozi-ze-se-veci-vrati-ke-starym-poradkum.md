@@ -1,16 +1,15 @@
 ---
 layout: post
 category: blog
-title: >-
-  Nové vedení na Praze 1 dosáhlo mnoha skvělých změn. Teď hrozí, že se věci
-  vrátí ke starým pořádkům
-date: '2020-01-10'
+title: Nové vedení na Praze 1 dosáhlo mnoha skvělých změn. Teď hrozí, že se věci vrátí ke starým pořádkům
+date: 2020-01-09
 author: Pavel Nazarský
-image: nove-vedeni-na-praze1.jpg
+image: articles/2019/23215504_507272422968622_6004861457427488809_o.jpg
 tags: |-
-  praha 1
-  piráti
+  piráti praha 1
+  koalice
 ---
+
 **Na začátku příštího týdne proběhne na Praze 1 mimořádné jednání zastupitelstva. Mezi hlavní body jednání je mimo jiné zařazeno i odvolání mého kolegy, stávajícího starosty Pavla Čižinského, a dalších členů rady. Mám vážné obavy, že pokud nastoupí do vedení této městské části nová koalice, ohrozí to zásadně vše dobré, co se nám za více než rok podařilo pro Prahu 1 udělat. Proto je podle mého názoru na čase se začít ptát, jak za celou znepokojivou situací stojí zákulisní lobby, která prosazuje soukromé zájmy kmotrů před zájmy našich občanů.**
 
 Když nám občané Prahy 1 v komunálních volbách dali příležitost řídit naši městskou část, byli jsme plni nadějí. Měli jsme možnost ukázat veřejnosti, že to jde transparentně, poctivě a bez korupce. Troufám si tvrdit, že za rok a půl našeho působení, se nám podařilo prosadit mnoho změn. A i díky vstřícnému přístupu pražského magistrátu, jsme dokázali naši městskou část posunout od pochybných praktik “devadesátkových podnikatelů” do 21. století. Teď když hrozí, že se kvůli zradě našich koaličních partnerů z uskupení My co tady žijeme vrátí na radnici v samotném centru Prahy staré pořádky, tak nemohu celou situaci vnímat jinak, než jako naprosto bezprecedentní podraz na voličích. 
