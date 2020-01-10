@@ -1,12 +1,12 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   Nové vedení na Praze 1 dosáhlo mnoha skvělých změn. Teď hrozí, že se věci
   vrátí ke starým pořádkům
 date: '2020-01-10 04:49pm'
 author: Pavel Nazarský
-image: /assets/img/articles/nove-vedeni-na-praze1.jpg
+image: nove-vedeni-na-praze1.jpg
 tags: |-
   praha 1
   piráti
