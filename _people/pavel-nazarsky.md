@@ -5,7 +5,7 @@ fullname: Mgr. Pavel Nazarský
 category:
   - clenove
   - kandidat-obec 
-description: Místostarosta Praha 1 oblast školství a otevřená radnice a participaci, učitel 1. st. ZŠ
+description: zastupitel, učitel 1. st. ZŠ
 img: people/pavel-nazarsky.jpg
 age: 56 let
 mail:
