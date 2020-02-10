@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Kdo měl a kdo neměl čas na setkání s občany?
-date: '2020-02-10 03:41pm'
+date: 2020-02-10
 author: Mgr. Pavel Nazarský
 image: articles/intercontinental.jpg
 tags: |-
@@ -10,6 +10,7 @@ tags: |-
   participace
   InterContinental
 ---
+
 **Odpověď nám dalo setkání 15. ledna k zamýšleným úpravám prostranství v okolí hotelu InterContinental.**
 
 Připravit participativní setkání občanů s investorem a architektem není jednoduchá věc. Nejdůležitější je ochota investora i architekta se s občany setkat a vést dialog. Tato ochota tu je. Architekt Marek Tichý při hledáním konečné podoby celého projektu s účastí laické i odborné veřejnosti přímo počítá. Také v zájmu investora je nalézt konsenzus se všemi zainteresovanými stranami, a urychlit tím možnost realizace. Náměstek primátora Petr Hlaváček myšlenku participace podporuje…
