@@ -1,6 +1,5 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
 title: Kdo měl a kdo neměl čas na setkání s občany?
 date: '2020-02-10 03:41pm'
 author: Mgr. Pavel Nazarský
