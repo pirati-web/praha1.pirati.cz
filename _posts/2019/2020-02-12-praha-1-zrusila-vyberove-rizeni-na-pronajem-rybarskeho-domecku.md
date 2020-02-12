@@ -2,13 +2,13 @@
 layout: blog
 category: CLANKY
 title: PRAHA 1 ZRUŠILA VÝBĚROVÉ ŘÍZENÍ NA PRONÁJEM RYBÁŘSKÉHO DOMEČKU ‼️
-date: '2020-02-12 07:55pm'
+date: '2020-02-12'
 author: David Bodeček
-image: /assets/img/articles/praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
-tags: |-
-  Piráti
-  Pronájem
-  Rybářský domeček
+image: praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
+tags:
+  - Piráti
+  - Pronájem
+  - Rybářský domeček
 ---
 PRAHA 1 - zprávy z kanceláře předsedy Kontrolního výboru (5/2020) - Davida Bodečka
 
