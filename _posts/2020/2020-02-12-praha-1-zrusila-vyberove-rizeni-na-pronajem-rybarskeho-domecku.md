@@ -1,10 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: PRAHA 1 ZRUŠILA VÝBĚROVÉ ŘÍZENÍ NA PRONÁJEM RYBÁŘSKÉHO DOMEČKU ‼️
 date: '2020-02-12'
 author: David Bodeček
-image: praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
+image: articles/praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
 tags:
   - Piráti
   - Pronájem
@@ -12,9 +12,7 @@ tags:
 ---
 PRAHA 1 - zprávy z kanceláře předsedy Kontrolního výboru (5/2020) - Davida Bodečka
 
-‼️PRAHA 1 ZRUŠILA VÝBĚROVÉ ŘÍZENÍ NA PRONÁJEM RYBÁŘSKÉHO DOMEČKU ‼️
-
-📛Vodnický domeček na Kampě bude i nadále bez svého nájemníka - Rada MČ Praha 1 výběrové řízení zrušila📛
+**Vodnický domeček na Kampě bude i nadále bez svého nájemníka - Rada MČ Praha 1 výběrové řízení zrušila**
 
 Radní Prahy 1  zrušili výběrové řízení na pronájem Rybářského domečku na Kampě. Nejen Konec vodníků v Čechách, ale i konec nadějím, že současná politická garnitura dá šanci a dokončí výběrové řízení vypsané minulým vedení, jehož příprava byla náročná a to mimo jiné díky dlouhým jednáním napříč celým politickým spektrem Prahy 1. Spousta z nás se radovala, že se na podzim 2019 povedlo vypsat veřejností dlouho očekávané výběrové řízení na objekt, který dlouhou dobu chátrá a každé další zimní období má pro vodnický dům negativní dopad.
 
