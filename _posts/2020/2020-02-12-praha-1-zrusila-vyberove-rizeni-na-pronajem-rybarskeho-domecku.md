@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: PRAHA 1 ZRUŠILA VÝBĚROVÉ ŘÍZENÍ NA PRONÁJEM RYBÁŘSKÉHO DOMEČKU ‼️
+title: PRAHA 1 ZRUŠILA VÝBĚROVÉ ŘÍZENÍ NA PRONÁJEM RYBÁŘSKÉHO DOMEČKU‼️
 date: '2020-02-12'
 author: David Bodeček
 image: articles/praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
@@ -28,6 +28,6 @@ Odlišnost názorů není na škodu a já se těším na výsledek současným v
 
 Dobrou zprávou je také ochota vedení radnice, že by Rybářský domeček poskytovala ke krátkodobým kulturním projektům.
 
-Děkuji všem zájemcům, kteří věnovali čas, úsilí i finanční zdroje na zpracování velmi kvalitních nabídek. Omlouvám se jim, že ani na podruhé se nepovedlo výběrové řízení vyhodnotit. Nikdo z nich nemůže za to, že došlo v průběhu výběrového řízení k politické změně ve vedední radnice a tudíž i ke změně názoru na využití Rybářského domečku. Nebýt lednové politické změny ve vedení našeho úřadu, z pozice radního pro majetek bych prosazoval dokončení výběrového řízení. Já byl, a stále jsem, nadšen z některých předložených nabídek.\
-\
+Děkuji všem zájemcům, kteří věnovali čas, úsilí i finanční zdroje na zpracování velmi kvalitních nabídek. Omlouvám se jim, že ani na podruhé se nepovedlo výběrové řízení vyhodnotit. Nikdo z nich nemůže za to, že došlo v průběhu výběrového řízení k politické změně ve vedední radnice a tudíž i ke změně názoru na využití Rybářského domečku. Nebýt lednové politické změny ve vedení našeho úřadu, z pozice radního pro majetek bych prosazoval dokončení výběrového řízení. Já byl, a stále jsem, nadšen z některých předložených nabídek.
+
 David Bodeček - předseda Kontrolního výboru
