@@ -1,0 +1,44 @@
+---
+layout: blank-article
+---
+
+<div class="c-emphasized-text c-person">
+  {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
+  {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
+</div>
+
+{% if page.wiki %}
+  <p><a class="c-emphasized-anchor u-stacked" href="{{ page.wiki }}">{{ page.wiki }}</a></p>
+{% endif %}
+
+<h3>Moje články</h3>
+
+
+<ul>
+  {% assign posts = site.posts | sort: 'date' | reverse | where: "authorId", page.uid %}
+  {% for post in posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% if page.calendar %}
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                <h1 class="c-BasicPage__title" id="praha"> Kalendář</h1>
+              </div>
+            </div>
+          </div>
+	  <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar}}&ctz=Europe%2FPrague" style="border: 0" width="770" height="600" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
+{% endif %}
