@@ -1,14 +1,14 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: Postřehy z Komise obecního majetku a Komise  pro bydlení
-date: '2020-03-04 02:41pm'
-author: Mgr. David Bodeček
+date: '020-03-04'
+author: David Bodeček
 image: /assets/img/articles/2020-03-postrehy-komise-majetku-komise-bydleni.png
-tags: |-
-  postřehy
-  komise obecního majetku
-  komise  pro bydlení
+tags:
+  - postřehy
+  - komise obecního majetku
+  - komise  pro bydlení
 ---
 Jako gesční radní pro oblast majetku a bytovou politiku jsem měl po dobu mé působnosti, tj. od 11/2018 do 1/2020, na Městské části Praha 1 (dále jen „MČP1“) pod sebou dvě komise a to Komisi obecního majetku a Komisi pro bydlení.
 
