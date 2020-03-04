@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Praha 1 zrušila výběrové řízení na pronájem Rybářského domečku!!
+title: Praha 1 zrušila výběrové řízení na pronájem Rybářského domečku!
 date: '2020-02-12'
 author: David Bodeček
 image: articles/praha-1-zrusila-vyberove-rizeni-na-rybarsky-domecek.jpg
