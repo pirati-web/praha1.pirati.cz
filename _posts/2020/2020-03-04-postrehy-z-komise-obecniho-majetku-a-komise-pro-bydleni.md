@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Postřehy z Komise obecního majetku a Komise  pro bydlení
-date: '020-03-04'
+date: '2020-03-04'
 author: David Bodeček
 image: articles/2020-03-postrehy-komise-majetku-komise-bydleni.png
 tags:
