@@ -4,6 +4,7 @@ category: CLANKY
 title: Postřehy z Komise obecního majetku a Komise  pro bydlení
 date: '2020-03-04 02:41pm'
 author: Mgr. David Bodeček
+image: /assets/img/articles/2020-03-postrehy-komise-majetku-komise-bydleni.png
 tags: |-
   postřehy
   komise obecního majetku
