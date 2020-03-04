@@ -1,7 +1,9 @@
 ---
 date: 2019-01-07
 category: blog
-#tags: majetek pošta
+tags:
+  - Návštěva Galerie Prahy 1
+  - Praha 1
 layout: post
 title: Páteční návštěva Galerie Prahy 1 vyústila v překvapení měsíce, možná roku.
 author: Pavel Nazarský

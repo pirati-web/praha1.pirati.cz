@@ -1,7 +1,10 @@
 ---
 date: 2019-01-30
 category: blog
-tags: bezdomovec Praha
+tags:
+  - Nocleženka
+  - Armády spásy
+  - Pomoc
 layout: post
 title: Normální je pomáhat Piráti vybrali částku 10 100
 author: Romana Klimešová

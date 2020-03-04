@@ -1,7 +1,8 @@
 ---
 date: 2019-01-28
 category: blog
-tags: praha1
+tags:
+  - zprávy z kanceláře radního
 layout: post
 title: PRAHA 1 – zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka
 author: David Bodeček

@@ -1,7 +1,9 @@
 ---
 date: 2019-01-26
 category: blog
-tags: praha1
+tags:
+  - Setkání
+  - PiCe
 layout: post
 title: Každou středu setkání příznivců Pirátů z Prahy 1 v PiCe
 author: Jaroslava Nárožná

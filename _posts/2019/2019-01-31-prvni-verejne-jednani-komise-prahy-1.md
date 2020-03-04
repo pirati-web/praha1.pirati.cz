@@ -1,7 +1,8 @@
 ---
 date: 2019-01-31
 category: blog
-tags: Praha
+tags:
+  - Komise územního rozvoje
 layout: post
 title: První veřejné jednání Komise územního rozvoje Prahy
 author: Tomáš Vích

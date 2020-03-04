@@ -1,7 +1,9 @@
 ---
 date: 2019-01-25
 category: blog
-tags: praha1 kauzy
+tags:
+  - Zdravá města
+  - konference
 layout: post
 title: Z konference Národní sítě Zdravých měst
 author: Pavel Nazarský

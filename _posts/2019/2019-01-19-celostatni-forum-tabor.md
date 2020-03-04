@@ -1,7 +1,8 @@
 ---
 date: 2019-01-19
 category: blog
-tags: praha1
+tags:
+  - Celostátní Pirátské forum
 layout: post
 title: Online přenos - Celostátní Pirátské forum v Táboře
 author: Jitka Nazarská

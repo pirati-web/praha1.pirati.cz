@@ -1,7 +1,8 @@
 ---
 date: 2019-01-29
 category: blog
-tags: praha1
+tags:
+  - ZMČ
 layout: post
 title: Online přenos ze zastupitelstva 29. 1. 2019
 author: Jitka Nazarská

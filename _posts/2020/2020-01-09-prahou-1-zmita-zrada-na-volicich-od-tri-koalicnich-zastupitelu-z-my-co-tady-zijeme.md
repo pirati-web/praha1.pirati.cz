@@ -7,9 +7,9 @@ title: >-
 date: '2020-01-09'
 author: Piráti Praha 1
 image: articles/2019/23215504_507272422968622_6004861457427488809_o.jpg
-tags: |-
-  piráti praha 1
-  koalice
+tags:
+  - piráti praha 1
+  - koalice
 ---
 **Praha, 9. ledna 2020 - Koalice na Praze 1 se otřásá v základech. Koaliční subjekty Prahu 1 sobě, Piráty a Zelenou Pro Jedničku zradil jejich koaliční partner, konkrétně tři zastupitelé z uskupení My co tady žijeme. Aktuálně hrozí návrat starých struktur a korupčních pořádků do vedení jedné z nejbohatších městských částí. Piráti zásadně nesouhlasí se změnou stávající koalice a zůstávají na straně občanů Prahy 1 a poctivých členů koalice. Jediná možnost je pokračovat v pozitivních změnách, které se svým příchodem na radnici nastartovaly.** 
 

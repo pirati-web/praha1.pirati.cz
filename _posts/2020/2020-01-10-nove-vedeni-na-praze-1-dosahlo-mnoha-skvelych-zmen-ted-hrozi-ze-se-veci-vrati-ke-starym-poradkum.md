@@ -5,9 +5,9 @@ title: Nové vedení na Praze 1 dosáhlo mnoha skvělých změn. Teď hrozí, ž
 date: 2020-01-10
 author: Pavel Nazarský
 image: articles/nove-vedeni-na-praze1.jpg
-tags: |-
-  piráti praha 1
-  koalice
+tags:
+  - piráti praha 1
+  - koalice
 ---
 
 **Na začátku příštího týdne proběhne na Praze 1 mimořádné jednání zastupitelstva. Mezi hlavní body jednání je mimo jiné zařazeno i odvolání mého kolegy, stávajícího starosty Pavla Čižinského, a dalších členů rady. Mám vážné obavy, že pokud nastoupí do vedení této městské části nová koalice, ohrozí to zásadně vše dobré, co se nám za více než rok podařilo pro Prahu 1 udělat. Proto je podle mého názoru na čase se začít ptát, jak za celou znepokojivou situací stojí zákulisní lobby, která prosazuje soukromé zájmy kmotrů před zájmy našich občanů.**

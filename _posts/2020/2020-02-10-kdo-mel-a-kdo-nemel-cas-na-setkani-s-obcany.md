@@ -5,10 +5,10 @@ title: Kdo měl a kdo neměl čas na setkání s občany?
 date: 2020-02-10
 author: Mgr. Pavel Nazarský
 image: articles/intercontinental.jpg
-tags: |-
-  úpravy prostranství
-  participace
-  InterContinental
+tags:
+  - úpravy prostranství
+  - participace
+  - InterContinental
 ---
 
 **Odpověď nám dalo setkání 15. ledna k zamýšleným úpravám prostranství v okolí hotelu InterContinental.**

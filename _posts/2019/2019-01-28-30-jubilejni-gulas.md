@@ -1,7 +1,8 @@
 ---
 date: 2019-01-28
 category: blog
-tags: praha1
+tags:
+  - Pirátský guláš
 layout: post
 title: Jubilejní 30. pirátský guláš doprovodila výměnná akce nepotřebných věcí
 author: Jitka Nazarská

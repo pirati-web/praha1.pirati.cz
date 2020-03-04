@@ -1,7 +1,8 @@
 ---
 date: 2019-01-28
 category: blog
-tags: praha1
+tags:
+  - Odvolání
 layout: post
 title: ŠÉFKA MAJETKU PRAHY 1 ODVOLÁNA -  PRAHA 1 – zprávy z kanceláře radního pro majetek a bytovou politiku Davida Bodečka (2/2019)
 author: David Bodeček
