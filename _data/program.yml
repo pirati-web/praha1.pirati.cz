@@ -8,25 +8,25 @@
   id: 2
   title: OTEVŘENÁ RADNICE - PARTICIPACE - spoluúčast občanů na rozhodování
   desc: Spoluúčast na rozhodování v důsledku znamená i spoluúčast na užívání obecního majetku. Čím smysluplněji bude s majetkem a prostředky obce nakládáno, tím větší díl připadne na užívání občany.
-  garant: jitka.nazarsky
+  garant: pavel.nazarsky
   redmine: 29089
 -
   id: 3
   title: OTEVŘENÁ RADNICE - SERVIS OBČANŮM - pomocná ruka
   desc: 
-  garant: jaroslava.narozna
+  garant: jitka.nazarska
   redmine: 29091
 -
   id: 4
   title: BEZPEČNOST a POŘÁDEK  
   desc: Praha je sice jednou z nejbezpečnějších metropolí, ale z pohledu obyvatele se jako každá metropole potýká s drobnou kriminalitou a rušením klidu a pořádku. V centru města oboje souvisí s turismem. Turisté jsou jednak sami terčem krádeží a podvodů, na druhé straně jsou to však zejména oni, kdo svým bezohledným chováním obtěžují místní občany a ruší noční klid. Zábavní podniky, pouliční atrakce, ale i provoz mnohých restaurací a barů celkový nepořádek a hluk ještě zvyšují. V poslední době přibyl problém nejzávažnější - rušení nočního klidu v domech, kde jsou byty pronajímány turistům.
-  garant: david.bodecek
+  garant: pavel.nazarsky
   redmine: 29093
 -
   id: 5
   title: CESTOVNÍ RUCH
   desc: Turismus nesmí narušovat sousedský život v centru města, aby zde občané mohli normálně žít a pracovat. Neúnosný hluk a nepořádek v ulicích a v domech s nelegálními apartmány způsobil postupný odliv rezidentů z centra Prahy. Ti, kteří zde chtějí nadále bydlet, se musí účinně bránit bezohlednosti podnikatelů v turistickém ruchu. Nelegální a podvodné podnikání nebudeme trpět. Turistické služby musí dodržovat daná pravidla.
-  garant: adam.zabransky
+  garant: pavel.nazarsky
   redmine: 29095
 -
   id: 6
