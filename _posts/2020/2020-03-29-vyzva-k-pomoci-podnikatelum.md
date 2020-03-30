@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: VÝZVA K POMOCI PODNIKATELŮM – NÁJEMCŮM NEBYTOVÝCH PROSTOR MČ PRAHA 1, OBČANŮM PRAHY 1, KTEŘÍ MAJÍ PRONAJATÉ BYTOVÉ A NEBYTOVÉ PROSTORY, A ÚŘEDNIKŮM RADNICE PRAHY 1
+title: Výzva k pomoci podnikatelům - nájemcům nebytových prostor MČ Praha 1, občanům Prahy 1, kteří mají pronajaté bytové a nebytové prostory a úředníkům radnice Prahy 1
 date: '2020-03-29'
 author: 
 image: articles/2020-03-12-vyzva-k-pomoci-podnikatelum.jpg
