@@ -4,7 +4,7 @@ category: CLANKY
 title: Masaryčka - výzva opozičních zastupitelů Prahy 1 primátorovi Zdeňku Hřibovi
 date: '2020-05-07 08:18pm'
 author: Tomáš Vích
-image: articles/2020-03-12-vyzva-k-pomoci-podnikatelum.jpg
+image: articles/2020-05-07-masarycka-vyzva-opozicnich-zastupitelu-prahy-1-primatorovi-zdenku-hribovi-01.jpg
 tags: 
   - územní rozvoj
   - architektura
