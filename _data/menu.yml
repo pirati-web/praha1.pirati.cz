@@ -16,12 +16,12 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /clenove/
-    name: Naši členové
-    match: clenove
-  - link: /komunalni-volby-2018/
-    name: Volby 2018
-    match: komunalni-volby-2018
+  - link: /lide/
+    name: Lidé
+    match: lide
+  - link: /komunalni-volby/
+    name: Komunální volby
+    match: komunalni-volby
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
