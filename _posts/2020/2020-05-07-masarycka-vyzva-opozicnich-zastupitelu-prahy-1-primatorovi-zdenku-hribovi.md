@@ -41,5 +41,6 @@ Zelená Pro Jedničku: Petr Kučera
 
 LES: Martin Kotas
 
+
 ![Masaryčka](/assets/img/2020/2020-05-07-masarycka-vyzva-opozicnich-zastupitelu-prahy-1-primatorovi-zdenku-hribovi-05.jpg)
 
