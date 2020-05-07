@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: Masaryčka - výzva opozičních zastupitelů Prahy 1 primátorovi Zdeňku Hřibovi
-date: '2020-05-07 08:18pm'
+date: '2020-05-07'
 author: Tomáš Vích
 image: articles/2020-05-07-masarycka-vyzva-opozicnich-zastupitelu-prahy-1-primatorovi-zdenku-hribovi-01.jpg
 tags: 
