@@ -13,7 +13,7 @@ tags:
 Masaryčka - výzva opozičních zastupitelů Prahy 1
 primátorovi Zdeňku Hřibovi
 
-Pirátští zastupitelé Prahy 1 ve spolupráci s kolegy z Prahy 1 Sobě, Zelená Pro Jedničku a z Liberálně ekologické strany zaslali dne 29. května 2020 výzvu primátorovi Zdeňku Hřibovi, aby se odvolal v územním řízení na výstavbu Penty u Masarykova nádraží.  
+Pirátští zastupitelé Prahy 1 ve spolupráci s kolegy z Prahy 1 Sobě, Zelená Pro Jedničku a z Liberálně ekologické strany zaslali dne 29. dubna 2020 výzvu primátorovi Zdeňku Hřibovi, aby se odvolal v územním řízení na výstavbu Penty u Masarykova nádraží.  
 
 Vážený pane primátore,
 
