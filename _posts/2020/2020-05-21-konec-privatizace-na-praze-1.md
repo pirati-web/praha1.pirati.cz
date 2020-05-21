@@ -23,5 +23,9 @@ Bodeček v minulosti popsal příklad, kdy v roce 2018 došlo k prodeji obecníh
 Květnové zastupitelstvo bylo specifické tím, že v závěru jednání opustila zasedání většina opozičních zastupitelů na protest proti změně jednacího řádu, kdy bylo zkrácena doba trvání jednotlivých diskusních příspěvků a byla omezena demokratická diskuse. Na zasedání z taktických důvodů zůstal pouze jeden pirátský zastupitel, aby k bodu o privatizaci, který je důležitou součástí pirátského programu, mohl vystoupit. *„Jsme velmi rádi, že zastupitelstvo přijalo usnesení, které konstatuje, že prodej bytů bude v budoucnu probíhat podle podmínek, které nejsou v rozporu se zákonem,“* dodala k tomu předsedkyně pirátských zastupitelů Jitka Nazarská. Zastupitelstvo uložilo radě, aby do 30. 9. 2020 předložila nové Zásady pro prodej bytů na Praze 1. Tím bude zahájeno dokončení privatizačního procesu na území městské části Praha 1.
 
 ## Kontakt pro média:
-- David Bodeček, zastupitel MČ Praha 1 a předseda kontrolní komise, tel: +420 775 592 183; mail: david.bodecek@pirati.cz
-- Michal Polák, PR Manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
+- David Bodeček, zastupitel MČ Praha 1 a předseda kontrolní komise, 
+  tel: +420 775 592 183,
+  mail: [david.bodecek@pirati.cz]
+- Michal Polák, PR Manažer KS Praha, 
+  tel: +420 608 517 127, 
+  mail: [michal.polak@pirati.cz]
