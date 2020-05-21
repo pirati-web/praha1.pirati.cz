@@ -5,7 +5,7 @@ title: Konec privatizace na Praze 1, která v minulosti z nájemníků udělala 
 date: '2020-05-21'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/david-bodecek.jpg
+image: people/david-bodecek.jpg
 tags: 
   - privatizace bytů
 ---
