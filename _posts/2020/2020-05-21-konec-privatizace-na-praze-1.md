@@ -26,6 +26,6 @@ Květnové zastupitelstvo bylo specifické tím, že&nbsp;v&nbsp;závěru jedná
 - David Bodeček, zastupitel MČ Praha 1 a předseda kontrolní komise,\
   tel: +420 775 592 183,\
   mail: <david.bodecek@pirati.cz>
-- Michal Polák, PR Manažer KS Praha,\ 
+- Michal Polák, PR Manažer KS Praha,\
   tel: +420 608 517 127,\
   mail: <michal.polak@pirati.cz>
