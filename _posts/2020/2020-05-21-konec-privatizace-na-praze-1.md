@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Konec privatizace na Praze 1, která v minulosti z nájemníků udělala milionáře
-date: '2020-05-07'
+date: '2020-05-21'
 author: David Bodeček
 authorId: david.bodecek
 image: articles/david-bodecek.jpg
