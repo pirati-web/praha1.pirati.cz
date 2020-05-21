@@ -10,8 +10,6 @@ tags:
   - privatizace bytů
 ---
 
-## Tisková zpráva
-
 **Praha 21.&nbsp;května 2020 - Piráti Praha 1 plní volební slib. Na&nbsp;úterním zasedání zastupitelstva Prahy 1 bylo přijato usnesení, na&nbsp;základě něhož končí prodej obecních bytů za&nbsp;hubičku, a&nbsp;to&nbsp;v&nbsp;samotném centru hlavního města Prahy. Končí tak&nbsp;éra, ve&nbsp;které&nbsp;si bývalí nájemníci krátce po&nbsp;odkoupení bytů od&nbsp;Prahy 1 namastili kapsy. Mnoho vlastníků levně nabytý byt se&nbsp;ziskem prodalo a&nbsp;odstěhovalo se. Byty pak sloužily jako investiční prostředek pro&nbsp;provozování krátkodobého ubytování s&nbsp;velmi lukrativním výdělkem pro&nbsp;spekulanty s&nbsp;byty, a&nbsp;to&nbsp;na&nbsp;úkor trvale žijících obyvatel s&nbsp;nárokem na&nbsp;klidný život.**
 
 Přes 5 tisíc obecních bytů si v&nbsp;minulosti od&nbsp;Prahy 1 odkoupili nájemníci, z&nbsp;nichž více než 60 procent bytů bylo následně přeprodáno. V&nbsp;některých případech až za&nbsp;dvacetinásobek ceny. *„Za&nbsp;zmínku stojí byt v&nbsp;ulici U&nbsp;Lužického semináře na&nbsp;Malé Straně. Byt o&nbsp;velikosti 81 metrů byl&nbsp;v&nbsp;roce 2007 nájemníkem od&nbsp;města odkoupen za&nbsp;690 tisíc korun. Ještě než ho katastrální úřad stihl přepsat, došlo k&nbsp;přeprodeji bytu za&nbsp;částku 9,5 miliónů korun,“*  říká k&nbsp;tomu pirátský zastupitel a&nbsp;předseda kontrolního výboru David&nbsp;Bodeček. V&nbsp;posledních letech naprosto degradoval hlavní cíl privatizace na&nbsp;Praze 1, kterým je&nbsp;poskytnutí jistoty bydlení občanům Prahy 1, kteří v&nbsp;bytech dlouhodobě žijí.
@@ -21,11 +19,3 @@ Bodeček během zasedání zastupitelstva upozornil na&nbsp;stále platné zása
 Bodeček v&nbsp;minulosti popsal příklad, kdy&nbsp;v&nbsp;roce 2018 došlo k&nbsp;prodeji obecního bytu v&nbsp;ulici Liliová o&nbsp;ploše 207 metrů nájemníkovi za&nbsp;9,6 miliónu korun, přestože cena obvyklá byla&nbsp;dle znaleckého posudku 29 miliónu. *„Zdůvodnění odchylky ve&nbsp;výši 20 miliónů korun s&nbsp;odkazem na&nbsp;privatizační zásady z&nbsp;roku 1998 je&nbsp;dle sdělení něco, co&nbsp;nemůže být v&nbsp;roce 2020 akceptovatelné,“* domnívá se&nbsp;Bodeček. V&nbsp;tomto případě nájemník zastupitelům v&nbsp;prosinci 2017 tvrdil, že&nbsp;nikdy byt neprodá, ale o&nbsp;tři čtvrtě roku později byt stejně přeprodal a&nbsp;opět se&nbsp;značným ziskem.
 
 Květnové zastupitelstvo bylo specifické tím, že&nbsp;v&nbsp;závěru jednání opustila zasedání většina opozičních zastupitelů na&nbsp;protest proti změně jednacího řádu, kdy&nbsp;bylo zkrácena doba trvání jednotlivých diskusních příspěvků a&nbsp;byla omezena demokratická diskuse. Na&nbsp;zasedání z&nbsp;taktických důvodů zůstal pouze jeden pirátský zastupitel, aby&nbsp;k&nbsp;bodu o&nbsp;privatizaci, který&nbsp;je&nbsp;důležitou součástí pirátského programu, mohl vystoupit. *„Jsme velmi rádi, že&nbsp;zastupitelstvo přijalo usnesení, které&nbsp;konstatuje, že&nbsp;prodej bytů bude v&nbsp;budoucnu probíhat podle podmínek, které&nbsp;nejsou v&nbsp;rozporu se&nbsp;zákonem,“* dodala k&nbsp;tomu předsedkyně pirátských zastupitelů Jitka Nazarská. Zastupitelstvo uložilo radě, aby&nbsp;do&nbsp;30. 9. 2020 předložila nové Zásady pro&nbsp;prodej bytů na&nbsp;Praze 1. Tím bude zahájeno dokončení privatizačního procesu na&nbsp;území městské části Praha 1.
-
-## Kontakt pro média:
-- David Bodeček, zastupitel MČ Praha 1 a předseda kontrolní komise,\
-  tel: +420 775 592 183,\
-  mail: <david.bodecek@pirati.cz>
-- Michal Polák, PR Manažer KS Praha,\
-  tel: +420 608 517 127,\
-  mail: <michal.polak@pirati.cz>
