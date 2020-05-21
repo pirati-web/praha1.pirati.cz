@@ -5,7 +5,7 @@ title: Konec privatizace na Praze 1, která v minulosti z nájemníků udělala 
 date: '2020-05-07'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2020/2020-05-07-masarycka-vyzva-opozicnich-zastupitelu-prahy-1-primatorovi-zdenku-hribovi-01.jpg
+image: articles/david-bodecek.jpg
 tags: 
   - privatizace bytů
 ---
