@@ -1,14 +1,14 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: 'Konec privatizace na Praze 1, která v minulosti z nájemníků udělala milionáře'
 date: '2020-06-04 07:32pm'
 author: David Bodeček
-image: /assets/img/articles/kolkovna.jpg
-tags: |-
-  Kolkovna
-  Privatizace
-  Kšeftování s byty
+image: articles/kolkovna.jpg
+tags:
+  - Kolkovna
+  - Privatizace
+  - Kšeftování s byty
 ---
 **Piráti Praha 1 plní volební slib. Na úterním zasedání zastupitelstva Prahy 1 bylo přijato usnesení, na základě něhož končí prodej obecních bytů za hubičku, a to v samotném centru hlavního města Prahy. Končí tak éra, ve které si bývalí nájemníci krátce po odkoupení bytů od Prahy 1 namastili kapsy. Mnoho vlastníků levně nabytý byt se ziskem prodalo a odstěhovalo se. Byty pak sloužily jako investiční prostředek pro provozování krátkodobého ubytování s velmi lukrativním výdělkem pro spekulanty s byty, a to na úkor trvale žijících obyvatel s nárokem na klidný život.**
 
