@@ -5,7 +5,7 @@ title: Státní zástupkyně Krützner má pozastavenou funkci, kryla v minulost
 date: '2020-05-21'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2020-06-08-statni-zastupkyne.jpg
+image: articles/2020/2020-06-08-statni-zastupkyne.jpg
 tags: 
   - státní zástupkyně
   - krutzner
