@@ -5,7 +5,7 @@ title: Vedení Prahy 1 dalo za pravdu předsedovi kontrolního výboru Bodečkov
 date: '2020-07-29'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2020/2020-07-29-kontrolni-vybor.jpg
+image: articles/kolkovna.jpg
 tags: 
   - pronájem
   - V Kolkovně 8
