@@ -32,7 +32,9 @@ Nejobecnějším cílem je zajistit udržitelný rozvoj území, tj. ochranu př
 
 Děkujeme za nastartování procesu změny a věříme v další otevřený a transparentní postup za účasti laické i odborné veřejnosti. Tento podnět prosím vnímejte jako první otevření diskuse všech účastníků i zainteresovaných osob o tématech, která naznačil první workshop, jehož konání jsme iniciovali již před více než rokem.
 
-Diskusní skupina na Facebooku: „Magistrála – vize a koncepce“ pro ty, kdo chtějí diskutovat: [https://www.facebook.com/groups/631570237506906/about](https://www.facebook.com/groups/631570237506906/about)Těšíme se na společnou práci.
+Diskusní skupina na Facebooku: „Magistrála – vize a koncepce“ pro ty, kdo chtějí diskutovat: [https://www.facebook.com/groups/631570237506906/about](https://www.facebook.com/groups/631570237506906/about)
+
+Těšíme se na společnou práci.
   
 V Praze dne 5. října 2020  
 Anna Vinklárková, Paul Vincent Koch, Karel Maier, Tomáš Vích, Vladan Hodek, Tomáš Raiter
