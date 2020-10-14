@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "MAGISTRÁLA - historická příležitost pro všechny"
-date: '2020-10-08'
+date: '2020-10-05'
 authorId: tomas.vich 
 image: articles/2020/2020-10-08-magistrala.jpg
 tags:
