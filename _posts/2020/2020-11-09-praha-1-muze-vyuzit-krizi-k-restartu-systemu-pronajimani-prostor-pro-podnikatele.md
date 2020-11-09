@@ -6,8 +6,7 @@ date: '2020-11-09'
 authorId: jitka.nazarska 
 image: articles/2020/naz2.jpg
 tags:
-  - Petřín
-  - Developeři
+  - majetek
 ---
 
 Praha 6. listopadu – Piráti na Praze 1 navrhují vedení městské části, aby neprodleně začalo připravovat strategii na výběrové řízení nebytových prostor, která by brala v úvahu potřeby stále menšího počtu obyvatel Prahy 1. Celý tento proces by městská část měla projednat také s hlavním městem a dalšími městskými částmi, kterých se ukončování nájemních smluv v důsledku pandemie Covidu týká. 
