@@ -9,7 +9,7 @@ tags:
   - majetek
 ---
 
-Praha 6. listopadu – Piráti na Praze 1 navrhují vedení městské části, aby neprodleně začalo připravovat strategii na výběrové řízení nebytových prostor, která by brala v úvahu potřeby stále menšího počtu obyvatel Prahy 1. Celý tento proces by městská část měla projednat také s hlavním městem a dalšími městskými částmi, kterých se ukončování nájemních smluv v důsledku pandemie Covidu týká. 
+**Praha 6. listopadu – Piráti na Praze 1 navrhují vedení městské části, aby neprodleně začalo připravovat strategii na výběrové řízení nebytových prostor, která by brala v úvahu potřeby stále menšího počtu obyvatel Prahy 1. Celý tento proces by městská část měla projednat také s hlavním městem a dalšími městskými částmi, kterých se ukončování nájemních smluv v důsledku pandemie Covidu týká.**
 
 > „Bohužel pro mnohé podnikatele jsou vládní omezení likvidační. Někteří dokázali přežít jarní vlnu, ale podzim už se mnohým stal osudným. Praha 1 by měla situaci využít jako příležitost pro restart a neprodleně by měla usilovat o brzké obsazení volných prostor. Klidně i za cenu toho, že nájemné nebude tak vysoké jako v minulých letech,“ říká k tomu Jitka Nazarská, pirátská zastupitelka Prahy 1. 
 
