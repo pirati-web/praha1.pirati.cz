@@ -9,7 +9,7 @@ tags:
   - majetek
 ---
 
-Praha 1, 10. 11. 2020 – Rada MČ Praha 1 na úterním zastupitelstvu přednesla svůj záměr odprodat 6 dvorků ve vlastnictví města společenstvím vlastníků na Praze 1 v ulicích Jeruzalemská, Újezd, Na Poříčí, Růžová, Haštalská a Mastná. Piráti Praha 1 vystoupili proti tomuto záměru a upozornili na nízkou cenu a potenciální zneužití na krátkodobé pronájmy Airbnb. Předkladatel, radní Jan Votoček (TOP 09), akceptoval naše výhrady a přerušil projednání svého bodu.
+Praha 1, 10. 11. 2020 – Rada MČ Praha 1 na úterním zastupitelstvu přednesla svůj záměr odprodat 6 dvorků ve vlastnictví města společenstvím vlastníků na Praze 1 v ulicích Jeruzalemská, Újezd, Na Poříčí, Růžová, Haštalská a Masná. Piráti Praha 1 vystoupili proti tomuto záměru a upozornili na nízkou cenu a potenciální zneužití na krátkodobé pronájmy Airbnb. Předkladatel, radní Jan Votoček (TOP 09), akceptoval naše výhrady a přerušil projednání svého bodu.
 
 Předseda Kontrolního výboru David Bodeček během zasedání řekl, že tisky k privatizaci dvorků jsou nehlasovatelné. 
 
