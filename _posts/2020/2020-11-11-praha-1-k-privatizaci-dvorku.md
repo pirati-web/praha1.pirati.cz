@@ -2,9 +2,9 @@
 layout: post
 category: blog
 title: "Radnice Prahy 1 usiluje o privatizaci dvorků, Pirátům vadí nízká cena i riziko zneužití na krátkodobé pronájmy"
-date: '2020-11-11'
-authorId: jitka.nazarska 
-image: articles/2020/2020-11-11-vnitroblok.jpg
+date: '2020-11-10'
+authorId: david.bodecek
+image: articles/2020/2020-11-11-vnitroblok2.jpg
 tags:
   - majetek
 ---
