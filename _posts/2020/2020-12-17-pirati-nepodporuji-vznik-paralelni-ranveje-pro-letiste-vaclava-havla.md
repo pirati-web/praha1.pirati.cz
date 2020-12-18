@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: "Zastupitelský klub Piráti a Zelená pro jedničku nepodporuje rozšíření Letiště Praha"
 date: '2020-12-17'
-authorId: michal.polak
+authorId: tomas.vich
 image: articles/2020/2020-12-17-pirati-nepodporuji-vznik-paralelni-ranveje-pro-letiste-vaclava-havla
 tags:
   - letiště
