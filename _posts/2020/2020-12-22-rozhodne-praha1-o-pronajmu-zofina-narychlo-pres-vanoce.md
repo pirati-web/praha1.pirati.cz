@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "Rozhodne Praha 1 o pronájmu Žofína narychlo přes Vánoce?"
-date: '2020-12-17'
+date: '2020-12-21'
 authorId: tomas.vich
 image: articles/2020/2020-12-22-rozhodne-praha1-o-pronajmu-zofina-narychlo-pres-vanoce.jpg
 tags:
@@ -12,7 +12,7 @@ tags:
   - vánoce
 ---
 
-_21. prosince 2020_  **Rada Městské část Praha 1 se má v úterý na svém jednání zabývat pronájmem paláce Žofín na období od roku 2025, na stole je vyhlášení záměru prodloužit smlouvu současnému nájemci Agentura NKL s.r.o. Lhůta pro přihlášení dalších potenciálních zájemců o pronájem by tak připadla na vánoční svátky.**
+_**Rada Městské část Praha 1 se má v úterý na svém jednání zabývat pronájmem paláce Žofín na období od roku 2025, na stole je vyhlášení záměru prodloužit smlouvu současnému nájemci Agentura NKL s.r.o. Lhůta pro přihlášení dalších potenciálních zájemců o pronájem by tak připadla na vánoční svátky.**
 
 _„Komise obecního majetku doporučila realizovat pronájem Žofína formou otevřeného výběrového řízení. Pokusit se narychlo přiklepnout Žofín současnému nájemci pro městskou část je finančně ztrátové, vždyť jen v posledních několika letech radnice MČ Praha 1 investovala do žofínského paláce několik desítek milionů, tedy řádově mnohem více, než na druhé straně vybrala na nájemném“_, shodnou se zástupci opozičních stran  **Praha 1 sobě**,  **Piráti**  a  **Zelená pro Jedničku**.
 
@@ -26,7 +26,7 @@ _„Jedná se o nejreprezentativnější nemovitost městské části, se kterou
 
 **Kontakt:**
 
-- **David Bodeček** |  [david.bodecek@praha1.cz](mailto:david.bodecek@praha1.cz)  | 775 592 183
-- **Vladan Brož** |  [vladan.broz@praha1.cz](mailto:vladan.broz@praha1.cz)
-- **Petr Kučera** |  [petr.kucera@praha1.cz](mailto:petr.kucera@praha1.cz)  | 777 965 776
+**David Bodeček** |  [david.bodecek@praha1.cz](mailto:david.bodecek@praha1.cz)  | 775 592 183
+**Vladan Brož** |  [vladan.broz@praha1.cz](mailto:vladan.broz@praha1.cz)
+**Petr Kučera** |  [petr.kucera@praha1.cz](mailto:petr.kucera@praha1.cz)  | 777 965 776
 
