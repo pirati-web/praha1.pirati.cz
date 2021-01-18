@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: "Rybářský domeček se vedení Prahy 1 snaží pronajmout bez ohledu na výsledky proběhlého výběrového řízení a na participaci občanů"
 date: '2021-01-18'
-authorId: michal.polak
+author: Michal Polák
 image: articles/2021/2021-01-18-rybarsky-domecek-pronajem-bez-ohledu-na-vysledky-vyberoveho-rizeni.jpg
 tags:
   - Rybářský domeček
