@@ -4,10 +4,8 @@ name:     Jaroslava Nárožná
 fullname: Jaroslava Nárožná
 category:
   - kandidat-obec
-  - pms
-  - kontaktni_osoba
-categories: kontaktni_osoba    
-ordpms: 1  
+  - clenove
+  - kontaktni_osoba   
 description: herečka Divadélko Romaneto, předsedkyně Pirátů Prahy 1
 img: people/jaroslava-narozna.jpg
 age: 55 let
