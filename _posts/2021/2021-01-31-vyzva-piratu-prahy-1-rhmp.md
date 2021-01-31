@@ -16,11 +16,11 @@ tags:
 
 Vážení radní hlavního města Prahy, dovolujeme si Vás takto veřejně oslovit s výzvou, abyste velice zodpovědně zvážili a prověřili všechny argumenty pro a proti výstavbě nového domu na náměstí Miloše Formana, jak žádá investor WIC Prague a.s. dle projektu TaK Architects s.r.o. nazvaný „Staroměstská brána“ v aktuálně podané žádosti o vydání územního rozhodnutí.
 
-Záměr zcela bezprecedentně v režimu netransparentní „participace“, v rozporu se závazným Regulativy funkčního a prostorového uspořádání území hlavního města Prahy a navzdory  veřejnému odporu, který už jednou posbíral v petici v roce 2017 celkem 3000 podpisů a aktuálně v nové petici sbírá podpisy znovu, usiluje o výstavbu nové budovy na náměstí v památkové rezervaci na základě chybného závazného stanoviska odboru územního rozvoje MHMP.
+Záměr zcela bezprecedentně v režimu netransparentní „participace“, v rozporu se závazným Regulativy funkčního a prostorového uspořádání území hlavního města Prahy a navzdory  veřejnému odporu, který už jednou posbíral v petici v roce 2017 celkem 2000 podpisů a aktuálně v nové petici sbírá podpisy znovu, usiluje o výstavbu nové budovy na náměstí v památkové rezervaci na základě chybného závazného stanoviska odboru územního rozvoje MHMP.
 
 **Participace**
 
-Nestandardně samotným investorem organizovaná  “participace” s občany proběhla formou dotazníku s předem zvolenými otázkami i škálou odpovědí. O tom, jestli se má nebo nemá na náměstí stavět, v ní však nepadlo ani slovo. Nyní investor a jeho architekt výsledky “participace” prezentují tak, že proti výstavbě na náměstí nikdo neprotestoval. Místní již ale jednou v roce 2017 v počtu 3000 podpisů jasně řekli, že si zástavbu posledních volných veřejných prostor v hustém centru nepřejí a aktuálně organizují petici novou.
+Nestandardně samotným investorem organizovaná  “participace” s občany proběhla formou dotazníku s předem zvolenými otázkami i škálou odpovědí. O tom, jestli se má nebo nemá na náměstí stavět, v ní však nepadlo ani slovo. Nyní investor a jeho architekt výsledky “participace” prezentují tak, že proti výstavbě na náměstí nikdo neprotestoval. Místní již ale jednou v roce 2017 v počtu 2000 podpisů jasně řekli, že si zástavbu posledních volných veřejných prostor v hustém centru nepřejí a aktuálně organizují petici novou.
 
 **„Transformační“ stabilizované území**
 
