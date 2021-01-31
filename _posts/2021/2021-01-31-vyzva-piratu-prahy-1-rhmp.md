@@ -4,7 +4,7 @@ category: blog
 title: "Výzva Pirátů Praha 1 Radě hlavního města Prahy."
 date: '2021-01-31'
 author: Tomáš Vích
-image: articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-5.jpg
+image: articles/2021/vyzva-piratu-prahy-1-rhmp-5.jpg
 tags:
   - Rada hlavního města Prahy
   - Výstavba
@@ -44,22 +44,22 @@ Příloha
 
 [Výkres č. 4. Plán využití ploch](https://www.praha.eu/public/e9/6e/47/2706756_916851_Priloha_c._1_OPP_55_2018.pdf)
 
-![](/assets/img/articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-1.png) 
+![](/assets/img/articles/2021/vyzva-piratu-prahy-1-rhmp-1.png) 
 
 Výkres č. 37. Vymezení zastavitelného území
 
-![](/assets/img/articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-2.png) 
+![](/assets/img/articles/2021/vyzva-piratu-prahy-1-rhmp-2.png) 
 
 Nový dům na náměstí Miloše Formana?
 
 Pohled
 
-![](/assets/img/articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-3.png) 
+![](/assets/img/articles/2021/vyzva-piratu-prahy-1-rhmp-3.png) 
 
 Situace
 
-![](/assets/img/articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-4.png) 
+![](/assets/img/articles/2021/vyzva-piratu-prahy-1-rhmp-4.png) 
 
 Současný stav volného náměstí Miloše Formana bez domu
 
-![](/assets/img/articles/2021/2021-01-31-vyzva-piratu-prahy-1-rhmp-5.jpg) 
+![](/assets/img/articles/2021/vyzva-piratu-prahy-1-rhmp-5.jpg) 
