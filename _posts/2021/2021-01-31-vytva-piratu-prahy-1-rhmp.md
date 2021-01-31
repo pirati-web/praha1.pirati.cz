@@ -4,11 +4,12 @@ category: blog
 title: "Výzva Pirátů Praha 1 Radě hlavního města Prahy."
 date: '2021-01-31'
 author: Tomáš Vích
-image: articles/2021/2021-01-18-rybarsky-domecek-pronajem-bez-ohledu-na-vysledky-vyberoveho-rizeni.jpg
+image: articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp.jpg
 tags:
-  - Rybářský domeček
-  - výběrové řízení
-  - pronájem
+  - Rada hlavního města Prahy
+  - Výstavba
+  - Územního plán
+  - Participace
 ---
 
 **Jak obhájit neobhajitelné? Na náměstí nelze stavět proti vůli občanů, beze změny územního plánu a v rozporu s charakterem lokality.**
@@ -46,16 +47,14 @@ předsedkyně Místního sdružení Pirátů Prahy 1
 
 Příloha
 
-[Výkres č. 4. Plán využití p](https://www.praha.eu/public/e9/6e/47/2706756_916851_Priloha_c._1_OPP_55_2018.pdf)loch
+[Výkres č. 4. Plán využití ploch](https://www.praha.eu/public/e9/6e/47/2706756_916851_Priloha_c._1_OPP_55_2018.pdf)
 
-  
-  
-![](https://lh5.googleusercontent.com/AxVeOBO4RWTlTT1S5Ek5zjfKywlM6OPDlZQTQqyH4e65B3ScIZtPOSNsYuhCLL-pPww-ZQvMylJKLJ9Y1ro27ry5zm1dvu2Ysg9pkOpdcIC5Ud2ZkZ2pjde_FWgYvCuUjfBMCmmYj5aPuWVEyg)  
+
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-1.png)  
 
 Výkres č. 37. Vymezení zastavitelného území
 
-  
-![](https://lh4.googleusercontent.com/gW153nXbhra1wDXoAYQerly3NXVGU-02GeEE1j4UBPnovvsKyFjUp20JDekSRj5V-k0BZ3z-hz0MCAGBAmtoBo1z6duT7tSxRwkX7BuPsiDKEfDSlY29LI7toqf6YaLGxQq0VGp3L7p3ixOSyA)  
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-2.png)  
   
 
 Nový dům na náměstí Miloše Formana?
@@ -64,14 +63,10 @@ Pohled
 
   
   
-![](https://lh6.googleusercontent.com/70-VayJyF2ehJs2CSFr1SIWgKFgr14eq2sr9k0kxjjp9l1aLZYJ0dIqvOStvXF6Mkq0jSJNreNsoYH48lEGbs2X5DfilWKq290RuaHEs9mOQZjBh7bh6gXpKk8KMkJSCUeZuKL5hjmYaKUmMQw)
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-3.png)
 
-Situace![](https://lh3.googleusercontent.com/K0mIWQ39JtS6WdUjJd19v4hS3EYyo6ygMpcAPUqdHT-fKN30VW1JEpscHbiOXR0NPPCerrZC2fR0DmpDgfwAOYV4HImAfRKecskG4AHsdaLrLOwbyLj1l0QDChxcusvxGzw9NjqSkiSJyEAuTQ)
+Situace![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-4.png)
 
 Současný stav volného náměstí Miloše Formana bez domu
 
-  
-  
-  
-  
-![](https://lh6.googleusercontent.com/l1huiHMxloiNaFQ3-zOsVz9EE4PyXkFWfTbyJ_ncVggltWO-KShZKGGA-zQtcc60fhOQ-UKEka1wC_BS03oe6cKdjLa677hyltX0cv6Y9QiMsCglbL4hyQzybm97MFQc-G3fEc_RBlyVehOutA)
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-5.png)
