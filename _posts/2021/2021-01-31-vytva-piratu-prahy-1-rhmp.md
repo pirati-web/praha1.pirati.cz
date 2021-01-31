@@ -61,8 +61,6 @@ Nový dům na náměstí Miloše Formana?
 
 Pohled
 
-  
-  
 ![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-3.png)
 
 Situace![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-4.png)
