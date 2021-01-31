@@ -14,13 +14,9 @@ tags:
 
 **Jak obhájit neobhajitelné? Na náměstí nelze stavět proti vůli občanů, beze změny územního plánu a v rozporu s charakterem lokality.**
 
-Vážení radní hlavního města Prahy,
+Vážení radní hlavního města Prahy, dovolujeme si Vás takto veřejně oslovit s výzvou, abyste velice zodpovědně zvážili a prověřili všechny argumenty pro a proti výstavbě nového domu na náměstí Miloše Formana, jak žádá investor WIC Prague a.s. dle projektu TaK Architects s.r.o. nazvaný „Staroměstská brána“ v aktuálně podané žádosti o vydání územního rozhodnutí.
 
-dovolujeme si Vás takto veřejně oslovit s výzvou, abyste velice zodpovědně zvážili a prověřili všechny argumenty pro a proti výstavbě nového domu na náměstí Miloše Formana, jak žádá investor WIC Prague a.s. dle projektu TaK Architects s.r.o. nazvaný „Staroměstská brána“ v aktuálně podané žádosti o vydání územního rozhodnutí.
-
-Záměr zcela bezprecedentně v režimu netransparentní „participace“, v rozporu se závazným Regulativy funkčního a prostorového uspořádání území hlavního města Prahy a navzdory  veřejnému odporu, který už jednou posbíral v petici v roce 2017 celkem 3000 podpisů a aktuálně v nové petici sbírá podpisy znovu, usiluje
-
-o výstavbu nové budovy na náměstí v památkové rezervaci na základě chybného závazného stanoviska odboru územního rozvoje MHMP.
+Záměr zcela bezprecedentně v režimu netransparentní „participace“, v rozporu se závazným Regulativy funkčního a prostorového uspořádání území hlavního města Prahy a navzdory  veřejnému odporu, který už jednou posbíral v petici v roce 2017 celkem 3000 podpisů a aktuálně v nové petici sbírá podpisy znovu, usiluje o výstavbu nové budovy na náměstí v památkové rezervaci na základě chybného závazného stanoviska odboru územního rozvoje MHMP.
 
 **Participace**
 
@@ -41,7 +37,6 @@ Záměr vlastníka stavět na úkor veřejných prostranství spolu s nezákonn�
 Olga Sklenářová
 
 předsedkyně Místního sdružení Pirátů Prahy 1
-
 
 31.1. 2021
 
