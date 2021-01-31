@@ -49,22 +49,22 @@ Příloha
 
 [Výkres č. 4. Plán využití ploch](https://www.praha.eu/public/e9/6e/47/2706756_916851_Priloha_c._1_OPP_55_2018.pdf)
 
-
-![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-1.png)  
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-1.png) 
 
 Výkres č. 37. Vymezení zastavitelného území
 
-![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-2.png)  
-  
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-2.png) 
 
 Nový dům na náměstí Miloše Formana?
 
 Pohled
 
-![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-3.png)
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-3.png) 
 
-Situace![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-4.png)
+Situace
+
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-4.png) 
 
 Současný stav volného náměstí Miloše Formana bez domu
 
-![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-5.png)
+![](/assets/img/articles/2021/2021-01-31-vytva-piratu-prahy-1-rhmp-5.jpg) 
