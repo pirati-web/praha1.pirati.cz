@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: "Výzva Pirátů Praha 1 Radě hlavního města Prahy."
+title: "Výzva Pirátů Praha 1 Radě hlavního města Prahy"
 date: '2021-01-31'
 author: Tomáš Vích
 image: articles/2021/vyzva-piratu-prahy-1-rhmp-5.jpg
@@ -24,9 +24,7 @@ Nestandardně samotným investorem organizovaná  “participace” s občany pr
 
 **„Transformační“ stabilizované území**
 
-Závazné stanovisko odboru územního rozvoje MHMP obhajuje neobhajitelné - možnost stavět na veřejném prostranství. Celou argumentaci zakládá
-
-na nedoloženém svévolném tvrzení, že piazzeta hotelu InterContinental, od roku 2018 Náměstí Miloše Formana, je tzv. transformačním územím. Není a takový postup je nezákonný. Transformační a rozvojová území jsou jednoznačně definována zásadami územního rozvoje či územním plánem. Hotel InterContinental a jeho okolí jsou dle územního plánu stabilizovaným územím (území bez koeficientu). Viz [Prostorová regulace](https://www.iprpraha.cz/clanek/58/prostorova-regulace). Náměstí Miloše Formana je dle územního plánu nezastavitelným územím. Odbor územního rozvoje v argumentaci obhajující výstavbu na náměstí využívá podmíněně přípustné využití plochy DU (urbanisticky významné plochy a dopravní spojení, veřejná prostranství) a to možnost kompenzace nově zastavěných ploch jejich nahrazením v přilehlé funkční ploše. Zastavovat veřejné prostranství formou kompenzace lze však pouze v transformačních či rozvojových území, nikoli stabilizovaných. Viz str. 24 textové části územního plánu.
+Závazné stanovisko odboru územního rozvoje MHMP obhajuje neobhajitelné - možnost stavět na veřejném prostranství. Celou argumentaci zakládá na nedoloženém svévolném tvrzení, že piazzeta hotelu InterContinental, od roku 2018 Náměstí Miloše Formana, je tzv. transformačním územím. Není a takový postup je nezákonný. Transformační a rozvojová území jsou jednoznačně definována zásadami územního rozvoje či územním plánem. Hotel InterContinental a jeho okolí jsou dle územního plánu stabilizovaným územím (území bez koeficientu). Viz [Prostorová regulace](https://www.iprpraha.cz/clanek/58/prostorova-regulace). Náměstí Miloše Formana je dle územního plánu nezastavitelným územím. Odbor územního rozvoje v argumentaci obhajující výstavbu na náměstí využívá podmíněně přípustné využití plochy DU (urbanisticky významné plochy a dopravní spojení, veřejná prostranství) a to možnost kompenzace nově zastavěných ploch jejich nahrazením v přilehlé funkční ploše. Zastavovat veřejné prostranství formou kompenzace lze však pouze v transformačních či rozvojových území, nikoli stabilizovaných. Viz str. 24 textové části územního plánu.
 
 **Charakter lokality**
 
