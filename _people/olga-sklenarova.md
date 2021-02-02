@@ -3,7 +3,7 @@ uid: olga.sklenarova
 name:     Olga Sklenářová
 fullname: PhDr. Olga Sklenářová
 category:
-  - pmss
+  - pms
   - clenove
   - kandidat-obec
 categories: kontaktni_osoba  
