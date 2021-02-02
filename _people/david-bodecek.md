@@ -3,7 +3,7 @@ uid: david.bodecek
 name:     David Bodeček
 fullname: Bodeček David Mgr.
 category:
-  - clenove
+  - pms
   - kandidat-obec
 description: předseda Kontrolního výboru, pedagog, metodik, procesní analytik
 img: people/david-bodecek.jpg
