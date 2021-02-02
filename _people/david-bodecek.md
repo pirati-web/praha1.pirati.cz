@@ -5,6 +5,7 @@ fullname: Bodeček David Mgr.
 category:
   - pms
   - kandidat-obec
+ordpms: 2
 description: předseda Kontrolního výboru, pedagog, metodik, procesní analytik
 img: people/david-bodecek.jpg
 age: 38 let
