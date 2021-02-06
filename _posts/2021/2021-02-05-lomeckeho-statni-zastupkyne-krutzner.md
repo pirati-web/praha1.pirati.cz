@@ -4,7 +4,7 @@ category: blog
 title: Lomeckého státní zástupkyni Krützner hrozí na podnět Pirátů tři roky kriminálu za daňový únik
 date: '2021-02-05'
 author: Tomáš Vích
-image: articles/2021/vyzva-piratu-prahy-1-rhmp-5.jpg
+image: articles/2021/2021-02-05-lomeckeho-statni-zastupkyne.jpg
 tags:
   - Zástupkyně Krutzner
 ---
