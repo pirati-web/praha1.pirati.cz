@@ -4,7 +4,7 @@ category: blog
 title: "Nové vedení Pirátů na Praze 1"
 date: '2021-01-28'
 author: Mediální team
-image: articles/2021/vyzva-piratu-prahy-1-rhmp-5.jpg
+image: articles/2021/2021-01-28-nove-vedeni.jpg
 tags:
   - Nové vedení
 ---
