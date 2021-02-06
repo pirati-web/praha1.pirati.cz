@@ -5,7 +5,7 @@ fullname: PhDr. Olga Sklenářová
 category:
   - pms
   - clenove
-  - kandidat-obec
+  - kontaktni_osoba
 categories: kontaktni_osoba  
 ordpms: 1 
 description: Učitelka IT na ZŠ a gymnáziu
