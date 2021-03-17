@@ -14,14 +14,7 @@ tags:
 
 
 Kdo sledujete komunální dění v Praze, zřejmě jste zaregistrovali kauzu a [Petici proti kácení stoletého javoru stříbrného](https://www.petice.com/petice_proti_kaceni_javoru_stibrneho__praha_1_u_karlovych_lazni) v tzv. Anenském trojúhelníku u Novotného lávky nedaleko Karlova mostu.  
-  
-  
-
-![Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021](https://blog.aktualne.cz/media/658/20210312-Anensk%C3%BD%20troj%C3%BAheln%C3%ADk%20park.jpg "Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021")
-
-Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021
-
-  
+   
 ![Návrh čapadla, TaK 2017](https://blog.aktualne.cz/media/658/20210312-01-42-verejny-prostor-pred-jd-viz-2-bez-t.jpg%20649.jpg "Návrh čapadla, TaK 2017")
 
 Návrh čapadla, TaK 2017
@@ -62,3 +55,7 @@ Demonstrace na záchranu javoru na Smetanově nábřeží, ráno 12. 3. 2021. Do
 ![Asistence policie, 12. 3. 2021](https://blog.aktualne.cz/media/658/20210312-IMG_20210312_102805.jpg%20a.jpg%20649.jpg "Asistence policie, 12. 3. 2021")
 
 Asistence policie, 12. 3. 2021
+
+![Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021](https://blog.aktualne.cz/media/658/20210312-Anensk%C3%BD%20troj%C3%BAheln%C3%ADk%20park.jpg "Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021")
+
+Park u Novotného lávky, v popředí lípa srdčitá, v pozadí javor stříbrný, 12. 3. 2021
