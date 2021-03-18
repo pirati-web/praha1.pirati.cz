@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Čapadlo místo parku u Novotného lávky
-date: '2021-02-09'
+date: '2021-03-12'
 author: Tomáš Vích
 image: articles/2021/2021-03-12-capadlo-misto-parku.jpg
 tags:
