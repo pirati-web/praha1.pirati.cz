@@ -43,7 +43,8 @@ Podle rozsudku totiž šlo o určitý specifický režim veřejného soutěžen�
 3. objednávka č. 01/00560/HOS/18 ze dne 14. 6. 2018, na částku 96.800 Kč, za to stejné, a to pro období od 1. 3. 2018 do 31. 5. 2018
 4. objednávka č. 01/00992/HOS/18 ze dne 10. 10. 2018, na částku 96.800 Kč, za to stejné s uvedením nekonkrétního data, s uvedením měsíců červen až září 2018
 
-Dvě žádosti 106 z února a března 2021
+## Dvě žádosti 106 z února a března 2021
 
-žádost z února 2021
-žádost z března 2021 
+- [žádost z února 2021](/assets/pdf/Zadost_106_a_odpoved_unor_2021)
+- [žádost z března 2021 ](/assets/pdf/Zadost_106_a_odpoved_brezen_2021)
+
