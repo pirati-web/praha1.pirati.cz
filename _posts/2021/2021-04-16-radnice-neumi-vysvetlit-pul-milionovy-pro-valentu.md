@@ -38,7 +38,7 @@ Dobré rady Michala Valenty nejsou předmětem dohadů poprvé. Jak již bylo zm
 Podle rozsudku totiž šlo o určitý specifický režim veřejného soutěžení, nikoliv o veřejnou soutěž jako takovou. „V rovině trestněprávní má soud jasno, v rovině morální si obžalovaní musí udělat jasno sami,“ řekla k odůvodnění předsedkyně senátu Dana Šindelářová. Státní zástupce se proti verdiktu úspěšně odvolal a Městský soud v Praze následně usnesením z letošního února osvobozující rozsudek v celém rozsahu zrušil a věc vrátil soudu první instance. Obvodní soud podle nadřízené instance pochybil, když nehodnotil některé důkazy, které měly svědčit o ovlivňování zakázky. Nová jednání jsou plánovaná na květen tohoto roku.
 
 **Interpelace**
-- [Interpelace z 21.1.2020?](https://www.praha1.cz/app/uploads/2020/02/Bodecek_13ZMC_JCDecaux.pdf)
+- [z 21.1.2020?](https://www.praha1.cz/app/uploads/2020/02/Bodecek_13ZMC_JCDecaux.pdf)
 
 
 **Čtyři ze šesti smluv dohledatelné v Registru smluv:**
