@@ -45,6 +45,6 @@ Podle rozsudku totiž šlo o určitý specifický režim veřejného soutěžen�
 
 ## Dvě žádosti 106 z února a března 2021
 
-- [žádost z února 2021](/assets/pdf/Zadost_106_a_odpoved_unor_2021)
-- [žádost z března 2021 ](/assets/pdf/Zadost_106_a_odpoved_brezen_2021)
+- [žádost z února 2021](/assets/pdf/Zadost_106_a_odpoved_unor_2021.pdf)
+- [žádost z března 2021 ](/assets/pdf/Zadost_106_a_odpoved_brezen_2021.pdf)
 
