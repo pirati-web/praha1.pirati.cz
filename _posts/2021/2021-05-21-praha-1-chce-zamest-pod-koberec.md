@@ -1,32 +1,31 @@
 ---
 layout: post
 category: blog
-title: "Návrh Pirátů poskytl vlastníkům nemovitostí více času vyhovět nárokům dotace na opravu svých domovů"
-date: '2021-05-11'
+title: "Praha 1 chce zamést pod koberec nehospodárné utrácení peněz za horský areál v Janově, ročně stojí MČ několik milionů"
+date: '2021-05-21'
 author: David Bodeček
-image: articles/2021/2021-05-13-dum.jpg
+image: articles/2021/2021-05-21-hotel.jpg
 tags:
-  - bydlení
+  - kauzy
 ---
 
-Praha 1, 10. května 2021 – Zastupitelstvo městské části Praha 1 na svém dubnovém zasedání přijalo návrh zastupitele Davida Bodečka (Piráti) a uložilo radě povinnost do 30. listopadu 2021 vyhlásit dotační program na opravu domovního fondu pro rok 2022. Oproti předchozím letům tak nově mají společenství vlastníků jednotek a bytová družstva na Praze 1 dostatek času, aby si včas zajistily příslušná povolení nutná pro rekonstrukci jejich historických objektů.
+Praha Radnice Prahy 1 mlčí k dlouholetému zneužívání veřejných prostředků určených pro školy v přírodě. Zatímco místostarostka pro školství Eva Špačková (ODS) tvrdí, že areál v Janově nad Nisou ve vlastnictví MČ slouží především pro děti škol Prahy 1 a není vhodné jej využívat dospělými vyjma lektorů a učitelů, Piráti získali dokumenty ukazujícími na podvodné jednání správce objektů. Ty koalice nejdříve odmítla projednat, nyní se je snaží zamést pod koberec zřízením příspěvkové organizace. Piráti proto požadují nezávislý hloubkový audit. 
 
-> „Byl bych rád, kdyby výhodu takto předem stanovené povinnosti vyhlásit dotační program pro rok 2022, využila zejména ta společenství vlastníků, která doposud výhodu dotace neuplatnila a jejich objekt chátrá,” upřesňuje svůj záměr Bodeček. Pravidla s podmínkami definuje rada, která stanoví i částku, která bude mezi úspěšné žadatele rozdělena.
+Jak zjistil zastupitel David Bodeček (Piráti), správce areál mimo jiné využíval pro své vlastní podnikání. Ubytovával v něm hosty, kteří nemají s žáky škol ani Prahou 1 nic společného a to za cenu zvýhodněnou právě pro žáky a pedagogy Prahy 1. Místo toho, aby Praha 1 inkasovala část příjmů z ubytovaných cizích hostů, hradila správci měsíčně  400 tisíc korun jako odměnu a platbu za služby. 
 
-Současná praxe ukládá zájemci o dotaci povinnost prokázat, že má k dispozici minimálně polovinu finančních prostředků. Praha 1 totiž doposud garantovala podporu do maximální výše 50 procent vynaložených nákladů. Zbývající částku vždy investovali zájemci o dotaci. U staveb v historickém centru města s přísným dohledem památkářů, jejichž požadavky často znamenají vyšší finanční náklady, je rekonstrukce pro občany Prahy 1 mnohem  nákladnější, než je tomu v jiných pražských městských částech.
+> „Interní audit radnice z března 2021, reagující na kritiku opozice, navíc zjistil, že náklady městské části Praha 1 na provoz areálu v Janově nad Nisou za rok 2020 činily téměř 6 milionů korun, přestože objekty měly být po většinu roku kvůli pandemické situaci uzavřeny,” potvrzuje Bodeček. Nejsou to jediné veřejné prostředky, které podivný podnik spolkl. Bodeček se pro další informace obrátil na Úřad práce ČR. “Praha 1 správci vyplácela plnohodnotnou odměnu, chtěli jsme proto ověřit, zda z jeho strany nebylo požádáno o kompenzaci. Odpověď úřadu nás šokovala. Správce v souvislostí s covid-19 převzal státní kompenzační bonus přesahující jeden milion korun,“ doplňuje pirátský zastupitel. 
 
->„ Je nutné co nejdříve svolat jejich shromáždění, odsouhlasit účast v projektu a jeho podobu, vyžádat si povolení od památkářů a stavebního úřadu, oslovit minimálně 3 dodavatele, aby předložili konkurenceschopnou nabídku a opětovně svolat shromáždění, které vybere vítězného  dodavatele. K tomu je zapotřebí zajistit dostatek  vlastních finančních zdrojů a vyplnit žádost o dotaci. Nabídky bude potřeba odevzdat k začátku března 2022. Je úsměvné, jak si někteří členové zastupitelstva myslí, že toto vše lze realizovat během třech měsíců, a to navíc přes vánoční svátky,” vyjmenovává Bodeček důvody, kvůli kterým včasné vyhlášení programu prosazoval
+V dubnu místostarostka Špačková s ostatními zastupiteli převzala Bodečkem vypracovaný materiál poukazující na nestandardní jednání správce. Místo podpory jeho projednání na dubnovém zasedání zastupitelstva a prověření zjištěného, ale nepochopitelně prosadila, aby byl předkládaný materiál z programu jednání vyřazen. 
 
-**Nejde o politické body, ale pomoc starosusedlíkům**
+Na následujícím květnovém zasedání zastupitelstva pak sama předložila tisk, jehož výsledkem je snaha zahladit nezákonné postupy ze strany správce. Zastupitelé koalice o 1 hlas prosadili zřízení příspěvkové organizace, která by měla nově, místo správce, dohlížet na školy v přírodě v Janově, a to i přesto, že ekonomická analýza zadaná Prahou 1 tuto variantu nedoporučila. “O nekalostech správce se koalice Prahy 1 již nehodlá bavit. Jsou pro ni historií. Přijatým usnesením však opomenula se správcem rozvázat spolupráci, která i přes zřízení příspěvkové organizace nadále trvá,” komentuje postup radnice Bodeček. Jediným možným a nutným řešením je proto dle Pirátů zadání auditu u nezávislé externí společnosti. 
 
-Dodává, že ve spoustě výborů společenství vlastníků nejsou profesionálové, ale dobrovolníci z řad místních trvale žijících obyvatel. 
+Luxusní vína pro školáky?
 
-> „Těm je potřeba pomáhat a nastavovat podmínky, které jsou pro ně realizovatelné,“ doplňuje pirátský zastupitel.
+Zjištění uvedená v materiálu pro zastupitelstvo značí, že praktiky správce nejsou ojedinělým excesem. Pirát získali mimo jiné dokument s údaji, že Praha 1 ve svých objektech neevidovala v sledovaných termínech žádné hosty, přitom Ministerstvo pro místní rozvoj zde realizovalo pro své úředníky vícedenní výjezdní zasedání a vše doložilo objednávkami a fakturami. 
 
-Projekt kromě společenství vlastníků pomáhá také bytovým družstvům. Bodeček upozorňuje, že na Praze 1 je velké množství historických domů s malým počtem vlastníků bytů. Pro některé, zejména starousedlíky, tak bylo velmi náročné, dokonce i nereálné, aby si včas svépomocí naspořili dostatečnou částku, která jim zajistí opravu společných prostor. 
+> „Tím tvrzení místostarostky Špačkové o nemožnosti ubytovat v objektu dospělé, například seniory Prahy 1, postrádá relevanci. Vždyť i na webu správce prezentuje, že součástí komplexu pro školy v přírodě, o který se stará,  je  stylová vinárna s širokou nabídkou luxusních značkových vín,” upozorňuje pirátský zastupitel na rozpor mezi zjištěným a tvrzením Špačkové, že areál je vhodný pouze pro rekreaci škol. Pochybení ale bylo podle Bodečka více. 
 
-> „I přes osočování odpůrců tohoto projektu, který na Praze 1 úspěšně běží od  roku 2008, že si jeho podporovatelé honí politické body, se s mým návrhem ztotožnil gesční člen rady Jan Votoček a následně ho schválilo zastupitelstvo. To je nejvyšším politickým orgánem Prahy 1. Projekt, do nějž naše městská část od začátku realizace investovala čtvrt miliardy korun, významnou měrou přispívá ke kvalitě našeho veřejného prostoru i ke kvalitě bydlení našich občanů,“ uzavírá Bodeček.
+> „Neplacení poplatků, nedodání seznamu skutečně ubytovaných osob s vyúčtováním, zatajování informací, nezveřejnění smluv v registru, neplnění povinnosti uzavírat smlouvy jménem Prahy 1. Ty správce uzavíral sám za sebe. Bytovou jednotku Prahy 1 o ploše 80 m2 v jednom z objektů v Janově využíval syn správce za měsíční nájemné 2 tisíce korun, což není ani polovina nájemného v našich sociálních bytech,“ vyjmenovává Bodeček další zjištění, která byla místostarostce Špačkové předána. 
 
-V posledních třech letech byla dotace poskytnuta na opravu vnějšího pláště objektů, tedy zejména fasád, oken a střech. Z nároku na příspěvek jsou vyloučeny domy sloužící k podnikání v oblasti hazardních her, realitní činnosti, erotických, ubytovacích a hotelových služeb. 
+Ta se jejich prověření zříká, přestože existují i skutečnosti vyvracející tvrzení místostarostky o tom, že objekt je vhodný pouze pro dětské skupiny s doprovodem a proto jej nemohou využívat jiné dospělé osoby bydlící na Praze 1, například senioři.
 
-Piráti z Prahy 1 podporovali a podporují všechny trvale žijící občany Prahy 1, zejména pak starousedlíky, ať už jsou součástí jakéhokoliv společenství vlastníků, družstva či bydlí u soukromníka nebo ve vlastním objektu. 
