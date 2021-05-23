@@ -8,8 +8,7 @@ category:
   - kontaktni_osoba
 categories: kontaktni_osoba  
 ordpms: 1 
-description: Předsedkyně Pirátů Prahy 1, 
-pedagog, vyučuje na gymnáziu a základní škole na Praze 1
+description: Předsedkyně Pirátů Prahy 1, pedagog, vyučuje na gymnáziu a základní škole na Praze 1
 img: people/olga-sklenarova.jpg
 age: 49 let
 mail:
