@@ -4,6 +4,7 @@ category: blog
 title: "Praha 1 chce zamést pod koberec nehospodárné utrácení peněz za horský areál v Janově, ročně stojí MČ několik milionů"
 date: '2021-05-21'
 author: David Bodeček
+authorId: david.bodecek
 image: articles/2021/2021-05-21-hotel.jpg
 tags:
   - kauzy
