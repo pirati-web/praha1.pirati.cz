@@ -5,7 +5,7 @@ title: "Reakce Pirátů Praha 1 na reportáž v pořadu 168 hodin ze dne 23. kv�
 date: '2021-05-21'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2021/2021-05-21-hotel.jpg
+image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
 tags:
   - kauzy
   - kontrolní výbor
