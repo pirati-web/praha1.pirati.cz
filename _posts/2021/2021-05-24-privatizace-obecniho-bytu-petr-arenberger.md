@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: "Reakce Pirátů Praha 1 na reportáž v pořadu 168 hodin ze dne 23. května 2021"
-date: '2021-05-21'
+date: '2021-05-24'
 author: David Bodeček
 authorId: david.bodecek
 image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
