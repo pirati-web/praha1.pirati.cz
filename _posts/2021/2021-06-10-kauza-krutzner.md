@@ -14,7 +14,9 @@ Obvodní soud pro Prahu 5 projednával případ státní zástupkyně Sylvy Krü
 
 Původně služební byt o rozloze 73 m² na Praze 10 jí byl přidělen coby právní čekatelce. O čtyři roky později jej od městské části odkoupila za 891 tisíc korun. Po dalším roce a půl byt prodala dalšímu majiteli za 3,4 milionu.
 
-Krützner u soudu vypověděla, že se necítí vina. Uvedla, že od daně byla osvobozená, protože v bytě před prodejem bydlela. „V tom bytě jsem od roku 2008 do roku 2014 skutečně bydlela. Měla jsem tam trvalý pobyt, chodila mi tam pošta. Je pravdou, že v určitých obdobích tam se mnou bydlely spolubydlící – přítelkyně,“ řekla. Po výpovědích údajných přítelkyň se ale ukázalo, že přidělený byt pronajímala.
+Krützner u soudu vypověděla, že se necítí vina. Uvedla, že od daně byla osvobozená, protože v bytě před prodejem bydlela. 
+
+> „V tom bytě jsem od roku 2008 do roku 2014 skutečně bydlela. Měla jsem tam trvalý pobyt, chodila mi tam pošta. Je pravdou, že v určitých obdobích tam se mnou bydlely spolubydlící – přítelkyně,“ řekla. Po výpovědích údajných přítelkyň se ale ukázalo, že přidělený byt pronajímala.
 
 **Nájemné chtěla v hotovosti**
 
