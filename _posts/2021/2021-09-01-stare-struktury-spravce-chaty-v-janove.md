@@ -4,7 +4,7 @@ category: blog
 title: 'Staré struktury pod novou hlavičkou. Správkyni chat Prahy 1 v Janově střídá v čele její syn'
 date: '2021-09-01'
 author: 
-image: articles/2020-03-12-platy-nasich-politiku.jpg
+image: articles/2021/2021-05-21-hotel.jpg
 tags:
   - správce chaty
   - chata v Janově
