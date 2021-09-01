@@ -22,7 +22,7 @@ Na následujícím květnovém zasedání zastupitelstva pak sama předložila t
 
 Luxusní vína pro školáky?
 
-Zjištění uvedená v materiálu pro zastupitelstvo značí, že praktiky správce nejsou ojedinělým excesem. Pirát získali mimo jiné dokument s údaji, že Praha 1 ve svých objektech neevidovala v sledovaných termínech žádné hosty, přitom Ministerstvo pro místní rozvoj zde realizovalo pro své úředníky vícedenní výjezdní zasedání a vše doložilo objednávkami a fakturami. 
+Zjištění uvedená v materiálu pro zastupitelstvo značí, že praktiky správce nejsou ojedinělým excesem. Pirát získali mimo jiné dokument s údaji, že Praha 1 ve svých objektech neevidovala v sledovaných termínech žádné hosty, přitom Ministerstvo pro místní rozvoj [zde](https://praha1.pirati.cz/tiskove-zpravy/praha-1-chce-zamest-pod-koberec/) realizovalo pro své úředníky vícedenní výjezdní zasedání a vše doložilo objednávkami a fakturami. 
 
 > „Tím tvrzení místostarostky Špačkové o nemožnosti ubytovat v objektu dospělé, například seniory Prahy 1, postrádá relevanci. Vždyť i na webu správce prezentuje, že součástí komplexu pro školy v přírodě, o který se stará,  je  stylová vinárna s širokou nabídkou luxusních značkových vín,” upozorňuje pirátský zastupitel na rozpor mezi zjištěným a tvrzením Špačkové, že areál je vhodný pouze pro rekreaci škol. Pochybení ale bylo podle Bodečka více. 
 
