@@ -26,5 +26,5 @@ Piráti na základě získaných dokumentů opakovaně upozorňovali na podivné
 Místostarostka Špačková místo hloubkového auditu, který budou požadovat Piráti, vsadila na změnu právní formy. Jen za rok 2020 stál pod vedením Mühlové provoz areálu městskou část šest milionů korun. “Podezřelé jednání správkyně současné vedení Prahy 1 neřeší. Byl dán příslib, že nový ředitel prověří dosavadní nejasnosti. Těším se na objektivní zprávu syna dosavadní správkyně. To, že byl ředitelem vybrán Mühl, který v objektu léta bydlí a podniká, je důvodem pro hloubkový audit, na kterém se by se měla podílet i opozice, ” uzavírá Bodeček.
 
 # Kontakt pro média: 
-- Michal Polák, PR Manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
-- David Bodeček, předseda kontrolního výboru MČ Praha 1, tel: 775 592 183; mail: david.bodecek@pirati.cz
+- Michal Polák, PR Manažer KS Praha, tel: +420 608 517 127; mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
+- David Bodeček, předseda kontrolního výboru MČ Praha 1, tel: 775 592 183; mail: [david.bodecek@pirati.cz](mailto:david.bodecek@pirati.cz)
