@@ -8,6 +8,6 @@ garant: jitka.nazarska
 redmine: 29423
 img: program/skolstvi.jpg
 intro: > 
-Zdravé životní prostředí je základem pro to, aby se nám dobře žilo. Budeme bojovat proti přehřívání města, znečišťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát.
+  Zdravé životní prostředí je základem pro to, aby se nám dobře žilo. Budeme bojovat proti přehřívání města, znečišťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát.
 ---
 

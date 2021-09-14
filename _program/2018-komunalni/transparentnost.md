@@ -8,7 +8,7 @@ garant: pavel.nazarsky
 redmine: 29087
 img: program/skolstvi.jpg
 intro: > 
-Jsme přesvědčeni, že právě transparentnost dokáže minimalizovat nebezpečí korupce a soustřeďování moci v úzké skupině vyvolených.
+  Jsme přesvědčeni, že právě transparentnost dokáže minimalizovat nebezpečí korupce a soustřeďování moci v úzké skupině vyvolených.
 
 ---
 

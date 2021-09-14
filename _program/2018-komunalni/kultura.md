@@ -8,6 +8,6 @@ garant: tomas.vich
 redmine: 29097
 img: program/skolstvi.jpg
 intro: > 
-Prostředí kultivuje. Architektura spočívá v civilizovaném naplňování potřeb činorodého ruchu města i potřeby zeleně, klidu, stínu a estetické kvality.  
+  Prostředí kultivuje. Architektura spočívá v civilizovaném naplňování potřeb činorodého ruchu města i potřeby zeleně, klidu, stínu a estetické kvality.  
 ---
 
