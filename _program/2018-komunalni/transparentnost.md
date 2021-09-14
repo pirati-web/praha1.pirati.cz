@@ -2,7 +2,7 @@
 title: OTEVŘENÁ RADNICE - TRANSPARENTNOST
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
-uid: otevrena-radnice
+uid: transparentnost
 order: 1
 garant: pavel.nazarsky
 redmine: 29087
