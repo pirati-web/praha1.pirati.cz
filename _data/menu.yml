@@ -18,9 +18,7 @@ main:
   - link: /program/
     name: Program
   - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
-    name: Volby 2021
-  - link: /piratske-listy/2020-leto/
-    name: Pirátské listy    
+    name: Volby 2021  
   - link: /kontakt/
     name: Kontakt
 
@@ -54,5 +52,4 @@ bottom:
 transparencySection: false
 
 contact:
-  - belsan.jiri
-  - hajek.pavel
+  - olga.sklenarova
