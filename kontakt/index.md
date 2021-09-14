@@ -5,8 +5,8 @@ description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové 
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - belsan.jiri
-  - hajek.pavel
+  - olga.sklenarova
+  - david.bodecek
 ---
  <h1>Přidejte se k nám</h1>
 
