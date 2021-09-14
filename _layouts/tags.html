@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality se štítkem {{ page.tag }}:</h1>
+    <main class="mt-4">
+      {% include articles/list-responsive.html posts=paginator.posts %}
+    </main>
+    {% if paginator.total_pages > 1 %}
+      {% include articles/pagination.html paginator=paginator %}
+    {% endif %}
+    <h2 class="mt-8 head-alt-base">Další štítky:</h2>
+    <div class="inline-block-nogap mt-4">
+      {% for item in site.data.tags %}
+        {% capture tagUrl %}/aktuality/stitky/{{ item[0] | slugify: "latin" }}/{% endcapture %}
+        {% capture cta %}{{ item[0] }} ({{item[1].size}}){% endcapture %}
+        {% capture btnClass %}article-card__category-button btn--condensed text-sm font-light btn--{% if item[0]==page.tag %}btn--grey-500{% else %}grey-125{% endif %} btn--hoveractive{% endcapture %}
+        {% include buttons/basic.html class=btnClass cta=cta href=tagUrl %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

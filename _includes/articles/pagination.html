@@ -1,0 +1,21 @@
+<div class="pagination-container" role="navigation" aria-label="Pagination">
+  <nav class="pagination space-x-1">
+    {% if include.paginator.page != 1 %}
+      {% include buttons/icon.html href=include.paginator.previous_page_path cta="Předchozí" icon="ico--chevron-left" class="btn--grey-125 btn--hoveractive btn--to-black btn--condensed btn--inverted-icon" aria_label="Předchozí stránka" %}
+    {% endif %}
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        {% if page.url == trail.path %}
+          {% include buttons/basic.html cta=trail.num class="btn--grey-500 btn--condensed hidden md:inline-block" %}
+        {% else %}
+          {% capture aria_label %}Stránka {{ trail.num }}{% endcapture %}
+          {% include buttons/basic.html href=trail.path cta=trail.num class="btn--grey-125 btn--hoveractive btn--to-black btn--condensed hidden md:inline-block" aria_label=aria_label %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if include.paginator.page != include.paginator.total_pages %}
+      {% include buttons/icon.html href=include.paginator.next_page_path cta="Další" icon="ico--chevron-right" class="btn--grey-125 btn--hoveractive btn--to-black btn--condensed" aria_label="Další stránka" %}
+    {% endif %}
+  </nav>
+</div>
+

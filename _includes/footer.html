@@ -1,0 +1,363 @@
+<footer class="footer bg-grey-700 text-white __js-root">
+  <ui-app inline-template>
+    <div>
+      <div class="footer__main py-4 lg:py-16 container container--default">
+        <section class="footer__brand">
+          <img src="{{ site.styleguide_base_url }}/images/logo-full-white.svg" alt="Pirátská strana" class="w-32 md:w-40 pb-6" />
+          <p class="para hidden md:block md:mb-4 lg:mb-0 text-grey-200">
+            Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
+            Sdílejte a nechte ostatní sdílet za stejných podmínek.
+          </p>
+        </section>
+        <section class="footer__main-links bg-grey-700 text-white lg:grid grid-cols-3 gap-4">
+          {% for linkGroup in site.data.menu.bottom %}
+            <div class="{% if forloop.first %}pt-8 pb-4 lg:py-0{% else %}py-4 lg:py-0 border-t border-grey-400 lg:border-t-0{% endif %}">
+              <ui-footer-collapsible label="{{ linkGroup.title }}">
+                <ul class="mt-6 space-y-2 text-grey-200">
+                  {% for linkGroupItem in linkGroup.links %}
+                    <li>
+                      <a href="{{ linkGroupItem.link }}">{{ linkGroupItem.name }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </ui-footer-collapsible>
+            </div>
+          {% endfor %}
+        </section>
+        <section class="footer__social lg:text-right">
+          <div class="mb-4">
+            {% include social-icon-group.html class="space-x-2 text-white pb-4" %}
+            {% if site.organization.email %}
+            <div class="mb-2">
+              {% capture href %}mailto:{{ site.organization.email }}{% endcapture %}
+              {% include contact-line.html href=href icon="ico--envelope" caption="Dejte nám vědět" %}
+            </div>
+            {% endif %}
+            {% if site.github %}
+            <div class="mb-2">
+              {% capture href %}{{ site.github.url }}edit/{{ site.github.branch }}/{{ page.path }}{% endcapture %}
+              {% include contact-line.html href=href icon="ico--pencil" caption="Navrhni úpravu" %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="flex flex-col md:flex-row lg:flex-col lg:items-end space-y-2 md:space-y-0 md:space-x-2 lg:space-x-0 lg:space-y-2">
+            <a href="{{ site.organization.donateLink | default: 'https://dary.pirati.cz' }}" rel="noopener noreferrer" target="_blank" class="btn btn--icon btn--cyan-200 btn--hoveractive text-lg btn--fullwidth sm:btn--autowidth">
+              <div class="btn__body-wrap">
+                <div class="btn__body ">Přispěj</div>
+                <div class="btn__icon ">
+                  <i class="ico--pig"></i>
+                </div>
+              </div>
+            </a>
+
+            <a href="{{ site.organization.onboardingLink | default: 'https://nalodeni.pirati.cz' }}" rel="noopener noreferrer" target="_blank" class="btn btn--icon btn--blue-300 btn--hoveractive text-lg btn--fullwidth sm:btn--autowidth">
+              <div class="btn__body-wrap">
+                <div class="btn__body ">Naloď se</div>
+                <div class="btn__icon ">
+                  <i class="ico--anchor"></i>
+                </div>
+              </div>
+            </a>
+
+          </div>
+        </section>
+      </div>
+
+      {% if site.data.menu.transparencySection %}
+        <section class="footer__sub-links lg:border-t border-grey-400">
+          <div class="container container--default">
+            <ui-footer-collapsible label="Otevřenost" labelClass="lg:w-1/4" wrapperClass="flex flex-col lg:flex-row lg:space-x-4 lg:items-center py-4 lg:py-8 border-t border-grey-400 lg:border-t-0" slotWrapperclass="lg:w-2/4">
+              <ul class="lg:w-full lg:pr-8 grid grid-cols-1 lg:grid-cols-3 lg:gap-4 items-center mt-6 space-y-2 lg:mt-0 lg:space-y-0 text-grey-200">
+                <li class="w-full">
+                  <a href="https://ucet.pirati.cz" rel="noreferrer noopener" target="_blank">Transparentní účet</a>
+                </li>
+                <li class="w-full">
+                  <a href="https://smlouvy.pirati.cz" rel="noreferrer noopener" target="_blank">Registr smluv</a>
+                </li>
+                <li class="w-full">
+                  <a href="https://wiki.pirati.cz/fo/otevrene_ucetnictvi" rel="noreferrer noopener" target="_blank">Otevřené účetnictví</a>
+                </li>
+              </ul>
+            </ui-footer-collapsible>
+          </div>
+        </section>
+      {% endif %}
+
+      <section class="bg-black py-4 lg:py-12">
+        <div class="container container--default">
+          <div class="grid gap-4 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+            {% if site.data.menu.contact %}
+              {% for contact in site.data.menu.contact %}
+                {% if contact.id %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+                  {% assign description = contact.position %}
+                {% else %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
+                  {% assign description = person.teamDescription['contact'] %}
+                {% endif %}
+                {% include people/profile-badge.html item=person description=description %}
+              {% endfor %}
+            {% else %}
+              {% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
+              {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+              {% unless contactPersons == empty or contactPersons == blank or contactPersons == nil %}
+                {% for person in contactPersons %}
+                  {% include people/profile-badge.html item=person %}
+                {% endfor %}
+              {% endunless %}
+            {% endif %}
+          </div>
+        </div>
+      </section>
+    </div>
+  </ui-app>
+</footer>
+
+
+<link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+<!-- Styles -->
+<link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+<link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+
+
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+  </style>
+
+
+
+<div class="bg-white text-black">
+             <nav class="medium-12 large-7" style="height: 70px">
+                  <a href="https://www.piratiastarostove.cz/program/">&nbsp;</a>
+                </nav>
+ 
+</div>
+
+<div class="bg-acidgreen text-black">
+             <nav class="medium-12 large-7">
+                  <a href="https://www.piratiastarostove.cz/program/">&nbsp;</a>
+                </nav>
+ 
+</div>
+
+
+<div class=" bg-white">
+   <div class="row bg-grey-700">
+      <div class=" bg-lemon">
+        <table><tbody><tr><td style="width: 7%;">&nbsp;</td>
+             <td style="width: 50%;"><a href="https://www.piratiastarostove.cz">
+             <img src="https://www.pirati.cz/assets/img/header/vratmezemibudoucnost_s.png" alt="Piráti a Starostové" style="margin-top: 0px;">
+           </a></td>
+      <td style="background-color: #000; width: 50%;"><div class="medium-12 large-7 u-stacked-medium-down columns" style="background-color: #000; height: 85px; padding-top: 10px; padding-left: 5px;">
+                 <nav class="c-vertical-navigation u-center---medium-down">
+                    
+                       <a href="https://www.piratiastarostove.cz/program/"><img src="https://www.piratiastarostove.cz/static/elections2021/images/logo-koalicni.e373206e07e9.svg"></a> 
+
+                </nav>
+       </div> </td>
+       <td style="background-color: #000; width: 7%;">&nbsp;</td>
+      </tr></tbody></table>
+      </div>      
+   <div class="row">        
+   <div class="bg-black text-white">
+         <nav class=" medium-12 large-7 ">
+            <a href="https://www.piratiastarostove.cz/program/">&nbsp;</a>
+          </nav>
+
+   </div>
+   </div>    
+   <div class="row">
+  <section id="jakpomoci" class="lg:flex">
+    <div class="w-full">
+      <div class="cta-card cta-news px-8 py-8 bg-acidgreen text-black">
+        <p class="font-alt text-4xl">CHCI VĚDĚT VÍCE</p>
+        <form method="post" action="https://www.piratiastarostove.cz/prihlaseni-k-newsletteru/">
+          <input type="hidden" name="csrfmiddlewaretoken" value="ZerZ0grBRC8kdub1dHvoc9ISJrA6sICWtGgF8sIOZH6hrG2k2xKu5PwqiCqKcEya">
+          <input type="hidden" name="return_page_id" value="408">
+          <input name="email" type="email" class="text-input form-field__control w-full mt-7" value="" placeholder="Zadejte email" required="">
+          <button class="btn btn--icon my-2 text-lg w-full cta-btn">
+            <div class="btn__body-wrap">
+              <div class="btn__body py-4 leading-4 w-full">Přihlásit se k newsletteru</div>
+              <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+                <i class="ico--chevron-right"></i>
+              </div>
+            </div>
+          </button>
+          <div class="checkbox form-field__control cta-cbox h-6">
+            <input type="checkbox" name="confirmed" id="confirmed_bottom" required="">
+            <label for="confirmed_bottom" style="color: #000000"> Souhlasím se <a href="https://www.piratiastarostove.cz/zasady-ochrany-osobnich-udaju/" class="underline" target="_blank">zásadami ochrany osobních údajů</a> a zasíláním novinek</label>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="w-full">
+      <div class="cta-card cta-help px-8 py-8 bg-lemon " id="cta-card">
+        <p class="font-alt text-4xl w-1">CHCI POMÁHAT</p>
+        
+        <a href="https://nalodeni.pirati.cz/kampan2021/" class="btn btn--icon text-lg w-full cta-button my-2">
+          <div class="btn__body-wrap">
+            <div class="btn__body py-4 leading-4 w-full">Chci pomáhat v kampani</div>
+            <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+              <i class="ico--chevron-right"></i>
+            </div>
+          </div>
+        </a>
+      </div>
+      <script>
+        if (typeof window.initializehelp === 'undefined') {
+          window.initializehelp = function() {
+            let state = 0;
+            document.querySelectorAll('.cta-help-toggler').forEach(item => {
+              item.addEventListener("click", event => {
+                helpelement = event.target.closest(".cta-help");
+                let elements = helpelement.querySelectorAll(".cta-animated");
+                let elements2 = helpelement.querySelectorAll(".cta-animated-rev");
+                if (state === 0) {
+                  [].forEach.call(elements, function(el) {
+                    el.classList.remove("collapsed");
+                  });
+                  [].forEach.call(elements2, function(el) {
+                    el.classList.add("collapsed");
+                  });
+                  state = 1;
+                } else {
+                  [].forEach.call(elements2, function(el) {
+                    el.classList.remove("collapsed");
+                  });
+                  [].forEach.call(elements, function(el) {
+                    el.classList.add("collapsed");
+                  });
+                  state = 0;
+                }
+              });
+            });
+          }
+
+          window.addEventListener('load', function() {
+            initializehelp();
+          });
+        }
+
+        function isValidPhone(phoneNumber) {
+          var found = phoneNumber.search(/^[+]*[(]{0,1}[0-9]{1,3}[)]{0,1}[-\s\./0-9]{7,18}$/g);
+          if (found > -1) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+
+        function isValidZip(zip) {
+          var found = zip.search(/^(?=.*\d)[\d ]{5,6}$/g);
+          if (found > -1) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+        window.addEventListener('DOMContentLoaded', (event) => {
+          var elements = document.querySelectorAll("input, select");
+          for (var i = 0; i < elements.length; i++) {
+            if (elements[i].getAttribute("type") == "email") {
+              elements[i].onchange = function(e) {
+                e.target.setCustomValidity("");
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "E-mail je povinná položka"
+                  );
+                else
+                  e.target.setCustomValidity(
+                    "Neplatný e-mail"
+                  );
+              }
+            } else if (elements[i].getAttribute("name") == "tel") {
+              elements[i].onchange = function(e) {
+                if (isValidPhone(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("Telefonní číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninput = function(e) {
+                if (isValidPhone(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("Telefonní číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "Telefon je povinná položka"
+                  );
+              };
+            } else if (elements[i].getAttribute("name") == "psc") {
+              elements[i].onchange = function(e) {
+                if (isValidZip(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("PSČ číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninput = function(e) {
+                if (isValidZip(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("PSČ číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "PSČ je povinná položka"
+                  );
+              };
+            } else {
+              elements[i].oninvalid = function(e) {
+                e.target.setCustomValidity("");
+                if (!e.target.validity.valid) {
+                  e.target.setCustomValidity("Toto pole je povinné");
+                }
+              };
+              elements[i].onchange = function(e) {
+                e.target.setCustomValidity("");
+              };
+            }
+          }
+        });
+      </script>
+    </div>
+
+    <div class="w-full">
+      <div class="cta-card cta-support px-8 py-8 bg-white">
+        <p class="font-alt text-4xl w-1">CHCI PODPOŘIT</p>
+        <a href="https://dary.pirati.cz/projekty-kampane/piratiastarostove/" class="btn btn--icon text-lg w-full cta-btn my-2">
+          <div class="btn__body-wrap">
+            <div class="btn__body py-4 leading-4 w-full">Chci darovat na kampaň</div>
+            <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+              <i class="ico--chevron-right"></i>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+  </div>
+ 
+   </div>
+</div>

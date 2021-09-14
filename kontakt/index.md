@@ -1,19 +1,24 @@
 ---
 layout: contacts
-description: Piráti Praha 1 je sdružení otevřené činorodým lidem, rádi přivítáme nové příznivce a dobrovolníky, kterým Praha 1 leží na srdci.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha 1, praha
-residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
+title: Kontaktní informace
+description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+noresidence: yes
+contactPersons:
+  - belsan.jiri
+  - hajek.pavel
 ---
+ <h1>Přidejte se k nám</h1>
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
+**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
-Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha1@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/pirati1.cz/events/?ref=page_internal) .
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 10](https://fb.com/pirati.praha10). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
+<h4>Transparenstnost</h4>
+- Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
+- Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
-Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
+<h4>Podpořte nás!</h4>
+- Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/), kde vyberete Jiný účel: MS Praha 10 (nebo specifický symbol 110110).
 
-* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
-
-
+- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*

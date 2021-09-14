@@ -1,0 +1,72 @@
+<!-- include.article -->
+<article itemtype="http://schema.org/BlogPosting" class="card card--hoveractive article-card {% if include.article.important %}bg-black{% endif %}" itemscope="">
+  <link itemprop="mainEntityOfPage" href="{{ include.article.url }}">
+
+  <div class="article-card-cover">
+    <a href="{{ include.article.url | relative_url }}" itemprop="image" itemtype="http://schema.org/ImageObject" itemscope="">
+      {% if site.mediaStorage %}
+          {% capture imgPath %}https://a.pirati.cz/resize/348x232/{{ site.mediaStorage }}/img/{{ include.article.image }}{% endcapture %}
+      {% else %}
+          {% capture imgPath %}{% asset '{{ include.article.image }}' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' @path %}{% endcapture %}
+      {% endif %}
+      <img src="{{ imgPath }}" alt="{{ include.article.title }}">
+      <meta itemprop="url" content="{{ imgPath }}">
+    </a>
+
+    <div class="article-card-cover__details">
+      <div class="article-card-sharing">
+        <div class="social-icon-group">
+          <a
+            href="https://www.facebook.com/sharer/sharer.php?quote={{ include.article.title | uri_escape }}&u={{ include.article.url | absolute_url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            class="social-icon social-icon--fill bg-brands-facebook text-white text-sm social-icon--4"
+          ><i class="ico--facebook"></i></a>
+          <a
+            href="https://twitter.com/intent/tweet?text={{ include.article.title | uri_escape }}&url={{ include.article.url | absolute_url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            class="social-icon social-icon--fill bg-brands-twitter text-white text-sm social-icon--4"
+          ><i class="ico--twitter"></i></a>
+        </div>
+      </div>
+
+      <div class="article-card-meta"  class="c-metadata-block-section__item" >
+        <span itemprop="description" class="article-card-meta__item">
+          {{ include.article.date | date: "%d.%m.%Y" }}
+          <meta itemprop="datePublished" content="{{ include.article.date | date_to_xmlschema }}" />
+        </span>
+        <span class="article-card-meta__item" itemprop="author" itemtype="http://schema.org/Person" itemscope="">
+          {% capture author_name %}
+            {% if include.article.authorId -%}
+              {% assign author = site.people | where_exp:"item","item.uid contains include.article.authorId" | first %}
+              {{ author.name }}
+            {%- else -%}
+              {{ include.article.author }}
+            {%- endif %}
+          {% endcapture %}
+          <span itemprop="name">{{ author_name }}</span>
+        </span>
+      </div>
+
+    </div>
+  </div>
+  <div class="card__body article-card__body">
+    <a href="{{ include.article.url | relative_url }}" {% if include.article.important %}class="hover:line-white"{% endif %}><h1 class="card-headline mb-4 {% if include.article.important %}text-white{% endif %}">{{ include.article.title }}</h1></a>
+    <p class="card-body-text flex-grow {% if include.article.important %}text-white{% endif %}">{{ include.article.excerpt | truncatewords: 35 | strip_html }}</p>
+    {% if include.article.tags %}
+      <div class="inline-block-nogap mt-4">
+        {% for tag in include.article.tags %}
+          {% capture tagUrl %}/aktuality/stitky/{{ tag | slugify: "latin" }}/{% endcapture %}
+          {% capture tagClass %}article-card__category-button btn--condensed text-sm font-light {% if include.article.important %}btn--grey-700{% else %}btn--grey-125{% endif %} btn--hoveractive{% endcapture %}
+          {% include buttons/basic.html class=tagClass cta=tag href=tagUrl %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+
+  <div itemprop="publisher" itemtype="http://schema.org/Organization" class="hidden" itemscope="">
+    <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+      <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}">
+    </div>
+    <meta itemprop="name" content="Česká pirátská strana">
+  </div>
+</article>

@@ -8,6 +8,7 @@ category:
 categories: kontaktni_osoba    
 description: Učitelka MŠ, předsedkyně zastupitelského klubu Pirátů Prahy 1 a  místopředsedkyně Pirátů Prahy 1
 img: people/jitka-nazarska.jpg
+heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 48 let
 mail:
   - jitka.nazarska@pirati.cz

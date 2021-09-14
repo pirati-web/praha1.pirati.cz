@@ -1,0 +1,21 @@
+<div class="sharebox md:card md:elevation-10 {{ include.classes }}">
+  <div class="md:card__body">
+    <span class="head-alt-base md:head-alt-md">Sdílení je aktem lásky</span>
+
+    <div class="flex w-full space-x-4 pt-4 md:pt-8 text-center text-white">
+      <a
+        href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        class="bg-brands-facebook px-8 py-3 text-2xl w-full"
+      ><i class="ico--facebook"></i></a>
+      <a
+        href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ page.url | absolute_url }}"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        class="bg-brands-twitter px-8 py-3 text-2xl w-full"
+      ><i class="ico--twitter"></i></a>
+    </div>
+  </div>
+  <div class="h-52 overflow-hidden hidden md:block">
+    <img src="{{ site.styleguide_base_url }}/images/flag.png" alt="Pirátská strana" class="w-80 object-cover m-auto" />
+  </div>
+</div>

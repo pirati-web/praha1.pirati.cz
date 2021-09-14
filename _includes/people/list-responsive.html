@@ -1,0 +1,11 @@
+{% comment %}
+  Dvou sloupcové zobrazení:
+   týmů v /clenove
+   úspěchů v /otevrenost
+{% endcomment %}
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 row-gap-8 col-gap-8">
+  {% for item in include.team %}
+    {% assign teamDescription = item.teamDescription[include.teamShortcut] %}
+    {% include people/profile-badge.html item=item description=teamDescription headlineClass="head-heavy-xs" avatarClass="avatar--md" %}
+  {% endfor %}
+</div>

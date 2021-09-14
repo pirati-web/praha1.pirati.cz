@@ -7,6 +7,7 @@ category:
   - clenove
 description: herečka Divadélko Romaneto, předsedkyně Pirátů Prahy 1
 img: people/jaroslava-narozna.jpg
+heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 55 let
 mail:
   - jaroslava.narozna@pirati.cz

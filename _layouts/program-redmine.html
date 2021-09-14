@@ -1,0 +1,161 @@
+---
+layout: default
+---
+<div class="container container--default pt-8 lg:py-24">
+  {% comment %} Support for customized elections header content. {% endcomment %}
+  {% if page.customizeHeader %}
+    {{ content }}
+  {% endif %}
+  <main>
+    {% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
+    {% for category in programCategories %}
+
+    <article class="mt-8">
+      <div class="lg:flex lg:space-x-16">
+        <div class="lg:w-3/5 xl:w-2/3">
+          <h2 class="head-heavy-sm mb-2 lg:mb-4">{{category.title}}</h2>
+          <div itemprop="description" class="w-full content-block">
+            <p>{{category.intro}}</p>
+          </div>
+        </div>
+        <div class="pt-8 lg:w-1/3 md:pt-0">
+          <div class="card">
+            <div class="card__body">
+              {% if category.garant %}
+                {% assign garant = site.people | where:"uid",category.garant | first %}
+                {% include people/profile-badge.html item=garant description="Garant" class="badge--condensed" %}
+              {% endif %}
+              {% if category.redmine %}
+              <div class="content-block">
+                  <div class="space-y-4 mt-8">
+                    <div>
+                      <a href="https://redmine.pirati.cz/issues/{{ category.redmine }}" class="contact-line icon-link content-block--nostyle">
+                        <i class="ico--info"></i>
+                        <span id="redmineid_{{ category.redmine }}">Plnění programu</span>
+                      </a>
+                    </div>
+                  </div>
+              </div>
+              <script>
+                pirates.priorityStack.push(function (context) {
+                var url = 'https://redmine.pirati.cz/issues/{{ category.redmine }}.json';
+                var xhr = pirates.createCORSRequest('GET', url);
+                if (!xhr) {
+                  alert('CORS not supported');
+                  return;
+                }
+                xhr.onload = function() {
+                  var doc = JSON.parse(xhr.responseText);
+                  var redmine = document.getElementById('redmineid_{{ category.redmine }}');
+                  redmine.textContent = "Plnění programu: " + doc.issue.done_ratio + "%";
+                }
+                xhr.onerror = function() {
+                  console.log('Woops, there was an error making the request.');
+                };
+                xhr.send();
+                });
+                pirates.priorityStack.push(function (context) {
+                  var url = 'https://redmine.pirati.cz/issues.json?parent_id={{ category.redmine }}&sort=id:asc';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = JSON.parse(xhr.responseText);
+                    var div = document.getElementById('redmine_tasks_{{category.redmine}}');
+                    div.appendChild(pirates.integrations.redmine.tasks(doc));
+                  }
+                  xhr.onerror = function() {
+                    console.log('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
+            {% endif %}
+          </div>
+          </div>
+        </div>
+      </div>
+      <div class="mt-4">
+        <table class="table table--striped table--bordered w-full">
+          <thead>
+            <tr>
+              <td>Název</td>
+              <td>Stav plnění</td>
+            </tr>
+          </thead>
+          <tbody id="redmine_tasks_{{category.redmine}}"></tbody>
+        </table>
+      </div>
+    </article>
+  {% endfor %}
+  </main>
+</div>
+
+<script type="application/javascript">
+pirates.integrations = {
+  redmine:{
+    tasks: function(doc) {
+      var element = document.createDocumentFragment();
+      for(var i in doc.issues) {
+        var row = document.createElement('tr');
+        var subject = document.createElement('td');
+        var done = document.createElement('td');
+        var link = document.createElement('a');
+        link.textContent = doc.issues[i].subject;
+        done.textContent = doc.issues[i].done_ratio+'%';
+        link.href='https://redmine.pirati.cz/issues/'+doc.issues[i].id;
+        link.target='_blank'
+        subject.appendChild(link);
+        row.appendChild(subject);
+        row.appendChild(done);
+        element.appendChild(row);
+      }
+      return element;
+    }
+  }
+};
+
+// Executes FIFO cue of JS functions - good practice to decouple JS workout from onload
+pirates.executeQue = function (que) {
+  if (que.length) {
+    var queue = que;
+    for (var q = 0; q < queue.length; q++) {
+      var item = queue[q];
+      item.call(this);
+    }
+    que.length = 0;
+  }
+};
+
+// Create CORS request - CORS is good for getting around cross domain restrictions
+pirates.createCORSRequest = function (method, url) {
+  var xhr = new XMLHttpRequest();
+  if ("withCredentials" in xhr) {
+    // XHR for Chrome/Firefox/Opera/Safari.
+    xhr.open(method, url, true);
+  } else if (typeof XDomainRequest != "undefined") {
+    // XDomainRequest for IE.
+    xhr = new XDomainRequest();
+    xhr.open(method, url);
+  } else {
+    // CORS not supported.
+    xhr = null;
+  }
+  return xhr;
+}
+
+window.requestAnimationFrame = window.requestAnimationFrame
+  || window.mozRequestAnimationFrame
+  || window.webkitRequestAnimationFrame
+  || window.msRequestAnimationFrame
+  || function(f){return setTimeout(f, 1000/60)} // simulate calling code 60
+
+window.cancelAnimationFrame = window.cancelAnimationFrame
+  || window.mozCancelAnimationFrame
+  || function(requestID){clearTimeout(requestID)} //fall back
+
+// when all is loaded start executing loop
+window.requestAnimationFrame( function(){pirates.executeQue(pirates.priorityStack)} );
+</script>

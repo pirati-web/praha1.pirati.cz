@@ -1,50 +1,28 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
+    icon: "ico--newspaper"
+
 
 main:
-  - link: /
-    name: Úvod
-    class: hide-for-medium
   - link: /aktuality/
     name: Aktuality
-    match: aktuality
   - link: /lide/
     name: Lidé
-    match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
-        
-  #- link: /komunalni-volby-2018/
-  #  name: Komunální volby 2018
-  #  match: komunalni-volby-2018
-  #  submenu:
-  #    - link: /komunalni-volby-2018/
-  #      name: Radnice
-  #      match: komunalni-volby-2018
-  #    - link: /komunalni-volby-2018/mo-i/
-  #      name: MO I
-  #      match: mo-i
-  #    - link: /komunalni-volby-2018/mo-ii/
-  #      name: MO II
-  #      match: mo-ii        
-  #    - link: /komunalni-volby-2018/mo-v/
-  #      name: MO V
-  #      match: mo-v
+  - link: /program/
+    name: Program
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021
+  - link: /piratske-listy/2020-leto/
+    name: Pirátské listy    
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
 
 bottom:
   - class: small-12 medium-4
@@ -52,13 +30,13 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /clenove/
-        name: Členové
-      - link: /komunalni-volby-2018/
-        name: Volby 2018
+      - link: /lide/
+        name: Lidé
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
@@ -70,3 +48,11 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - belsan.jiri
+  - hajek.pavel

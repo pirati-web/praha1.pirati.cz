@@ -1,60 +1,102 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Piráti Praha 1
-email: praha1@pirati.cz
-description: Stránka místního sdružení Piráti Praha 1 na Starém Měste v centru Prahy
-keywords: Piráti, Česká pirátská strana, svoboda, demokracie, Piráti Praha 1, piráti v centru Prahy # dobré keywords jsou ty co 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha1.pirati.cz" # the base hostname & protocol for your site
-
 administrator:
-  email: jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
+  email: jan.suchanek@gmail.com
+github:
+  url: https://github.com/pirati-web/praha1.pirati.cz/
+  branch: master
+url: "https://praha1.pirati.cz"
+
+mediaStorage: praha1
+
+title: "Piráti Praha 10"
+description: "Česká pirátská strana - místní sdružení Praha 1"
+keywords: "piráti, praha 1, česká pirátská strana, svoboda, demokracie, piráti na osmičce"
+
+organization:
+  name: "Piráti Praha 1"
+  email: praha10pirati.cz
+  address: |
+      Na Moráni 3
+      120 00 Praha 2
+  mapLink: https://mapy.cz/s/norubuzado
+  redmineLink: https://redmine.pirati.cz/projects/praha-1
+  residenceImg:
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
+
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+
+calendar:
+  id: b5bl4lv8m2fill0tho6esj2avs@group.calendar.google.com
+  title: "Kalendář Pirátů Prahy 1"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha1%40gmail.com&amp;color=%23B1365F&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+
+facebook:
+  loadSDK: true
+  profilePage: "https://www.facebook.com/PiratiP1/"
+  profilePageName: "Piráti Praha 1"
+  appId: 1526197851008996
+
+matomo:
+  loadSDK: true
+  siteId: 68
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=727
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
+
+twitter:
+  loadSDK: true
+  profile: piratipraha
+
+instagram:
+  #profilePage: 
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+styleguide_base_url: 'https://styleguide.pirati.cz/latest'
+
+############### SETTINSG #################
 
 theme: jekyll-theme-pirati
 
-sass:
-  style: compressed
-  sass_dir: _sass
-
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-pirati
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-environment-variables
-
-paginate_path: "/aktuality/:num/"
-paginate: 11
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
 
 exclude:
   - Dockerfile
-  - docker-compose.yml
-  - deploy_rsa_sandbox.enc
-  - deploy_rsa_sandbox.pub
-  - navod.md
-  - readme.md
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - docker-compose.yml
   - vendor
 
-permalink: /tiskove-zpravy/:title/
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    root: /clenove/
-    permalink: /clenove/:path/
-
+    permalink: /lide/:path:output_ext
   program:
     output: true
-    permalink: /komunalni-volby-2018/program/:path/
+    permalink: /volby/:path:output_ext
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -67,95 +109,36 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
-      keywords: členové, příznivci, lidé
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar:
-        - garant
-        - program
-      keywords: program, volby, 2018, komunální volby
-
-organization:
-  name: Místní sdružení Pirátů Prahy 1
-  shortName: Piráti Praha 1
-  email: praha1@pirati.cz
-  contactUid: olga.sklenarova
-  phone: +420 775 046 408
-  address: |
-    Na Moráni 3,
-    120 00 Praha 2
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
-  redmineLink: https://redmine.pirati.cz/projects/programove-priority-2018-2022-p1
-  dataBoxId: b2i4r6j
-  transparentAccount: 2100048174/2010
-  transparentAccountSpecificSymbol: 110101
-
-contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationPhone
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebooková stránka
-    body: <a href="https://www.facebook.com/PiratiP1/" target="_blank">Piráti Praha 1</a>
-
-calendar:
-  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
-  title: Nadcházející události
-  id: pirati.praha1@gmail.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=pirati.praha1%40gmail.com&amp;color=%23B1365F&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
-
-facebook:
-  profilePage: https://www.facebook.com/PiratiP1/
-  loadSDK: true
-  appId: 1526197851008996
-
-twitter:
-  profile: piratipraha11
-  loadSDK: true
-
-instagram:
-  #profilePage: https://www.instagram.com/piratipraha11/
-
-#forum:
-#  page: https://forum.pirati.cz/
-
-github:
-  url: https://github.com/pirati-web/praha1.pirati.cz/
-  branch: master
-
-emptyArray: []
+         - garant
+         - program
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - assets/img/posts
-    - assets/snippet
-    - _sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

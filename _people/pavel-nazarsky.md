@@ -7,6 +7,7 @@ category:
   - kandidat-obec 
 description: zastupitel, učitel 1. st. ZŠ
 img: people/pavel-nazarsky.jpg
+heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 56 let
 mail:
   - pavel.nazarsky@pirati.cz

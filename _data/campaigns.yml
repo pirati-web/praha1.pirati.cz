@@ -4,5 +4,5 @@
 - groupUid: volby-2018  # identifier of the group, to be used in program point
   title: Volby 2018     # title of the campaign group
   campaigns:
-    - title: Program na radnici   # individual campaigns within the group
-      categoryUid: magistrat
+    - title: Komunální volby  # individual campaigns within the group
+      categoryUid: 2018-komunalni

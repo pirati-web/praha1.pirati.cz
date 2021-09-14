@@ -6,6 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat-obec
 contactType: Média
 img: people/adam-zabransky.jpg   # 165 x 220
+heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 description: Radní hl. m. Prahy pro bydlení a transparentnost
 mail:
 - adam.zabransky@pirati.cz

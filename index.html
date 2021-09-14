@@ -1,96 +1,13 @@
 ---
 layout: default
-rbar:
-  - calendar
-  - fb
-img: 'header/komunal-banner-large.png'
-description: >
-  Piráti od roku 2018 zakotvili i v Praze 1. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 1,
-  která je  moderní, přátelskéá a především ochotná naslouchat svým občanům.
-  Sledujte co je nového a buďte u toho.
-textbox:
-  title: Náš newsletter
-  text: >
-    <!-- Begin Mailchimp Signup Form -->
-    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-    #mc_embed_signup{background:clear; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-    </style>
-    <div id="mc_embed_signup">
-    <form action="https://pirati.us4.list-manage.com/subscribe/post?u=11dab09e5c3d09a7e582c4ad1&amp;id=8fd8c505fb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-    <label for="mce-EMAIL">Odebírej newsletter Pirátů Prahy 1</label>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="e-mailová adresa" required>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_11dab09e5c3d09a7e582c4ad1_8fd8c505fb" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Přihlásit se" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-    </form>
-    </div>
-    <!--End mc_embed_signup-->
-    <a href="https://us20.campaign-archive.com/home/?u=11dab09e5c3d09a7e582c4ad1&amp;id=8fd8c505fb">Archiv newsletterů</a>
 ---
 
-{% include homepage/banner.html
-   link='/komunalni-volby-2018/'
-   title='Komunální volby 2018'
-   default='header/komunal-banner-large.png'
-   mobile='header/komunal-banner-small.png'
-   breakpoint=640
-%}
+{% include hero/simple.html headline="Piráti Praha 1" description="Makáme v opozici. Držíme kurz!" bgImg="https://a.pirati.cz/praha1/img/articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg" heroSpacing="py-16 lg:pt-32" %}
 
-<div class="row">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
-
-        <header>
-          <h1 class="o-section__heading t-h1-super">Piráti Praha 1</h1>
-        </header>
-
-        <p> Piráti od roku 2018 zakotvili i v Praze 1. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 1,
-  která je  moderní, přátelská a především ochotná naslouchat svým občanům.
-  Sledujte co je nového a buďte u toho.</p>
-
-        <h2>Aktuální dění na Praze 1 a u Pirátů</h2>
-        {% for article in site.posts limit: 6 %}
-          {% include articles/horizontal-article.html article=article %}
-        {% endfor %}
-        <div class="c-article-listing__nextbox">
-          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
-        </div>
-<!--
-        <h2>Piráti Prahy 1, přijďte k volbám, volební číslo 2</h2>
-        <p>
-        <iframe width="732px" height="412px" src="https://www.youtube.com/embed/HdAxUNtRdVk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </p>
-
-
-        <h2>11.9.2018 - netradiční rozloučení s vládnoucí garniturou na Praze 1, ... tentokrát melouny pro všechny</h2>
-        <p>
-        <iframe width="732px" height="412px" src="https://www.youtube.com/embed/w2QGlpIqQQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </p>
-
-        <h2>Atmosféra z Prague Pride 2018 očima Pirátů</h2>
-
-        <p>My, Piráti z Prahy 1, jsme 11.8.2018 se svými kolegy z jiných pražských městských částí “proplouvali” na své plachetnici ulicemi Prahy 1.  Na pár hodin se nám tak podařilo roztančit naši městskou část.</p>
-
-        <p>Byl to veselý, přátelský a respektující Prague Pride festival za přítomnosti Zdeňka Hřiba, pirátského kandidáta na pražského primátora, a dále poslanců Parlamentu ČR Jakuba Michálka a Františka Kopřivy.</p>
-
-        <p>Pirátská loď plující pod duhovými plachtami byla v průvodu Prague Pride nepřehlédnutelná! A co je s ní teď? Naše posádka Česká pirátská strana 🏴se do ní zamilovala a zvažovala umístit ji před nové pirátské centrum na Palackého náměsít. Ale vzdali jsme se ji ve prospěch dětí v Mateřské školce Nučice, kde už kotví, aby všem dělala radost.</p>
-
-        <iframe width="732px" height="412px" src="https://www.youtube.com/embed/N1e2PblH7mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>        
--->
-      </div>
-    </section>
-  </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-    {% include right-bar/rbar.html param='rbar' %}
-  </div>
-  {% endif %}
+<div class="container container--default pt-4 lg:pb-24">
+  {% include homepage/news.html title="Co se děje v Praze 1:" %}
+  {% include homepage/countdown.html deadline="2021-10-08 08:00:00" %}
+  <!-- 2022-10-05 14:00:00 -->
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>

@@ -1,0 +1,86 @@
+{% if page.img %}
+  <div class="text-center mb-8">
+    {% if site.mediaStorage %}
+        {% capture img %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ page.img }}{% endcapture %}
+    {%- else -%}
+        {% capture img %}{% asset '{{ page.img }}' magick:resize="225x" @path %}{% endcapture %}
+    {%- endif -%}
+
+    {% include avatar.html src=img class="avatar--2xl lg:avatar--3xl avatar--bordered candidate-detail__avatar" %}
+  </div>
+{% endif %}
+
+{% if page.profiles.wikipedia or page.profiles.facebook or page.profiles.twitter or page.profiles.instagram or page.profiles.linkedin  or page.profiles.github or page.profiles.forum or page.profiles.redmine or page.profiles.web or page.profiles.blog %}
+  {% include right-bar/rbar_profiles.html %}
+{% endif %}
+
+{% if page.partyUid or page.funkce %}
+  <hr />
+  {% if page.partyUid %}{% include party.html uid=page.partyUid %}{% endif %}
+  {% if page.funkce %}
+  <div class="mt-4">
+    {% for funkce in page.funkce %}
+      {% include contact-line.html icon="ico--pig" caption=funkce %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+
+<div class="content-block">
+  {% if page.mail or page.mob or page.profiles.report or page.profiles.odmeny or page.profiles.evidence %}
+    <hr />
+    <div class="space-y-4">
+      {% if page.mob %}
+        <div>
+          <h4>Telefon</h4>
+          {% capture href %}tel:{{ page.mob }}{% endcapture %}
+          {% include contact-line.html icon="ico--phone" href=href caption=page.mob %}
+        </div>
+      {% endif %}
+      {% if page.mail %}
+        <div>
+          <h4>Email</h4>
+          {% capture href %}mailto:{{ page.mail }}{% endcapture %}
+          {% include contact-line.html icon="ico--envelope" href=href caption=page.mail %}
+        </div>
+      {% endif %}
+      {% if page.profiles.odmeny or page.profiles.evidence or page.profiles.report %}
+        <div>
+          <h4>Pirátské přehledy</h4>
+          {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--folder" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
+          {% if page.profiles.evidence %}{% include contact-line.html icon="ico--folder" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
+          {% if page.profiles.report %}{% include contact-line.html icon="ico--folder" href=page.profiles.report caption="Report poslance" %}{% endif %}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% if page.asistenti %}
+    <hr />
+    <h2>Asistenti</h2>
+    <div class="space-y-4 mt-4">
+      {% for asistent in page.asistenti %}
+        {% include people/profile-badge.html class="badge--condensed" item=asistent description=asistent.position hideAvatar=true %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.office %}
+    <hr />
+    {% assign kancl = page.office | first %}
+    <h2>Kancelář</h2>
+    <iframe
+      height="150"
+      frameborder="0"
+      style="border:0; width:100%"
+      src="{% if kancl.mapIframeLink %}{{ kancl.mapIframeLink }}{% else %}https://www.google.com/maps/embed/v1/place?key=AIzaSyCRuL_FU0HdeKCHVNfVJkv2nhNZPr05AJM&q={{ kancl.address | replace: ' ', '+' }}{% endif %}" allowfullscreen>
+    </iframe>
+    <h4>{{ kancl.name }}</h4>
+    <p>{{ kancl.address | | newline_to_br }}</p>
+
+    {% if kancl.opening %}
+      <h4>Otevírací doba</h4>
+      <p>{{ kancl.opening}}</p>
+    {% endif %}
+  {% endif %}
+</div>

@@ -1,44 +1,61 @@
 ---
-layout: blank-article
+layout: default
 ---
 
-<div class="c-emphasized-text c-person">
-  {% capture headline %}{% include people/fullname.html person=page %}{% endcapture %}
-  {% include page-header.html headline=headline content=content contentClass='c-person__content' %}
-</div>
-
-{% if page.wiki %}
-  <p><a class="c-emphasized-anchor u-stacked" href="{{ page.wiki }}">{{ page.wiki }}</a></p>
+{% if page.heroImg %}
+  {% if site.mediaStorage %}
+      {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ page.heroImg }}{% endcapture %}
+  {% else %}
+      {% capture imgPath %}{% asset '{{ page.heroImg }}' @path %}{% endcapture %}
+      {% assign imgPath = imgPath | absolute_url %}
+  {% endif %}
+{% elsif page.img %}
+  {% if site.mediaStorage %}
+      {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ page.img }}{% endcapture %}
+  {% else %}
+      {% capture imgPath %}{% asset '{{ page.img }}' @path %}{% endcapture %}
+      {% assign imgPath = imgPath | absolute_url %}
+  {% endif %}
 {% endif %}
 
-<h3>Moje články</h3>
+{% capture personName %}{% include people/fullname.html person=page %}{% endcapture %}
 
+{%
+  include hero/simple.html
+  headline=personName
+  description=page.profession
+  headlineClass="text-center lg:text-left mx-auto lg:mx-0"
+  descriptionClass="max-w-xl mx-auto text-center lg:text-left"
+  heroSpacing="pt-16 pb-24 lg:pt-32 pb-24"
+  class="candidate-detail__hero"
+  bgImg=imgPath
+%}
 
-<ul>
-  {% assign posts = site.posts | sort: 'date' | reverse | where: "authorId", page.uid %}
-  {% for post in posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-{% if page.calendar %}
-<div class="row">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section--noSpaceBottom">
-      <div class="o-section-inner">
-        <div class="c-BasicPage">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
-              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
-                <h1 class="c-BasicPage__title" id="praha"> Kalendář</h1>
-              </div>
-            </div>
-          </div>
-	  <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar}}&ctz=Europe%2FPrague" style="border: 0" width="770" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="container container--default py-8 lg:pb-24">
+  <main>
+    <div class="flex flex-col lg:flex-row lg:space-x-8 xl:space-x-16">
+      <section class="lg:w-3/5 xl:w-2/3">
+        <div class="content-block w-full">
+          {{ content }}
         </div>
-      </div>
-    </section>
-    <!-- /. o-section -->
-  </div>
+      </section>
+      <section class="lg:w-2/5 xl:w-1/3 pt-8 lg:pt-0 order-first lg:order-last candidate-detail__sidebar">
+        {% include right-bar/rbar.html %}
+      </section>
+    </div>
+  </main>
+  {% assign posts = page.posts | slice:0,3 %}
+  {% if page.posts.size > 0 %}
+  <section>
+    <h2 class="head-alt-md mt-8 pb-4 lg:pb-8">Moje aktuality</h2>
+    {% assign posts = page.posts | slice:0,3 %}
+    {% include articles/list-responsive.html posts=posts %}
+    {% if page.posts.size > 3 %}
+    <nav class="text-center">
+      {% capture authorUrl %}/aktuality/autori/{{ page.name | slugify: "latin" }}/{% endcapture %}
+      {% include buttons/icon.html href=authorUrl cta="Další aktuality" icon="ico--chevron-right" class="text-xl pt-8" rel="next" %}
+    </nav>
+    {% endif %}
+  </section>
+  {% endif %}
 </div>
-{% endif %}

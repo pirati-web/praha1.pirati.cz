@@ -1,0 +1,4 @@
+{% if include.team.size > 0 %}
+<h2 class="head-heavy-base mb-4">{{ include.teamName }}</h2>
+{% include people/list-responsive.html team=include.team teamShortcut=include.teamShortcut %}
+{% endif %}
