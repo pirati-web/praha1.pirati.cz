@@ -8,6 +8,5 @@ garant: jitka.nazarska
 redmine: 29091
 img: program/skolstvi.jpg
 intro: > 
-
 ---
 
