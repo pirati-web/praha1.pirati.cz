@@ -1,4 +1,4 @@
-# praha10.pirati.cz
+# praha1.pirati.cz
 
 Web místního sdružení Piráti Praha 1.
 
