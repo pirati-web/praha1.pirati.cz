@@ -21,6 +21,6 @@ Absolvent Fakulty architektury ČVUT v Praze, ve vlastním architektonickém ate
 
 “Architektura a urbanismus mne zajímá od dětství, fascinují mě všechny ty úžasné slohy, kterých je centrum Prahy jedinečnou učebnicí. O to víc mne mrzí, když, si našeho dědictví nevážíme, bouráme ho a stavíme bez ladu a skladu. Proto píši a organizuji debaty o přirozeném růstu města, rád vzpomínám na Lidovou školu urbanismu, kterou jsme s Prague Watch tři roky organizovali pro veřejnost v Galerii Jaroslava Fragnera. Letos na jaře mi vyšlo urbo-sci-fi Náměstí Sametové revoluce, která s ilustracemi Peti Balhara vrhá na rozvoj Prahy nečekané vesmírné světlo…”
 
-Od podzimu 2018 je za Piráty uvolněný zastupitel na Praze 1 a předseda komise územního rozvoje a komise životného prostředí. V Pirátské straně jsem místopředseda MS Piráti Praha 1 
+Od podzimu 2018 je za Piráty uvolněný zastupitel na Praze 1 a předseda komise územního rozvoje a komise životného prostředí. V Pirátské straně je místopředseda MS Piráti Praha 1. 
 
 ---
