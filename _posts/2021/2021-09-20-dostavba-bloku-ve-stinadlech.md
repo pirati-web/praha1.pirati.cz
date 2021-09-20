@@ -3,7 +3,8 @@ layout: post
 category: blog
 title: 'Dostavba ve dvoře bloku Ve Stínadlech'
 date: '2021-09-20'
-author: 
+author: Tomáš Vích
+authorId: tomas.vich
 image: articles/2021/2021-09-20-dostavba-bloku-ve-stinadlech.jpg
 tags:
   - developer
