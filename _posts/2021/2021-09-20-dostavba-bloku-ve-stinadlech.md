@@ -1,17 +1,16 @@
+---
+layout: post
+category: blog
+title: 'Dostavba ve dvoře bloku Ve Stínadlech'
+date: '2021-09-20'
+author: 
+image: articles/2021/2021-05-21-hotel.jpg
+tags:
+  - developer
+  - výstavba
+---
 
-## Dostavba ve dvoře bloku Ve Stínadlech
-
-[Tomáš Vích](https://blog.aktualne.cz/blogy/tomas-vich.php "Hlavní stánka blogu Tomáš Vích")
-
-20. 09. 2021 | 16:34
-
-Přečteno 464 krát
-
-Zastupitelstvo Městské části Praha 1 se 14. září 2021 na můj podnět usneslo, že bere na vědomí, že záměr zástavby Ve Stínadlech od investora Haštal Invest ani po opakovaném projednání v komisi územního rozvoje nerespektuje charakter dané lokality a uložilo Radě městské části podat v územním řízeni námitky a začít jednat s hlavním městem Prahou o místech, kde je nutno určit jasné podmínky nové zástavby formou regulačního plánu.  
-  
-  
-  
-
+Zastupitelstvo Městské části Praha 1 se 14. září 2021 na můj podnět usneslo, že bere na vědomí, že záměr zástavby Ve Stínadlech od investora Haštal Invest ani po opakovaném projednání v komisi územního rozvoje nerespektuje charakter dané lokality a uložilo Radě městské části podat v územním řízeni námitky a začít jednat s hlavním městem Prahou o místech, kde je nutno určit jasné podmínky nové 
 ![Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021](https://blog.aktualne.cz/media/658/20210920-c649.%20jpg.jpg "Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021")
 
 Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021
