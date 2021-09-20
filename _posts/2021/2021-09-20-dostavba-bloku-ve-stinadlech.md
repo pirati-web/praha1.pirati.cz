@@ -4,7 +4,7 @@ category: blog
 title: 'Dostavba ve dvoře bloku Ve Stínadlech'
 date: '2021-09-20'
 author: 
-image: articles/2021/2021-05-21-hotel.jpg
+image: articles/2021/2021-09-20-dostavba-bloku-ve-stinadlech.jpg
 tags:
   - developer
   - výstavba
