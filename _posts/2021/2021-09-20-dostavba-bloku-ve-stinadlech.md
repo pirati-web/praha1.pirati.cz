@@ -10,7 +10,8 @@ tags:
   - výstavba
 ---
 
-Zastupitelstvo Městské části Praha 1 se 14. září 2021 na můj podnět usneslo, že bere na vědomí, že záměr zástavby Ve Stínadlech od investora Haštal Invest ani po opakovaném projednání v komisi územního rozvoje nerespektuje charakter dané lokality a uložilo Radě městské části podat v územním řízeni námitky a začít jednat s hlavním městem Prahou o místech, kde je nutno určit jasné podmínky nové 
+Zastupitelstvo Městské části Praha 1 se 14. září 2021 na můj podnět usneslo, že bere na vědomí, že záměr zástavby Ve Stínadlech od investora Haštal Invest ani po opakovaném projednání v komisi územního rozvoje nerespektuje charakter dané lokality a uložilo Radě městské části podat v územním řízeni námitky a začít jednat s hlavním městem Prahou o místech, kde je nutno určit jasné podmínky nové zástavby formou regulačního plánu.
+
 ![Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021](https://blog.aktualne.cz/media/658/20210920-c649.%20jpg.jpg "Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021")
 
 Plánovaná zástavba Ve Stínadlech, současný stav a návrh KRR Architektura s.r.o., 2021
