@@ -10,7 +10,7 @@ contactPersons:
 ---
  <h1>Přidejte se k nám</h1>
 
-**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
+**Zajímá vás co děláme na jedničce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
 **Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 1](https://www.facebook.com/PiratiP1/). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
