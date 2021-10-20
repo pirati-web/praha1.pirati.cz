@@ -4,7 +4,7 @@ campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: zivotni-prostredi
 order: 10
-garant: jitka.nazarska
+garant: tomas.vich
 redmine: 29423
 img: program/skolstvi.jpg
 intro: > 
