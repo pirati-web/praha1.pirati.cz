@@ -6,7 +6,7 @@ category:
   - kandidat-obec
   - pms
 ordpms: 3  
-description: zastupitel MČ Praha 1, architekt, místopředseda Pirátů Prahy 1
+description: 1. Místopředseda Pirátů, PŘEDSEDA ZASTUPITELSKÉHO KLUBU PIRÁTŮ PRAHY 1
 img: people/tomas-vich.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 51 let
