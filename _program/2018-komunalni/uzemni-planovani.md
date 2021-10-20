@@ -4,7 +4,7 @@ campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: uzemni-planovani
 order: 9
-garant: pavel.nazarsky
+garant: tomas.vich
 redmine: 29409
 img: program/skolstvi.jpg
 intro: > 
