@@ -6,7 +6,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 2
-description: předseda Kontrolního výboru, pedagog, metodik, procesní analytik
+description: 2. MÍSTOPŘEDSEDA PIRÁTŮ PRAHA, předseda Kontrolního výboru, pedagog, metodik, procesní analytik, Procesní analytik
 img: people/david-bodecek.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 38 let
