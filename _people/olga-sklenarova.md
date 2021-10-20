@@ -4,7 +4,6 @@ name:     Olga Sklenářová
 fullname: PhDr. Olga Sklenářová
 category:
   - pms
-  - clenove
   - kontaktni_osoba
 categories: kontaktni_osoba  
 ordpms: 1 
