@@ -5,6 +5,7 @@ fullname: Martin Arden
 category:
   - clenove
   - pms
+ordpms: 3
 description: Místopředseda Piráti Praha 1, zastupitel a oddávající (HMP), martin.arden@pirati.cz
 
 img: people/arden-martin.jpg
