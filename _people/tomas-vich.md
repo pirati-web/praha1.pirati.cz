@@ -4,8 +4,7 @@ name:     Tomáš Vích
 fullname: Ing. arch. Tomáš Vích  
 category:
   - kandidat-obec
-  - pms
-ordpms: 2  
+  - clenove
 description: 1. Místopředseda Pirátů, PŘEDSEDA ZASTUPITELSKÉHO KLUBU PIRÁTŮ PRAHY 1, Architekt
 img: people/tomas-vich.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
