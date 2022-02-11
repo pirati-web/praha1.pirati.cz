@@ -7,7 +7,7 @@ author: Michal Polák
 authorId: michal.polak
 image: articles/2021/nerudova.jpg
 tags:
-  - školství
+  - volby
 ---
 
 ''Piráti přinášejí text otevřeného dopisu, kterým se obrátili na občanskou společnost na Praze 1. Při tvorbě programu do podzimních komunálních voleb chtějí zapojit široké spektrum různých spolků a dalších organizací z celé Prahy 1.''

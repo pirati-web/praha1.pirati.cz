@@ -7,7 +7,7 @@ author: Michal Polák
 authorId: michal.polak
 image: articles/2021/lanovka.jpg
 tags:
-  - školství
+  - doprava
 ---
 
 Lanovka na Petřín k Praze 1 neodmyslitelně patří. Stále více se ale projevuje její největší problém – již nedostatečná kapacita.
