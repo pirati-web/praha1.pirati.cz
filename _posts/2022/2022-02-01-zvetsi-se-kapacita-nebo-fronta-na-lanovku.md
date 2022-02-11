@@ -1,8 +1,8 @@
 ---
 layout: post
 category: blog
-title: 'Otevřený dopis: Piráti vyzývají občanskou společnost k spolupráci na programu!'
-date: '2022-02-11'
+title: 'Zvětší se kapacita, nebo fronty? Lanovku na Petřín čeká oprava'
+date: '2022-02-01'
 author: Michal Polák
 authorId: michal.polak
 image: articles/2021/lanovka.jpg
