@@ -4,7 +4,7 @@ name:     Jana Raiterová
 fullname: Jana Raiterová
 category:
   - clenove
-description: 
+description: korepetitorka a učitelka hry na klavír
 #img: 
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 
@@ -15,5 +15,6 @@ profiles:
   facebook: 
 ---
 
+**Jana Raiterová** je korepetitorka a učitelka hry na klavír, Pirátka na Praze 1. 
 
 ---

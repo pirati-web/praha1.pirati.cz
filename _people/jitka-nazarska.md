@@ -17,12 +17,12 @@ profiles:
   facebook: https://www.facebook.com/jitka.nazarska
 ---
 
-Učitelka MŠ, předsedkyně Pirátů Prahy 1
+**Jitka Nazarská** je zastupitelka a oddávající (Praha 1), členka sociální komise (Praha 1), členka komise pro výchovu a vzdělávání (Praha 1). Pracuje jako  OSVČ.
 
-Prakticky od narození 1970 žiji v Praze. Vystřídala jsem 3 městské části. Po prožitém dětství na Žižkově jsem se s rodinou odstěhovala na Jižní Město, kde se mi narodily dvě dcery. Byla u zrodu mateřského centra, které jsem přes rok vedla. V roce 2003 jsem se odstěhovala na Prahu 1, kde žiji doteď. Mezitím jsme se rozvedla a znovu vdala, za Pavla Nazarského, a přivdala jsem si další dceru. Před nedávnem se mi narodil vnuk. 
+Prakticky od narození 1970 žije v Praze. Vystřídala 3 městské části. Po prožitém dětství na Žižkově se s rodinou odstěhovala na Jižní Město, kde se jí narodily dvě dcery. Byla u zrodu mateřského centra, které přes rok vedla. V roce 2003 se odstěhovala na Prahu 1, kde žije doteď. Mezitím jsme se rozvedla a znovu vdala, za Pavla Nazarského, a přivdala si další dceru. Před nedávnem se jí narodil vnuk. 
 
-V Pirátské straně jsem místopředsedkyní MS Piráti Praha 1. Po úspěšných volbách 2018 jsem se stala zastupitelkou MČ Praha 1. Zde jsem předsedkyní zastupitelského klubu, neuvolněnou předsedkyní sociální komise. Jsem také členkou sociálního výboru a komise výchova a vzdělávání. 
+V Pirátské straně je místopředsedkyní MS Piráti Praha 1. Po úspěšných volbách 2018 se stala zastupitelkou MČ Praha 1.
 
-Profesí jsem učitelka MŠ a pracuji na OSVČ. V minulosti jsem vedla kurzy pro rodiče s dětmi. Ráda si zacvičím jogu, či-kung a nejraději se procházím a medituji v přírodě. 
+Profesí je učitelka MŠ a pracuji na OSVČ. V minulosti vedla kurzy pro rodiče s dětmi. Ráda si zacvičí jogu, či-kung a nejraději se procházm a medituje v přírodě. 
 
 ---

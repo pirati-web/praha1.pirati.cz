@@ -5,7 +5,7 @@ fullname: Jaroslava Nárožná
 category:
   - kandidat-obec
   - clenove
-description: herečka Divadélko Romaneto
+description: členka komise kultury a sportu MČ Praha 1, členka komise pro občanské záležitosti, udělování čestného občanství a Ceny Prahy 
 img: people/jaroslava-narozna.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 55 let
@@ -16,13 +16,11 @@ profiles:
   #facebook: 
 ---
 
-Spoluautorka a herečka v divadle pro děti (Divadélko Romaneto), hrající autorské hudební pohádkové příběhy. 
+**Jaroslava Nárožná** je členka komise kultury a sportu (Praha 1), členka komise pro občanské záležitosti, udělování čestného občanství a Ceny Prahy 1 (Praha 1),
+členka Programové rady Malostranské besedy (Praha 1), OSVČ – kulturní činnost, herečka v divadle pro děti, instruktor učňů, osobní asistentka v sociálních službách,
 
-Vystudovala Obchodní školu Bělohorská v Praze.  Pedagogické minimum – Instruktor učňů. V současnosti OSVČ. Kulturní činnost. Práce s dětmi. Angažuji se v aktivitách souvisejících s kulturou, ráda komunikuji s lidmi a miluji děti. Moje zájmy jsou pejsci, děti, rodina, příroda. 
+Vystudovala Obchodní školu Bělohorská v Praze. Má pedagogické minimum jako Instruktor učňů.
 
-Politická situace v naší zemi, v Praze, ale i na MČ Praha 1 mě začala trápit.
-Chtěla bych být nápomocná a poctivou cestou měnit situaci nejen v městské části P1, ale i v celé naší vlasti.
-
-Jelikož jsem na Malé Straně strávila dětství, mládí, byla jsem zde matkou a ženou středních let, tak si myslím, že Prahu 1 znám a proto kandiduji zrovna zde. Záleží mi nejen na mé budoucnosti seniora Prahy 1, ale také na budoucnosti nás všech.
+Politická situace v naší zemi, v Praze, ale i na MČ Praha 1 ji začala trápit. Chtěla by být nápomocná a poctivou cestou měnit situaci nejen v městské části P1, ale i v celé naší vlasti.
 
 ---
