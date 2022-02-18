@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Piráti vyšli vstříc snoubencům. O magická data je tradičně zájem'
-date: '2022-02-11'
+date: '2022-02-17'
 author: Michal Polák
 authorId: michal.polak
 image: articles/2021/bodecek1.jpg
@@ -10,7 +10,7 @@ tags:
   - praha1
 ---
 
-Praha, 17. února 2022 – Tři magická únorová data pro uzavření sňatku nabídla snoubencům radnice Prahy 1. Matrika tím reagovala na návrh zastupitele Davida Bodečka (Piráti), který patří k tamním oblíbeným oddávajícím. Od roku 2018 oddal již více než 300 párů.  O jiné než běžné oddávací dny, a navíc se zajímavou číselnou kombinací je velký zájem. Ve středu 2. 2. 2022 vstoupilo do manželství v prostorách Staroměstské radnice šest párů. V neděli 20. 2. 2022 si na radnici vzájemné ano řekne osm párů a od dva dny později 22. 2. 2022 hned dvanáct dvojic. U všech těchto obřadů je oddávajícím Bodeček, jehož návrhem se začátkem letošního roku inspirovala Praha 10. Ve Vršovickém zámečku v ulici Moskevská v ty stejné dny budou oddávat radní Michal Kočí a místostarosta Petr Beneš (oba Piráti).
+Tři magická únorová data pro uzavření sňatku nabídla snoubencům radnice Prahy 1. Matrika tím reagovala na návrh zastupitele Davida Bodečka (Piráti), který patří k tamním oblíbeným oddávajícím. Od roku 2018 oddal již více než 300 párů.  O jiné než běžné oddávací dny, a navíc se zajímavou číselnou kombinací je velký zájem. Ve středu 2. 2. 2022 vstoupilo do manželství v prostorách Staroměstské radnice šest párů. V neděli 20. 2. 2022 si na radnici vzájemné ano řekne osm párů a od dva dny později 22. 2. 2022 hned dvanáct dvojic. U všech těchto obřadů je oddávajícím Bodeček, jehož návrhem se začátkem letošního roku inspirovala Praha 10. Ve Vršovickém zámečku v ulici Moskevská v ty stejné dny budou oddávat radní Michal Kočí a místostarosta Petr Beneš (oba Piráti).
 
 > „Nápad jsem matrice přednesl někdy v polovině loňského roku. Během pár dnů po vyhlášení magických únorových termínů k uzavření svazku mi kolegyně z matriky s nadšením sdělily, že všechny nově vypsané termíny jsou zaplněny. Mám velkou radost, že Praha 1 může díky své aktivní účastí sezdat několik dalších šťastných párů navíc a já být součástí jejich radosti. Jsem rád, že nápad s magickými daty snoubence a ty, kteří se rozhodli uzavřít registrované partnerství, oslovil. Moc bych si přál, aby všem jejich svazek dlouho vydržel.. Není obvyklé, že zaměstnankyně matriky na úkor volného času oddávají, a proto si této jejich vstřícnosti velice vážím a děkuji jim,“ uvádí Bodeček. 
 
