@@ -5,7 +5,7 @@ title: 'Piráti vyšli vstříc snoubencům. O magická data je tradičně záje
 date: '2022-02-17'
 author: Michal Polák
 authorId: michal.polak
-image: articles/2021/bodecek1.jpg
+image: articles/2021/bodecek-svatba.jpg
 tags:
   - praha1
 ---
