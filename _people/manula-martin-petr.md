@@ -1,7 +1,7 @@
 ---
-uid: manula.martin.petr
-name:     Martin Petr Manula
-fullname: Martin Petr Manula
+uid: mamula.martin.petr
+name:     Martin Petr Mamula
+fullname: Martin Petr Mamula
 category:
   - priznivci
 description: 
