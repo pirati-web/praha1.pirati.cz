@@ -22,5 +22,5 @@ Snadný přístup není určen pouze vozíčkářům. Hodí se rodičům s koč�
 
 S novými obyvateli z Ukrajiny, přibyli i zdravotně postižení lidé, snad se tedy situace začne řešit více. Chceme-li být civilizovanou společností s respektem ke všem lidem bez rozdílu, není jiná možnost.
 
-Autorka je externí spolupracovnice
+Ema Rónová je externí spolupracovnice
 
