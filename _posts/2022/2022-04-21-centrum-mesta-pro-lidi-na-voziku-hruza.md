@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Centrem města? Noční můra pro lidi na vozíku'
 date: '2022-04-21'
-author: Časopis Jedna
-authorId: jedna
+author: Ema Rónová
+authorId: ema.ronova
 image: articles/vozik.jpg
 tags:
   - praha1
