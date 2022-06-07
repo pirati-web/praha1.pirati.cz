@@ -13,7 +13,8 @@ mail:
   - ladislav.diblik@pirati.cz
  
 profiles:
-  #facebook: 
+  #facebook:
+ordclen: 5
 ---
 
 **Ladislav Diblík** je člen správní rady Kulturní JIŽNÍ MĚSTO o.p.s. a Pirát na Praze 1. 

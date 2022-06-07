@@ -14,6 +14,7 @@ mail:
  
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100005635390577
+ordclen: 9
 ---
 
 **Pavel Nazarský** je zastupitel na MČ Praha 1, člen komise pro participaci a veřejný prostor RMČ Praha 1, člen výboru proti vylidňování centra a pro podporu komunitního života RMČ Praha 1. Profesí je pedagog. 

@@ -14,6 +14,7 @@ mail:
  
 profiles:
   #facebook: https://www.facebook.com/jitka.nazarska
+ordclen: 14
 ---
 
 **Tomáš Vích** je zastupitel (Praha 1), předseda zastupitelského klubu Piráti a Zelená Pro Jedničku, architekt a urbanista.

@@ -14,6 +14,7 @@ mail:
  
 profiles:
   #facebook: 
+ordclen: 6
 ---
 
 **Roman Kučera** je webkoder, fotograf, servisní technik, a Pirát na Praze 1. 

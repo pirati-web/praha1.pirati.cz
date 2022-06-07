@@ -13,7 +13,8 @@ mail:
   - jaroslava.narozna@pirati.cz
  
 profiles:
-  #facebook: 
+  #facebook:
+ordclen: 7
 ---
 
 **Jaroslava Nárožná** je členka komise kultury a sportu (Praha 1), členka komise pro občanské záležitosti, udělování čestného občanství a Ceny Prahy 1 (Praha 1),

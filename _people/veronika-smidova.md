@@ -7,6 +7,7 @@ category:
 description: členka Pirátů na Praze 1
 img: people/veronika-smidova.jpg
 heroImg: 
+ordclen: 11
 ---
 
 

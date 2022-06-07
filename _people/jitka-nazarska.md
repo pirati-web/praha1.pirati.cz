@@ -15,6 +15,7 @@ mail:
  
 profiles:
   facebook: https://www.facebook.com/jitka.nazarska
+ordclen: 8
 ---
 
 **Jitka Nazarská** je zastupitelka a oddávající (Praha 1), členka sociální komise (Praha 1), členka komise pro výchovu a vzdělávání (Praha 1). Pracuje jako  OSVČ.

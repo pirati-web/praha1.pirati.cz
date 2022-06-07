@@ -13,6 +13,7 @@ mail:
  
 profiles:
   facebook: 
+ordclen: 10
 ---
 
 **Jana Raiterová** je korepetitorka a učitelka hry na klavír, Pirátka na Praze 1. 
