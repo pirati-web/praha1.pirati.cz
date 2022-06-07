@@ -6,7 +6,7 @@ category:
   - kandidat-obec
   - clenove
 description: výkonná ředitelka v Unii porodních asistentek
-#img: people/ivana-antalova.jpg
+img: people/ivana-antalova.jpg
 heroImg: 
 age: 
 mail:
