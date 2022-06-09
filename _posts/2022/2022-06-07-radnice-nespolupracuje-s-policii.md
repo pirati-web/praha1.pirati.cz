@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Správkyně školy v přírodě v Janově nad Nisou způsobila školy za miliony, radnice nechce věc s policií řešit'
+title: 'Správkyně školy v přírodě v Janově nad Nisou způsobila škody za miliony, radnice nechce věc s policií řešit'
 date: '2022-06-07'
 author: Michal Polák
 authorId: michal.polak
