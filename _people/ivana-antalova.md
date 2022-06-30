@@ -20,3 +20,5 @@ ordclen: 4
 **Ivana Antalová** je výkonná ředitelka v Unii porodních asistentek a pirátka na Praze 1. 
 
 ---
+
+* [Můj veřejný kalendář](https://calendar.google.com/calendar/u/2?cid=cGlyYXRrYS5hbnRhbG92YUBnbWFpbC5jb20)
