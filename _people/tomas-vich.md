@@ -4,7 +4,7 @@ name:     Tomáš Vích
 fullname: Ing. arch. Tomáš Vích  
 category:
   - kandidat-obec
-  - clenove
+  - priznivce
 description: 1. Místopředseda Pirátů, PŘEDSEDA ZASTUPITELSKÉHO KLUBU PIRÁTŮ PRAHY 1, Architekt
 img: people/tomas-vich.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
@@ -13,8 +13,8 @@ mail:
   - tomas.vich@pirati.cz
  
 profiles:
-  #facebook: https://www.facebook.com/jitka.nazarska
-ordclen: 14
+  #facebook: 
+ordpriz: 18
 ---
 
 **Tomáš Vích** je zastupitel (Praha 1), předseda zastupitelského klubu Piráti a Zelená Pro Jedničku, architekt a urbanista.
