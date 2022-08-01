@@ -17,10 +17,10 @@ main:
     name: Lidé
   - name: VOLBY
     submenu: 
+     - link: /2022_komunalni.html
       name: Komunální volby 2022
-      - link: /2022_komunalni.html
+     - link: /_program/index.html
       name: Komunální volby 2018
-      - link: /program
   - link: /kontakt/
     name: Kontakt
 
