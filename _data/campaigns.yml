@@ -6,3 +6,9 @@
   campaigns:
     - title: Komunální volby  # individual campaigns within the group
       categoryUid: 2018-komunalni
+
+- groupUid: volby-2022  # identifier of the group, to be used in program point
+  title: Komunální volby 2022 # title of the campaign group
+  campaigns:
+    - title: Pirátský program pro Prahu 1  # individual campaigns within the group
+      categoryUid: 2022-komunalni
