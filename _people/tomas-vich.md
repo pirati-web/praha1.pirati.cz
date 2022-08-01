@@ -5,7 +5,7 @@ fullname: Ing. arch. Tomáš Vích
 category:
   - kandidat-obec
   - priznivci
-description: 1. Místopředseda Pirátů, PŘEDSEDA ZASTUPITELSKÉHO KLUBU PIRÁTŮ PRAHY 1, Architekt
+description: zastupitel (Praha 1), předseda zastupitelského klubu Piráti a Zelená Pro Jedničku, architekt a urbanista.
 img: people/tomas-vich.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 51 let
