@@ -21,7 +21,7 @@ main:
       - name: Komunální volby 2022
       link: /volby/2022_komunalni.html
       - name: Komunální volby 2018
-      link: /volby/program.html
+      link: /volby/index.html
   - link: /kontakt/
     name: Kontakt
 
