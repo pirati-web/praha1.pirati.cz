@@ -10,8 +10,7 @@ img: people/tomas-vich.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 51 let
 mail:
-  - tomas.vich@pirati.cz
- 
+  -  
 profiles:
   #facebook: 
 ordpriz: 18
