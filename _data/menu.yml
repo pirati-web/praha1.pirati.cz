@@ -17,9 +17,9 @@ main:
     name: Lidé
   - name: VOLBY
     submenu: 
-     - link: /2022_komunalni.html
+     - link: 2022_komunalni/
       name: Komunální volby 2022
-     - link: /_program/index.html
+     - link: /program/index/
       name: Komunální volby 2018
   - link: /kontakt/
     name: Kontakt
