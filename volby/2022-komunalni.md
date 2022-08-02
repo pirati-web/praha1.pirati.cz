@@ -11,7 +11,14 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center"><strong> Máme odvahu řídit Prahu 1 správně!</strong></h2>
+    <h2 class="head-xs md:head-base mt-2 text-center"><strong>Praha 1 je místem, kde žijeme, kam chodí do školy naše děti, kde odpočíváme, trávíme volný čas a setkáváme se s našimi sousedy.</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center"> Jedničku, která je pro nás domovem, známe velmi dobře s
+jejími benefity i slabšími místy. Bydlíme zde mnoho let, někteří z nás se zde dokonce narodili.
+Dobře proto známe problémy, které nás občany Prahy 1, dlouhodobě trápí – hluk, doprava a s ní
+související špatné parkování, absence veřejných toalet, bariéry. Zkrátka to, co se dosud nepodařilo
+současnému ani předchozímu politickému vedení Prahy 1, i díky nedostatečné spolupráci napříč
+celým politickým spektrem, napravit. Máme vizi a chceme pro Prahu 1 pracovat. Nebojíme se jít za konkrétními cíli. Nabízíme cestu, jak můžeme společně Prahu 1 zlepšit, ne důvody, proč to nejde.</h2>
+<h2 class="head-xs md:head-base mt-2 text-center"><strong> Máme odvahu řídit Prahu 1 správně!</strong></h2>
 {% endcapture %}
 
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
