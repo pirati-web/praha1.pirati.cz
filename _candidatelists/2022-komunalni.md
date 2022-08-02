@@ -1,7 +1,7 @@
 ---
 title: Kandidáti a kadidátky do zastupitelstva MČ Praha 1
 uid: 2022-komunalni
-# number: XX # číslo kandidátky
+# number: 9 # číslo kandidátky
 leader:
   Mgr. David Bodeček, MBA
   profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
