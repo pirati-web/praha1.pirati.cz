@@ -1,6 +1,7 @@
 ---
 uid: david.bodecek
-name:     David Bodeček
+name:     Mgr. David Bodeček
+profession: předseda kontrolního výboru a zastupitel MČ Praha 1
 fullname: Bodeček David Mgr.
 category:
   - pms
