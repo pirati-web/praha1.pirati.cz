@@ -6,6 +6,7 @@ fullname: Bodeček David Mgr.
 category:
   - pms
   - kandidat-obec
+  - clenove
 ordpms: 2
 description: 1. místopředseda Piráti Praha 1, zastupitel a oddávající (Praha 1), předseda kontrolního výboru (Praha 1), člen komise obecního majetku (Praha 1), člen komise obchodu a služeb (Praha 1), pedagog a procesní analytik, 
 # 2. MÍSTOPŘEDSEDA PIRÁTŮ PRAHA, předseda Kontrolního výboru, pedagog, metodik, procesní analytik, Procesní analytik
