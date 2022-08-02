@@ -12,7 +12,7 @@ heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-vale
 age: 
 mail:
   - ivana.antalova@pirati.cz
-  - ivka.antalova@gmail.com
+    ivka.antalova@gmail.com
 profiles:
   facebook: https://www.facebook.com/ivana.antalova.love/ 
   ordclen: 4
