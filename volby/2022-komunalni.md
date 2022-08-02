@@ -17,7 +17,8 @@ související špatné parkování, absence veřejných toalet, bariéry. Zkrát
 současnému ani předchozímu politickému vedení Prahy 1 napravit, i díky nedostatečné spolupráci napříč
 celým politickým spektrem. Máme vizi a chceme pro Prahu 1 pracovat. Nebojíme se jít za konkrétními cíli. Nabízíme cestu, jak můžeme společně Prahu 1 zlepšit, ne důvody, proč to nejde.</h2>
 
-**[Pirátský program pro Prahu 1](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
+---
+* [Pirátský program pro Prahu 1](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
 
 <h2 class="head-xs md:head-base mt-2 text-center"><strong> Máme odvahu řídit Prahu 1 správně!</strong></h2>
 {% endcapture %}
