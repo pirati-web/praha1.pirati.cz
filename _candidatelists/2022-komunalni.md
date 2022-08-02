@@ -50,7 +50,7 @@ tail: # zbytek kandidatky
   - name: PhDr. Olga Sklenářová
   - name: Bc. Markéta Ježková
   - name: Igor Antal
-  - name: Bc. Emilija Rónová
+  - uid:  emilija.ronova
   - name: Alena Měšťák Franková
   - name: Mgr. Jana Machálková
   - name: Čestmír Hrbáček
