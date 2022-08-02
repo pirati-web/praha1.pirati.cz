@@ -15,13 +15,10 @@ mail:
  
 profiles:
   facebook: https://www.facebook.com/ivana.antalova.love/ 
-  LinkedIn: https://www.linkedin.com/in/ivanaantalova/
-  Web: https://ivanaantalova.wixsite.com/ivka
-ordclen: 4
+  ordclen: 4
 ---
-
-**Ivana Antalová** (1969) je výkonná ředitelka v Unii porodních asistentek a pirátka na Praze 1. 
-
+**Ivana Antalová** (1969) je ředitelka Unie porodních asistentek, spoluautorka knihy Bonding - porodní radost a pirátka na Praze 1. Je také máma, manželka a kamarádka. Baví ji otužování, turistika a filmy. 
 ---
-
+* [Můj web](https://ivanaantalova.wixsite.com/ivka)
+* [Můj LinkedIn](https://www.linkedin.com/in/ivanaantalova/)
 * [Můj veřejný kalendář](https://calendar.google.com/calendar/u/2?cid=cGlyYXRrYS5hbnRhbG92YUBnbWFpbC5jb20)
