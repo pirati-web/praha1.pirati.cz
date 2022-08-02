@@ -16,6 +16,3 @@ mail:
   facebook: https://www.facebook.com/veronika.smidova.94
 
 ---
-
-
----
