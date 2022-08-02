@@ -21,5 +21,5 @@ celým politickým spektrem. Máme vizi a chceme pro Prahu 1 pracovat. Nebojíme
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
 
 ---
-**[Pirátský program pro Prahu 1](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
+* [Pirátský program pro Prahu 1](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
 
