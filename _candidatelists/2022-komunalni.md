@@ -4,7 +4,7 @@ uid: 2022-komunalni
 # number: XX # číslo kandidátky
 leader:
   Mgr. David Bodeček, MBA
-  profession: pčedseda kontrolního výboru a zastupitel MČ Praha 1 
+  profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
   age: 42
   city: Praha 1
   partyUid: pirati
