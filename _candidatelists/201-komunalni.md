@@ -1,6 +1,6 @@
 ---
 title: Kandidáti do zastupitelstva MČ Praha 8
-uid: 2018-komunalni
+uid: 201-komunalni
 number: 9 # číslo kandidátky
 leader:
   uid: alice.hamalova
