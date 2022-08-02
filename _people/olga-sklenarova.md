@@ -1,22 +1,23 @@
 ---
 uid: olga.sklenarova
-name:     Olga Sklenářová
+name:     PhDr. Olga Sklenářová
 fullname: PhDr. Olga Sklenářová
+profession: Předsedkyně Piráti Praha 1, pedagožka
 category:
   - pms
   - kontaktni_osoba
+  - clenove
 categories: kontaktni_osoba  
 ordpms: 1 
-description: Předsedkyně Piráti Praha 1, členka komise pro informatiku (Praha 1), pedagog, 
+description: Předsedkyně Piráti Praha 1, členka komise pro informatiku (Praha 1), pedagožka, 
 #Předsedkyně Pirátů Prahy 1, pedagog, vyučuje na gymnáziu a základní škole na Praze 1
 img: people/olga-sklenarova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
-age: 49 let
 mail:
   - olga.sklenarova@pirati.cz
  
 profiles:
-  #facebook: https://www.facebook.com/jitka.nazarska
+  facebook: https://www.facebook.com/olga.sklenickasklenarova
 ---
 
 Olga Sklenářová (24.6.1969) jsem v Pirátské straně od listopadu 2015. I. místopředsedkyně MS Prahy 1. Na Praze 1. žiji od roku 2002.
