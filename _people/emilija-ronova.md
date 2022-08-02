@@ -1,7 +1,7 @@
 ---
 uid: emilija.ronova
 name:     Bc. Emilija Rónová
-profession: dlouhodobá residentka Prahy 1, od r. 2005 na invalidním vozíku
+profession: mediální poradkyně a obchodní konzultantka
 category:
   - 
 description: 
