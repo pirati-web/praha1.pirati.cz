@@ -1,5 +1,5 @@
 ---
-title: Kandidáti do zastupitelstva MČ Praha 1
+title: Kandidáti a kandidátky do zastupitelstva MČ Praha 1
 uid: 2022-komunalni
 number: 9 # číslo kandidátky
 leader:
