@@ -25,12 +25,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 35
     city: Praha 1
     partyUid: pirati
-  - uid: veronika smidova
+  - uid: veronika.smidova
     profession: marketérka, mluvčí Pirátů a bývalá novinářka 
     age: 33
     city: Praha 1
-    partyUid: pirati 
-  - uid: jinas.jancarik
+    partyUid: pir 
+  - uid: jonas.jancarik
     profession: konzultant institucí EU 
     age: 33
     city: Praha 1
