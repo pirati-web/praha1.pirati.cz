@@ -29,7 +29,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: marketérka, mluvčí Pirátů a bývalá novinářka 
     age: 33
     city: Praha 1
-    partyUid: pir 
+    partyUid: pirati 
   - uid: jonas.jancarik
     profession: konzultant institucí EU 
     age: 33
