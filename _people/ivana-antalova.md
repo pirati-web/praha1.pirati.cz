@@ -7,7 +7,7 @@ category:
   - clenove
 description: výkonná ředitelka v Unii porodních asistentek
 img: people/ivana-antalova.jpg
-heroImg: 
+heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 
 mail:
   - ivana.antalova@pirati.cz
