@@ -13,7 +13,7 @@ description: 1. místopředseda Piráti Praha 1, zastupitel a oddávající (Pra
 # 2. MÍSTOPŘEDSEDA PIRÁTŮ PRAHA, předseda Kontrolního výboru, pedagog, metodik, procesní analytik, Procesní analytik
 img: people/david-bodecek.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
-age: 38 let
+age: 
 mail:
   - david.bodecek@pirati.cz
  
