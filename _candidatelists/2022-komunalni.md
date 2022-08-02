@@ -7,7 +7,6 @@ leader:
   age: 42
   city: Praha 1
   profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
-  partyUid: pirati
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: ivana.antalova
     profession: ředitelka Unie porodních asistentek
