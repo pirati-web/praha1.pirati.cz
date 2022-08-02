@@ -1,7 +1,8 @@
 ---
 uid: ivana.antalova
-name:     Ivana Antalová
+name:     Ing. Ivana Antalová
 fullname: Ivana Antalová
+
 category:
   - kandidat-obec
   - clenove
@@ -13,11 +14,13 @@ mail:
   - ivana.antalova@pirati.cz
  
 profiles:
-  #facebook: 
+  facebook: https://www.facebook.com/ivana.antalova.love/ 
+  LinkedIn: https://www.linkedin.com/in/ivanaantalova/
+  Web: https://ivanaantalova.wixsite.com/ivka
 ordclen: 4
 ---
 
-**Ivana Antalová** je výkonná ředitelka v Unii porodních asistentek a pirátka na Praze 1. 
+**Ivana Antalová** (1969) je výkonná ředitelka v Unii porodních asistentek a pirátka na Praze 1. 
 
 ---
 
