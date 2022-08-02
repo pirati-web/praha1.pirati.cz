@@ -48,7 +48,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb 
-  - name: PhDr. Olga Sklenářová
+   - name: PhDr. Olga Sklenářová
   - name: Bc. Markéta Ježková
   - name: Igor Antal
   - name: Bc. Emilija Rónová
