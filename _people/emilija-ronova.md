@@ -5,7 +5,7 @@ profession: dlouhodobá residentka Prahy 1, od r. 2005 na invalidním vozíku
 category:
   - 
 description: 
-img: people/
+#img: people/
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 mail:
   - ronovaema@gmail.com 
