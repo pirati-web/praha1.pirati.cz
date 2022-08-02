@@ -1,6 +1,6 @@
 ---
 uid: veronika.smidova
-name:     Bc. et Bc. Veronika Šmídová
+name:     Bc. Veronika Šmídová
 profession: marketérka a mluvčí Pirátů
 category:
   - kandidat-obec
