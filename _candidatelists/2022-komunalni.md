@@ -8,7 +8,7 @@ leader:
   city: Praha 1
   profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
   partyUid: pirati
-head: 
+head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - name: Ing. Ivana Antalová
     profession: ředitelka Unie porodních asistentek
     age: 53
