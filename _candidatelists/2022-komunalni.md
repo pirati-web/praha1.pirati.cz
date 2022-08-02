@@ -1,7 +1,7 @@
 ---
 title: Kandidáti a kandidátky do zastupitelstva MČ Praha 1
 uid: 2022-komunalni
-number: 9 # číslo kandidátky
+number: 1 # číslo kandidátky
 leader:
   uid: david.bodecek
   age: 42
