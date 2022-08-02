@@ -12,13 +12,13 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: ředitelka Unie porodních asistentek
     age: 53
     city: Praha 1
-    partyUid: pirati
+    partyUid: Česká pirátská strana
   - uid: martin.arden
     name: Martin Arden
     profession: zastupitel HMP, evangelický pastor
     age: 55
     city: Praha 1
-    partyUid: pirati
+    partyUid: 
   - uid: nikol.svecova
     profession: učitelka ZŠ
     age: 35
