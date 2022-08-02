@@ -1,12 +1,17 @@
 ---
 uid: veronika.smidova
-name:     Veronika Šmídová
+name:    Bc. et Bc. Veronika Šmídová
+profession: marketérka, mluvčí Pirátů a bývalá novinářka
 category:
   - clenove
   - kandidat-obec
-description: členka Pirátů na Praze 1
+description: marketérka, mluvčí Pirátů a bývalá novinářka
 img: people/veronika-smidova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
+mail:
+  - veronika.smidova@pirati.cz
+ profiles:
+  facebook: https://www.facebook.com/veronika.smidova.94
 ordclen: 11
 ---
 
