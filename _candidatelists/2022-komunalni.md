@@ -3,43 +3,44 @@ title: Kandidáti do zastupitelstva MČ Praha 1
 uid: 2022-komunalni
 number: 9 # číslo kandidátky
 leader:
-  Mgr. David Bodeček, MBA
+  uid: david.bodecek
   age: 42
   city: Praha 1
   profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
   partyUid: pirati
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - name: Ing. Ivana Antalová
+  - uid: ivana.antalova
     profession: ředitelka Unie porodních asistentek
     age: 53
     city: Praha 1
     partyUid: pirati
-  - name: Martin Arden
+  - uid: martin.arden
+    name: Martin Arden
     profession: zastupitel HMP, evangelický pastor
     age: 55
     city: Praha 1
     partyUid: pirati
-  - name: Bc. Nikol Švecová, DiS.
+  - uid: nikol.svecova
     profession: učitelka ZŠ
     age: 35
     city: Praha 1
     partyUid: pirati
-  - name: Bc. et Bc. Veronika Šmídová
+  - uid: veronika smidova
     profession: marketérka, mluvčí Pirátů a bývalá novinářka 
     age: 33
     city: Praha 1
     partyUid: pirati 
-  - name: Jonáš Jančařík, MSc, MA
+  - uid: jinas.jancarik
     profession: konzultant institucí EU 
     age: 33
     city: Praha 1
     partyUid: bezpp
-  - name: MUDr. Eva Fürstová
+  - uid: eva.furstova
     profession: dětská lékařka
     age: 30
     city: Praha 1
     partyUid: bezpp 
-  - name: Mgr. Jana Sobotková, LLM
+  - uid: jana.sobotkova
     profession: učitelka ZŠ 
     age: 57
     city: Praha 1
