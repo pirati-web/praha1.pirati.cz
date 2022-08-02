@@ -18,7 +18,7 @@ současnému ani předchozímu politickému vedení Prahy 1 napravit, i díky ne
 celým politickým spektrem. Máme vizi a chceme pro Prahu 1 pracovat. Nebojíme se jít za konkrétními cíli. Nabízíme cestu, jak můžeme společně Prahu 1 zlepšit, ne důvody, proč to nejde.</h2>
 
 ---
-* [<h2 class="head-xs md:head-base mt-2 text-center">Pirátský program pro Prahu 1</h2>](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
+* [Pirátský program pro Prahu 1](https://drive.google.com/file/d/1tkje9ubWigMilxwcNoAfBFU2nFebB16Q/view?usp=sharing)
 
 <h2 class="head-xs md:head-base mt-2 text-center"><strong> Máme odvahu řídit Prahu 1 správně!</strong></h2>
 {% endcapture %}
