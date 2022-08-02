@@ -90,4 +90,5 @@ tail:
   name: Ing. Jakub Veselý, BBA
 # 27
   name: Mgr. Klára Benešová
-  ---
+
+---
