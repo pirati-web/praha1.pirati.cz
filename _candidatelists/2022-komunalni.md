@@ -113,7 +113,7 @@ tail: # zbytek kandidatky
   - uid: michal.stepan
     profession: dopravní inženýr, člen dopravní komise Praha 1
     age: 57
-  - udi: jakub.vesely
+  - uid: jakub.vesely
     profession: člen dozorčí rady Obecní dům a.s. a komise hl.m. Prahy pro vznik Vltavské filharmonie
     age: 45
   - name: Mgr. Klára Benešová
