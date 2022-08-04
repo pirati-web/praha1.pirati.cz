@@ -1,6 +1,7 @@
 ---
 uid: jakub.vesely
-name:     Jakub Veselý
+name:     Ing. Jakub Veselý
+
 category:
   - clenove
   - kandidat-obec
