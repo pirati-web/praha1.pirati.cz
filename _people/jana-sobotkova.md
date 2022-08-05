@@ -11,6 +11,12 @@ mail:
 - jana235@seznam.cz 
 ordpriz: 18
 ---
+Jaké oblasti byste se chtěla věnovat a čeho chcete dosáhnout, pokud byste uspěla v komunálních volbách?
 
+Pedagogická oblast a volnočasové aktivity.
+
+Čím se chcete odlišit od současného vedení radnice Prahy 1 a co nového přinesete?
+
+Mé přesvědčení tkví v týmové práci. Nevzdávat se při jakémkoliv neúspěchu, naopak dokázat, že Piráti se dokáží zcelit a dokáží se zacílit nejen na spolupráci všech zastupitelů na radnici, ale i všech občanů Prahy.
 
 ---
