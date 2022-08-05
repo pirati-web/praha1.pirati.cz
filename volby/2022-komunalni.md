@@ -7,6 +7,8 @@ customizeHeader: true
 ---
 {% capture mainContent %}
   <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2022</h1>
+  <h2 class="head-alt-lg md:head-alt-xl text-center">PIRÁTI A OBČANÉ Z PRAHY 1</h2>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Volební číslo 2</h1>
 {% endcapture %}
 {% capture subContent %}
     <h2 class="head-xs md:head-base mt-2 text-center"><strong>Praha 1 je místem kde žijeme, kam chodí do školy naše děti, kde odpočíváme, trávíme volný čas a setkáváme se s našimi sousedy.</strong></h2>
