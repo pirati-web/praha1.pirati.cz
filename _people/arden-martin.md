@@ -2,6 +2,7 @@
 uid: martin.arden
 name:     Martin Arden
 fullname: Martin Arden
+profession: zastupitel HMP, evangelický pastor
 category:
   - clenove
   - pms

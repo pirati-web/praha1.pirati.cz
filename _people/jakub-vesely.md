@@ -1,6 +1,7 @@
 ---
 uid: jakub.vesely
-name:     Jakub Veselý
+name:     Ing. Jakub Veselý
+profession: člen dozorčí rady Obecní dům, a.s.
 category:
   - clenove
   - kandidat-obec

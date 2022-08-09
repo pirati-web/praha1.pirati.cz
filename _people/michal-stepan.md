@@ -3,6 +3,7 @@ uid: michal.stepan
 name:     Michal Štěpán
 titles:
   before: Ing.
+profession: dopravní inženýr
 category:
   - clenove
   - kandidat-obec
