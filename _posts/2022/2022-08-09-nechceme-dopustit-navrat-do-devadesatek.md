@@ -5,7 +5,7 @@ title: 'Pirátor: Nechceme dopustit návrat do devadesátek. Za nás se Praha ko
 date: '2022-08-09'
 author: Pirátské listy
 authorId: piratske.listy
-image: articles/2021/hrib-vevyskoku.jpg
+image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
 tags:
   - Pirátské listy
 ---
