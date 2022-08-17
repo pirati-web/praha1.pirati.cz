@@ -6,29 +6,30 @@ leader:
   uid: david.bodecek
   age: 42
   city: Praha 1
+  partyUid: pirati
   profession: předseda kontrolního výboru a zastupitel MČ Praha 1 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: ivana.antalova
     profession: ředitelka Unie porodních asistentek
     age: 53
     city: Praha 1
-    partyUid:
+    partyUid: pirati
   - uid: martin.arden
     name: Martin Arden
     profession: zastupitel HMP, evangelický pastor
     age: 55
     city: Praha 1
-    partyUid: 
+    partyUid: pirati
   - uid: nikol.svecova
     profession: učitelka ZŠ
     age: 35
     city: Praha 1
-    partyUid: 
+    partyUid: pirati
   - uid: veronika.smidova
     profession: marketérka, mluvčí Pirátů a bývalá novinářka 
     age: 33
     city: Praha 1
-    partyUid:  
+    partyUid: pirati  
   - uid: jonas.jancarik
     profession: konzultant institucí EU 
     age: 33
@@ -50,6 +51,7 @@ tail: # zbytek kandidatky
   - uid: olga.sklenarova
     profession: pedagožka na gymnáziu prof. Patočky a ZŠ Vodičkova
     age: 53
+    partyUid: pirati
   - name: Bc. Markéta Ježková
     profession: moderátorka, PR manažerka
     age: 32
@@ -116,6 +118,7 @@ tail: # zbytek kandidatky
   - uid: jakub.vesely
     profession: člen dozorčí rady Obecní dům a.s. a komise hl.m. Prahy pro vznik Vltavské filharmonie
     age: 45
+    partyUid: pirati
   - name: Mgr. Klára Benešová
     profession: dětská psycholožka
     age: 30
