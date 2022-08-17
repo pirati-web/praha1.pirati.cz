@@ -11,4 +11,26 @@ intro: >
 
 ---
 
-##
+## Bydlení a obecní byty
+
+- Vytvoříme Kontaktní centrum bydlení, ve kterém bude našim občanům poskytováno poradenství v souvislosti s bytovou problematikou na Praze 1.
+- Bydlení musí být dostupné pro všechny občany z Prahy 1, nikoli pouze pro sociálně slabší či prominenty. Při správě obecního bydlení zohledníme všechny legislativní aspekty i zájmy dlouhodobých rezidentů. Vytvoříme novou koncepci využití obecních bytů a jejich přidělování tak, aby primárně sloužily občanům Prahy 1. Na základě toho budou koncipovány podmínky výběru. Už žádná výběrová řízení na nejvyšší nájemné, kdy některé byty následně neslouží k bydlení, ale k nelegálnímu podnikání.
+- Budeme realizovat pasportizaci obecního bytového fondu. Byty je nutné rekonstruovat, část jejich vybavení vyměnit a jejich počet navyšovat. Mnohé obecní byty s dlouhodobými nájemci nesplňují běžné standardy 21. století.
+- Vytvoříme plán výstavby nových bytů, a to z volných půdních prostor, z dlouhodobých prázdných nebytových jednotek a z prostor v prázdných domech (např. Černá 1505/10, Senovážné nám. 2088/10a, Hybernská 1011/28, Na Poříčí 1062/35 – 1061/37, Na Poříčí 1758/14 – 1042/16). Chceme, aby se historické objekty rekonstruovaly citlivě s důrazem na jejich architektonickou hodnotu. 
+- Obnovíme projekt startovacích bytů pro mladé, který dlouhodobě hájíme a prosazujeme.
+- Budeme myslet také na pronájmy bytů pro vybrané profese zásadní pro fungování ěstské části jako jsou pedagogické, zdravotnické, sociální, policejní, strážnické či úednické.
+- Pro zájemce zavedeme inovativní způsob koordinace výměny obecních bytů mezi nájemníky. (možnost výměny většího bytu za menší a podobně).
+- Přijmeme opatření k zamezení podvodů a diskriminace při přidělování obecních
+bytů. Zajistíme, aby se obecní byty přidělovaly na základě předvídatelných,
+průhledných a srozumitelných pravidel.
+○ Budeme aktivně postupovat v případě neplatičů a osob užívajících obecní byty v
+rozporu s nájemními smlouvami a s právními předpisy ČR.
+○ Budeme prosazovat institut „domovnictví“ v nám svěřených domech, podpoříme
+zavedení nových technologií spojených se správou budov a zaměříme se na
+opatření vedoucí k úsporám spotřeby energií a vody.
+○ Ve spolupráci s veřejností zahájíme diskuzi nad budoucí změnou využití
+současných hotelů umístěných v obecních prostorách tak, aby v těchto klidových
+zónách mohly vznikat malometrážní byty (ulice Haštalská, Anežská, a další).
+○ Městská část Praha 1 získala z prodeje bytů více než 1 miliardu korun českých. Tato
+částka je určena na rozvoj a opravu bytového fondu, a její hodnota je výrazně
+snižována inflací. Využijeme ji na opravy obecních bytů a jejich novou výstavbu.
