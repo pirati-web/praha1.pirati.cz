@@ -11,7 +11,7 @@ intro: >
   
 ---
   
- ## Dostupná, rychlá, komfortní a rozvíjející se městská hromadná doprava
+## Dostupná, rychlá, komfortní a rozvíjející se městská hromadná doprava
   
 - Václavské náměstí si zaslouží tramvaje. Podporujeme obnovu tramvajové trati na Václavské náměstí, novou trať kolem Hlavního nádraží a tramvajový okruh kolem centra města, který odlehčí přetíženým tratím v centru.
 - Fandíme elektrifikaci autobusových linek.
