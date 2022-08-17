@@ -7,13 +7,7 @@ order: 1
 garant: david.bodecek
 img: program/2022/bezpecnost.jpg
 intro: >
-  Chceme integrovat služby Prahy 1 do Portálu Pražana a nabízet je v digitální podobě.
-Uděláme vše pro to, aby se Praha 1 stala jednou z nejtransparentnějších městských částí v
-Česku. Úřad má být otevřený pro lidi, nikoliv nedobytnou pevností. Občané musí mít k
-dispozici dostatek informací a nástrojů, aby mohli práci politiků a úředníků kontrolovat.
-Zapojíme občany do rozhodování, protože věříme, že radnice, která se svými občany
-nekomunikuje, nemůže dobře fungovat. Pomocí otevřenosti, efektivnosti, digitalizace a
-participace správu Prahy 1 pro občany více zprůhledníme a zjednodušíme.
+  Chceme integrovat služby Prahy 1 do Portálu Pražana a nabízet je v digitální podobě. Uděláme vše pro to, aby se Praha 1 stala jednou z nejtransparentnějších městských částí v Česku. Úřad má být otevřený pro lidi, nikoliv nedobytnou pevností. Občané musí mít k dispozici dostatek informací a nástrojů, aby mohli práci politiků a úředníků kontrolovat. Zapojíme občany do rozhodování, protože věříme, že radnice, která se svými občany nekomunikuje, nemůže dobře fungovat. Pomocí otevřenosti, efektivnosti, digitalizace a participace správu Prahy 1 pro občany více zprůhledníme a zjednodušíme.
 
 ---
 
