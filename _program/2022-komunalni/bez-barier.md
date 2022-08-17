@@ -8,6 +8,7 @@ garant: ivana.antalova
 img: 
 intro: >
   Chceme, aby se Praha 1 opět stala dobrou adresou. Praha 1 přístupná všem. Při odstraňování bariér budeme usilovat o odstranění diskriminace veřejným prostorem. Bezbariérovost prostředí, budov a dopravy je nezbytná pro všechny naše občany. O bezbariérovost se budeme zasazovat ve spolupráci s nestátními organizacemi i státními institucemi, s lidmi se zdravotním postižením, s rodinami s dětmi, seniory, s lidmi po úrazech, i se všemi ostatními. Chceme, aby měli obyvatelé Prahy 1 možnost uspokojit většinu svých potřeb v docházkové vzdálenosti od místa svého bydliště. Každá čtvrť by měla nabídnout svým obyvatelům kvalitní občanskou vybavenost včetně škol, zdravotnických zařízení, obchodů, služeb a také pracovní příležitosti, dostupnou veřejnou hromadnou dopravu, volnočasové aktivity a dostatek zeleně. Praha 1 čelí vylidňování. Je plná hotelů nebo prázdných investičních bytů. Růst cen nájemného i cen vlastnického bydlení je nejvyšší z celé Prahy. Je důsledkem rozšíření krátkodobých pronájmů a spekulací s nemovitostmi. Budeme usilovat o zastavení tohoto negativního trendu.
+
 ---
 
 ## Město krátkých vzdáleností
@@ -33,3 +34,8 @@ intro: >
 
 ## Bezbariérová Praha 1
 
+- Chceme bezbariérovou Prahu 1. Objekty a komunikace musí být přístupné všem, lidem na vozíčku, rodinám s kočárky, hůře pohyblivým občanům. Při plánování i úpravě veřejných prostranství a budov budeme klást důraz na bezbariérovost a snadnou pohyblivost pro pěší.
+- Budeme iniciovat vznik Komise pro bezbariérovou Prahu 1, jejímiž členy budou ti, pro které je bezbariérovost nutností normální života a dále odborníci, kteří budou připomínkovat nové i stávající využití veřejného prostoru tak, aby se v Praze 1 všem žilo pohodlně a zdravě. Zastavíme diskriminaci veřejným prostorem.
+- Provedeme analýzu bezbariérovosti veřejného prostoru a budeme podporovat programy mobility. Vytvoříme strategický plán udržitelné bezbariérovosti ve spolupráci s dotčenými osobami a nestátními organizacemi i státními institucemi.
+- Zmapujeme potřeby obyvatel, navrhneme a zrealizujeme výstavbu veřejných bezbariérových toalet zdarma.
+- Budeme apelovat na Magistrát, aby co nejdříve naplnil své závazky z Koncepce odstraňování bariér ve veřejné hromadné dopravě v hlavním městě Praha. V Praze 1 je sedm stanic metra, přičemž do stanice Staroměstská a Malostranská stále není vybudován výtah. Budeme usilovat o začlenění bezbariérovosti petřínské lanové dráhy do uvedené koncepce.
