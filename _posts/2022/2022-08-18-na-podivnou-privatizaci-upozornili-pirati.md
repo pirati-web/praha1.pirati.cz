@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Čachry exstarosty Lomeckého u soudu: Na podivnou privatizaci upozornili Piráti'
-date: '2022-08-11'
+date: '2022-08-18'
 author: Pirátské listy
 authorId: piratske.listy
 image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
