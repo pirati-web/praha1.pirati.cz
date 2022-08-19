@@ -9,6 +9,11 @@ image: articles/bodecek1.jpg
 tags:
   - Pirátské listy
 ---
+**Davide, jak zpětně hodnotíš výsledky posledních komunálních voleb, ve kterých jsi z Pirátů obdržel nejvíce preferenčních hlasů?**
+Upřímně to byla velká euforie. Radost a zároveň odpovědnost, kterou ostatně cítím doposud. Velké zadostiučinění, že někdy dobrá věc, v tomto případě boj s Oldřichem Lomeckým a jeho stylem vládnutí, může vyhrát. Bohužel některé staré zvyky a, připusťme, politická taktika jiných, mi nedovolily být na radnici ve výkonné funkci celé volební období, ale zkušenosti do dalších voleb jsou k nezaplacení. 
+
+**Z čeho máš ze svého téměř čtyřletého působení na radnici největší radost?** 
+Z toho, že se nám podařilo rozkrýt řadu kauz a vyvrátit fámy, že jsem šel v roce 2018 do voleb, abych nechal vyhodit z radnice úředníky nebo kvůli prospěchu. Radost mám i z toho, že jsem se spoustou našich občanů mohl diskutovat fungování komunální politiky. Ale úplně nejvíce naplňující pro mě byla možnost oddávání snoubenců a uzavírání svazků registrovaných párů. Nikdy bych neřekl, že během jednoho volebního období oddám více než 400 párů.
 
 **Jak bys nyní, s časovým odstupem, okomentoval politický převrat, který v Praze 1 v lednu 2020 nastal a ty jsi s Piráty přešel z koalice do opozice?** 
 Už v říjnu 2019 jsem volal po větší sebereflexi některých kolegů. Později jsem tehdejšímu starostovi napsal otevřený dopis, který byl podle mě poslední šancí, jak koalici zachránit. V něm jsem mimo jiné upozornil na stížnosti úředníků, kteří odmítali chodit do jeho kanceláře, protože nerespektoval jejich názor a bez jejich erudovaného požadavku a souhlasu měnil smluvní ujednání. Někteří mí kritici dodnes tento dopis považují za důvod, proč se koalice rozpadla – pravdou nicméně je, že tehdejší opozice a současná koalice byly už mnohem dříve dohodnuty na politické změně. Je škoda, že jsem kvůli tomu nemohl dotáhnout plno věcí. 
