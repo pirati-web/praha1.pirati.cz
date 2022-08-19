@@ -1,5 +1,5 @@
 ---
-title: Praha 1 bez bariér – život v ní budeme rozvíjet, aby se nestala skanzenem
+title: Bez bariér nebude Praha 1 skanzenem
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: bez-barier
