@@ -34,5 +34,5 @@ Motto:
 "Pouze ten, kdo zná skutečnou motivaci člověka ho může soudit, ostatní mu mohou dopřát svuj respekt a podporu."
 
 ---
-* [Pirátský medailonek](https://lide.pirati.cz/profil/3099/)
+* [Medailonek](https://lide.pirati.cz/profil/3529/))
 * [Veřejný kalendář](https://calendar.google.com/calendar/u/2?cid=cGlyYXRrYS5hbnRhbG92YUBnbWFpbC5jb20)
