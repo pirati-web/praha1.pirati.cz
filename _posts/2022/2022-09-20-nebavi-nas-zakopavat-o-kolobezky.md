@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Piráti chystají 18 nových zákonů pro Prahu. Řada z nich uleví i lidem na Praze 1'
 date: '2022-09-20'
-author: Ivana Antalová
-authorId: ivana.antalova
+author: Veronika Šmídová
+authorId: veronika.smidova
 image: articles/2020/2020-12-22-rozhodne-praha1-o-pronajmu-zofina-narychlo-pres-vanoce.jpg
 tags:
   - Doprava
