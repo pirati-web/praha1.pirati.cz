@@ -5,7 +5,7 @@ title: 'Piráti povedou Prahu 1. Koaliční smlouva podepsána, Bodeček a Antal
 date: '2022-10-31'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
+image: miscellaneous/articles/team1.jpg
 tags:
   - Volby
 ---
