@@ -15,3 +15,6 @@ Vážení sousedé a sousedky z Prahy 1, místní sdružení Pirátů na Praze 1
 Jsme rádi, že do společného programu se povedlo propsat drtivou většinu návrhů pro rozvoj naší Prahy 1, které Piráti dlouhodobě prosazují. Stejně tak oceňujeme, že se podařila vyjednat shoda na změně poměru členů v budoucím Kontrolním výboru ve prospěch opozice. Rovněž jsme dosáhli dohody, aby v Radě neusedla žádná trestně stíhaná osoba. Děkujeme všem koaličním partnerům za konstruktivní přístup.
 
 David Bodeček, lídr kandidátní listiny Piráti a občané z Prahy 1
+
+* [Koaliční smlouva](/assets/pdf/koalicni.pdf)
+* [Programové prohlášení](/assets/pdf/programove.pdf)
