@@ -3,8 +3,6 @@ uid: jitka.nazarska
 name:     Jitka Nazarská
 fullname: Jitka Nazarská 
 category:
-  - kandidat-obec
-  - clenove
 categories: kontaktni_osoba    
 description: Učitelka MŠ, ZASTUPITELKA MČ PRAHA 1
 img: people/jitka-nazarska.jpg
@@ -18,7 +16,7 @@ profiles:
 ordclen: 8
 ---
 
-**Jitka Nazarská** je zastupitelka a oddávající (Praha 1), členka sociální komise (Praha 1), členka komise pro výchovu a vzdělávání (Praha 1). Pracuje jako  OSVČ.
+**Jitka Nazarská** je zastupitelka a oddávající (Praha 1), členka sociální komise (Praha 1), členka komise pro výchovu a vzdělávání (Praha 1). Pracuje jako OSVČ.
 
 Prakticky od narození 1970 žije v Praze. Vystřídala 3 městské části. Po prožitém dětství na Žižkově se s rodinou odstěhovala na Jižní Město, kde se jí narodily dvě dcery. Byla u zrodu mateřského centra, které přes rok vedla. V roce 2003 se odstěhovala na Prahu 1, kde žije doteď. Mezitím jsme se rozvedla a znovu vdala, za Pavla Nazarského, a přivdala si další dceru. Před nedávnem se jí narodil vnuk. 
 

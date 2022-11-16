@@ -3,8 +3,6 @@ uid: pavel.nazarsky
 name:     Pavel Nazarský
 fullname: Mgr. Pavel Nazarský 
 category:
-  - clenove
-  - kandidat-obec 
 description: Zastupitel MČ Praha 1, učitel 1. st. ZŠ
 img: people/pavel-nazarsky.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
