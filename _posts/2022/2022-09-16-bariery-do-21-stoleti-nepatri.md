@@ -5,7 +5,7 @@ title: 'Ivana Antalová: Bariéry do 21. století nepatří!'
 date: '2022-08-30'
 author: Ivana Antalová
 authorId: ivana.antalova
-image: articles/2020-03-postrehy-komise-majetku-komise-bydleni.png
+image: miscellaneous/articles/antalova1.jpg
 tags:
   - Volby
 ---
