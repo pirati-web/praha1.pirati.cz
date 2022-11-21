@@ -5,7 +5,7 @@ title: 'Piráti uspěli na Praze 1 ve volbách, získali čtyři mandáty. Vyjed
 date: '2022-10-05'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2020-03-postrehy-komise-majetku-komise-bydleni.png
+image: miscellaneous/articles/bodecek2.jpg
 tags:
   - Volby
 ---
