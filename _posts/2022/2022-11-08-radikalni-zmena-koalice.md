@@ -5,7 +5,7 @@ title: 'Koalice na Praze 1 chystá radikální změnu. Otevřenost je klíčem n
 date: '2022-10-31'
 author: David Bodeček
 authorId: david.bodecek
-image: articles/2021/2021-05-24-privatizace-obecniho-bytu-petr-arenberger.jpg
+image: miscellaneous/articles/transp.jpg
 tags:
   - Volby
 ---
