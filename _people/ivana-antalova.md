@@ -36,3 +36,4 @@ Motto:
 ---
 * [Medailonek](https://lide.pirati.cz/profil/3529/)
 * [Veřejný kalendář](https://calendar.google.com/calendar/embed?src=piratka.antalova%40gmail.com&ctz=Europe%2FPrague)
+* [Rezervace schůzky](https://doodle.com/bp/radn%C3%ADivkaantalov%C3%A1zprahy1/verejnost)
