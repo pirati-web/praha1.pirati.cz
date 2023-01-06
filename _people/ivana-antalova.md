@@ -35,4 +35,4 @@ Motto:
 
 ---
 * [Medailonek](https://lide.pirati.cz/profil/3529/)
-* [Veřejný kalendář](https://calendar.google.com/calendar/u/2?cid=cGlyYXRrYS5hbnRhbG92YUBnbWFpbC5jb20)
+* [Veřejný kalendář](https://calendar.google.com/calendar/embed?src=piratka.antalova%40gmail.com&ctz=Europe%2FPrague)
