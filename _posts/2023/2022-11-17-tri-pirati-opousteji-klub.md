@@ -5,7 +5,7 @@ title: 'Kam kráčí Piráti Praha 1?'
 date: '2022-10-31'
 author: Piráti Praha 1
 authorId: petra.slezakova
-image: image: articles/2021/nerudova.jpg
+image: articles/2021/nerudova.jpg
 tags:
   - Piráti
 ---
