@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Kam kráčí Piráti Praha 1?'
-date: '2022-10-31'
+date: '2023-04-04'
 author: Piráti Praha 1
 authorId: petra.slezakova
 image: articles/2021/nerudova.jpg
