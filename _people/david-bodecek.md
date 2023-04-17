@@ -19,7 +19,7 @@ profiles:
   facebook: https://www.facebook.com/dajdanos
 ---
 
-**David Bodeček** (* 1980) je kandidátem č. 13 do Zastupitelstva hl. m. Prahy, lídrem kandidátní listiny do Zastupitelstva Prahy 1 a 1. místopředsedou Pirátů v Praze 1. Narodil se v roce 1980 na Moravě, absolvoval Pedagogickou fakultu Masarykovy univerzity v Brně, obor dějepis – občanská výchova pro základní školu, s navazující aprobací pro školu střední. Po pětileté pedagogické praxi se 12 let v komerční sféře zabýval metodikou a nastavováním procesů. Na dobrovolnické bázi spolupracoval s nadacemi, které se ve své aktivitě zaměřují na děti, které prodělaly onkologickou léčbu a také na děti z dětských domovů.
+**David Bodeček** (* 1980) je kandidátem č. 13 do Zastupitelstva hl. m. Prahy, lídrem kandidátní listiny do Zastupitelstva Prahy 1. Narodil se v roce 1980 na Moravě, absolvoval Pedagogickou fakultu Masarykovy univerzity v Brně, obor dějepis – občanská výchova pro základní školu, s navazující aprobací pro školu střední. Po pětileté pedagogické praxi se 12 let v komerční sféře zabýval metodikou a nastavováním procesů. Na dobrovolnické bázi spolupracoval s nadacemi, které se ve své aktivitě zaměřují na děti, které prodělaly onkologickou léčbu a také na děti z dětských domovů.
 
 V říjnových komunálních volbách 2018 obdržel důvěru voličů Prahy 1 a za Piráty s nejvyšším počtem preferenčních hlasů se stal radním pro majetek a bytovou politiku. Ve funkci byl do poloviny ledna 2020, kdy byl s dalšími kolegy z rady odvolán. V tu dobu došlo k politickému „převratu“ a tedy v Praze 1 ke změně ve vedení radnice. Na radnici však zůstal. Byl zvolen předsedou kontrolního výboru. Tuto pozici vykonává doposud.
 

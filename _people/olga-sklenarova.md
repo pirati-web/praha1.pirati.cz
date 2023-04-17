@@ -7,7 +7,7 @@ category:
   - kontaktni_osoba
   - clenove
 categories: kontaktni_osoba  
-description: Předsedkyně Piráti Praha 1, členka komise pro informatiku (Praha 1), pedagožka, 
+description: členka komise pro informatiku (Praha 1), pedagožka, 
 #Předsedkyně Pirátů Prahy 1, pedagog, vyučuje na gymnáziu a základní škole na Praze 1
 img: people/olga-sklenarova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg

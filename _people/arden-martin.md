@@ -5,7 +5,7 @@ fullname: Martin Arden
 profession: zastupitel HMP, evangelický pastor
 category:
   - clenove
-description: Místopředseda Piráti Praha 1, zastupitel a oddávající (HMP), martin.arden@pirati.cz
+description: zastupitel a oddávající (HMP), martin.arden@pirati.cz
 
 img: people/arden-martin.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
