@@ -4,10 +4,8 @@ name:     Mgr. David Bodeček
 profession: místostarosta
 fullname: Bodeček David Mgr.
 category:
-  - pms
   - kandidat-obec
   - clenove
-ordpms: 2
 ordclen: 2
 description: 1. místostarosta MČ Praha 1 pro kulturu, sport, školství, spolky, vnitřní chod úřadu, zastupitel ZHMP, oddávající, pedagog a procesní analytik
 # 2. MÍSTOPŘEDSEDA PIRÁTŮ PRAHA, předseda Kontrolního výboru, pedagog, metodik, procesní analytik, Procesní analytik
