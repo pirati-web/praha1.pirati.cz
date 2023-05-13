@@ -2,10 +2,10 @@
 uid: martin.arden
 name:     Martin Arden
 fullname: Martin Arden
-profession: zastupitel Praha 1, předseda komise sociální, místopředseda komise kulturní, evangelický pastor
+profession: zastupitel Prahy 1, evangelický pastor
 category:
   - clenove
-description: zastupitel a oddávající (HMP), martin.arden@pirati.cz
+description: zastupitel Prahy 1, předseda komise sociální, místopředseda komise kulturní, martin.arden@pirati.cz
 
 img: people/arden-martin.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
