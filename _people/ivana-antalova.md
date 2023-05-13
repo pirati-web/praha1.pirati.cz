@@ -11,15 +11,14 @@ img: people/ivana-antalova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 
 mail:
-  - ivana.antalova@pirati.cz
-  - ivana.antalova@praha.cz
+  - ivka.antalova@gmail.com
 profiles:
   facebook: https://www.facebook.com/ivana.antalova.love/ 
   linkedin: https://www.linkedin.com/in/ivanaantalova/
   web: https://ivanaantalova.wixsite.com/ivka
   ordclen: 4
 ---
-**Ivana Antalová** (* 1969) jsem radní pro sociální věci a bezbariérovost na Praze 1, předsedkyní Nadace Pražské děti, spoluautorkou knihy Bonding - porodní radost a pirátkou na Praze 1. Jsem také mámou, manželkou a kamarádkou. Baví mě otužování, turistika a filmy. 
+**Ivana Antalová** (* 1969) jsem radní pro sociální věci a bezbariérovost na Praze 1, předsedkyní Nadace Pražské děti, spoluautorkou knihy Bonding - porodní radost. Jsem také mámou, manželkou a kamarádkou. Baví mě otužování, turistika a filmy. 
 
 Prahu 1 jsem milovala odmalička. Při jejich návštěvách jsem fascinovaně obdivovala Karlův most. K Orloji jsem tenkrát trefila pouze metrem, z Malostranské na Staroměstskou. V současné době jsem téměř dvacet let patriotkou. Praha 1 mi přirostla k srdci se všemi svými více či méně vítanými specifiky. Mám velkou touhu přispět k tomu, aby se zde žilo místním ještě lépe a turismus byl pro ně požehnáním, nikoliv očistcem.
 
