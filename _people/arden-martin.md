@@ -2,7 +2,7 @@
 uid: martin.arden
 name:     Martin Arden
 fullname: Martin Arden
-profession: zastupitel HMP, evangelický pastor
+profession: zastupitel Prahy 1, evangelický pastor
 category:
   - clenove
 description: zastupitel, martin.arden@pirati.cz
