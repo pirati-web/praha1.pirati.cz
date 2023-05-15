@@ -33,4 +33,6 @@ V říjnu 2021 dokončil individuální dálkové vzdělání Managementu ve ve�
 
 Jeho politickým cílem, který aktuálně před sebou vidí a vnímá, je pokračování v komunální politice.
 
+V roce 2023 mu bylo pozastaveno členství v Pirátské straně.
+
 ---

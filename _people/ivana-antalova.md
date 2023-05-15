@@ -34,6 +34,8 @@ Při svém působení v komisi pro občanské záležitosti jsem navrhla na čes
 Motto: 
 "Pouze ten, kdo zná skutečnou motivaci člověka ho může soudit, ostatní mu mohou dopřát svuj respekt a podporu."
 
+V roce 2023 ji bylo pozastaveno členství v Pirátské straně.
+
 ---
 * [Medailonek](https://lide.pirati.cz/profil/3529/)
 * [Veřejný kalendář](https://calendar.google.com/calendar/embed?src=piratka.antalova%40gmail.com&ctz=Europe%2FPrague)
