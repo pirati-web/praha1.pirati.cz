@@ -5,7 +5,7 @@ fullname: Ladislav Diblík
 category:
   - kandidat-obec
   - clenove
-description: Člen výboru pro kultivaci a služby v památkové rezervaci, produkční v mediální agentuře
+description: Člen výboru pro kultivaci a služby v památkové rezervaci v Ph 1, produkční v mediální agentuře,
 #img: people/ladislav-diblik.jpg
 heroImg: 
 age: 
@@ -17,6 +17,6 @@ profiles:
 ordclen: 5
 ---
 
-**Ladislav Diblík** je člen výboru pro kultivaci a služby v památkové rezervaci, produkční v mediální agentuře
+**Ladislav Diblík** je člen výboru pro kultivaci a služby v památkové rezervaci v Ph 1, produkční v mediální agentuře
 
 ---

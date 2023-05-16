@@ -1,10 +1,10 @@
 ---
 uid: raiterova.jana
 name:     Jana Raiterová
-fullname: Jana Raiterová
+fullname: Mgr. Jana Raiterová
 category:
   - clenove
-description: korepetitorka
+description: korepetitorka, členka KET kultura a cestovní ruch a KET školství
 #img: 
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 
@@ -16,6 +16,6 @@ profiles:
 ordclen: 10
 ---
 
-**Jana Raiterová** je korepetitorka a učitelka hry na klavír, Pirátka na Praze 1. 
+Mgr. **Jana Raiterová** je korepetitorka a učitelka hry na klavír, Pirátka na Praze 1. 
 
 ---

@@ -5,7 +5,7 @@ fullname: PhDr. Olga Sklenářová
 profession: Předsedkyně Piráti Praha 1, pedagožka
 category:
   - clenove
-description: členka komise pro informatiku (Praha 1), pedagožka, 
+description:  pedagožka na Gymnáziu prof. J. Patočky
 #Předsedkyně Pirátů Prahy 1, pedagog, vyučuje na gymnáziu a základní škole na Praze 1
 img: people/olga-sklenarova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
