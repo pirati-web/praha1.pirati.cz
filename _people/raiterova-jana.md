@@ -5,7 +5,7 @@ fullname: Mgr. Jana Raiterová
 category:
   - clenove
 description: korepetitorka, členka KET kultura a cestovní ruch a KET školství
-#img: 
+img: people/jana-raiterova.jpg
 heroImg: articles/2021/2021-04-16-radnice-neumi-vysvetlit-pul-milionovy-pro-valentu.jpg
 age: 
 mail:
