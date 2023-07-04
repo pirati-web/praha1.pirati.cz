@@ -13,8 +13,6 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-  - link: /lide/
-    name: Lidé
   - link: 
     name: VOLBY
     submenu: 
