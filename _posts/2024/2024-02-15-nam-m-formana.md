@@ -26,6 +26,7 @@ Zastupitelstvo MČ Praha 1 však schválilo na svém zasedání 15. 6. 2022 hlas
 Piráti Prahy 1 proto tímto veřejně vyzývají politiky MČ Prahy 1 i hl. m. Prahy, aby návrh třístranného memoranda o rozvoji území odmítli a nepodporovali prolomení již dříve zamítnutého projektu státní správou a nešli proti platnému územnímu plánu.
 
 V Praze 1, dne 15. 2. 2024
+
 Přípravný tým Piráti Praha 1
 
 Podepsáni: Jana Raiterová, vedoucí týmu
