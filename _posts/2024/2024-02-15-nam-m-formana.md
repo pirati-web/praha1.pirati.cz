@@ -29,4 +29,6 @@ V Praze 1, dne 15. 2. 2024
 
 Přípravný tým Piráti Praha 1
 
-Podepsáni: Jana Raiterová, vedoucí týmu    členové: Nikol Švecová, Jaroslava Nárožná, Olga Sklenářová, Tomáš Raiter, Šimon Foster 
+Podepsáni: Jana Raiterová, vedoucí týmu
+
+členové: Nikol Švecová, Jaroslava Nárožná, Olga Sklenářová, Tomáš Raiter, Šimon Foster 
