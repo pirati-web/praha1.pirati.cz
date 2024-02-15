@@ -4,7 +4,7 @@ category: blog
 title: 'Piráti z Prahy 1 nesouhlasí s opětovným pokusem investora zastavět náměstí Miloše Formana u bývalého hotelu InterContinental'
 date: '2024-02-15'
 author: Piráti
-image: assets/img/InterCont.jpg
+image: miscellaneous/articles/InterCont.jpg
 tags:
   - Piráti
 ---
