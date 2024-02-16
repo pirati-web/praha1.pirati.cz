@@ -10,7 +10,7 @@ contactPersons:
 
 **Zajímá vás co děláme na jedničce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou. Kontaktovat nás můžete na e-mailu praha@pirati.cz
 
-**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 1](https://www.facebook.com/PiratiP1/). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha](https://www.facebook.com/CeskaPiratskaStranaPraha). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
 <h4>Transparenstnost</h4>
 - Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
