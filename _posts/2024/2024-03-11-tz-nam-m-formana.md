@@ -26,18 +26,18 @@ Přípravný tým Piráti Prahy 1
 
 Jana Raiterová, vedoucí týmu
 
-<br>
+<br><br>
 Vyjádření za Arniku:
 
 "Zatímco u některých staveb projednává komise rozvoje Prahy 1 třeba i pátou změnu stavby před dokončením, jiné naprosto zásadní plánované stavby komisi předloženy nejsou - jak nástavba na budově od Zaha Hadid Architects, tak memorandum k náměstí M. Formana se dostaly na projednání až po opakovaných urgencích členů komise, gesční radní a předseda komise je (záměrně?) na program jednání nezařadili, jejich postup při projednávání projektů je naprosto netransparentní," upozorňuje Anna Vinklárková z organizace Arnika, architektka a členka komise územního rozvoje Prahy 1.
 
-
+<br><br>
 Vyjádřeni spolku Občané Prahy 1: 
 
 V úterý 12. března se koná Zastupitelstvo Prahy 1, kde se od 19:30 bude znovu otevírat téma náměstí Miloše Formana. Náš spolek trvá na nezastavitelnosti celého náměstí, které potřebuje zejména zeleň, stromy a vodu. Nezastavitelnost slíbili politici napříč celou reprezentací a my očekáváme, že svoje sliby dodrží.
 
 Terezie Radoměřská, starostka Prahy 1, 19. srpna 2022: “Toto téma považujeme za ukončené. Zastupitelstvo MČ Prahy 1 se již vyjádřilo rozhodnutím o nulové zástavbě a TOP 09 rozhodně nemá v plánu toto rozhodnutí revidovat.”�
-
+<br>
 
 Proti memorandu, které má povolit stavbu se vyjádřila také komise územního rozvoje Prahy 1. Stavbu na náměstí zamítlo Ministerstvo pro místní rozvoj i Ministerstvo kultury. Snahu prolomit tato stanoviska tedy považujeme za bezpředmětnou a apelujeme jak na majitele pozemku, tak na politiky, aby tato rozhodnutí respektovali.
 
