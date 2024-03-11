@@ -26,7 +26,7 @@ Přípravný tým Piráti Prahy 1
 
 Jana Raiterová, vedoucí týmu
 
-
+<br>
 Vyjádření za Arniku:
 
 "Zatímco u některých staveb projednává komise rozvoje Prahy 1 třeba i pátou změnu stavby před dokončením, jiné naprosto zásadní plánované stavby komisi předloženy nejsou - jak nástavba na budově od Zaha Hadid Architects, tak memorandum k náměstí M. Formana se dostaly na projednání až po opakovaných urgencích členů komise, gesční radní a předseda komise je (záměrně?) na program jednání nezařadili, jejich postup při projednávání projektů je naprosto netransparentní," upozorňuje Anna Vinklárková z organizace Arnika, architektka a členka komise územního rozvoje Prahy 1.
