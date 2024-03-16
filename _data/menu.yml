@@ -13,6 +13,8 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
+  - link: /lide/
+    name: Naši lidé    
   - link: 
     name: VOLBY
     submenu: 
