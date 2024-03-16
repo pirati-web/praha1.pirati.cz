@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
 description: Předsedkyně PT Praha 1
-img: jana-raiterova.jpg
+img: people/jana-raiterova.jpg
 mail:
   - jana.raiterova@pirati.cz
 ---
