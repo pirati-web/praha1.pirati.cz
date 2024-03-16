@@ -92,7 +92,7 @@ exclude:
 permalink: /aktuality/:title.html
 collections:
   people:
-    output: false
+    output: true
     permalink: /lide/:path:output_ext
   program:
     output: true
@@ -103,6 +103,14 @@ collections:
     output: false
 
 defaults:   # defaults values for collection scope
+ -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_posts"
