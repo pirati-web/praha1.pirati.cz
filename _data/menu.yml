@@ -14,7 +14,7 @@ main:
   - link: /aktuality/
     name: Aktuality
   - link: /lide/
-    name: Lidé    
+    name: Naši lidé    
   - link: 
     name: VOLBY
     submenu: 
