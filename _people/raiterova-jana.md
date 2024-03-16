@@ -1,6 +1,6 @@
 ---
 uid: jana.raiterova
-name:Jana Raiterová
+name: Jana Raiterová
 titles:
   before: Mgr.
 category:
