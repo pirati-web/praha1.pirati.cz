@@ -23,7 +23,7 @@ main:
      - link: /program/
        name: Komunální volby 2018
   - link: /kontakt/
-    name: Kontakt
+    name: Kontak
 
 bottom:
   - class: small-12 medium-4
