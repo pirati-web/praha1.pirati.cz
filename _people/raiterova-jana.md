@@ -9,7 +9,7 @@ description: Předsedkyně PT Praha 1
 img: jana-raiterova.jpg
 mail:
   - jana.raiterova@pirati.cz
-
+---
 **Mgr. Jana Raiterová** - narozena v České Lípě, vystudovala Konzervatoř v Teplicích, obor hra na klavír a PedF UK v Praze, obor hudební výchova/hra na klavír. Většinu svého profesního života se věnuje korepeticím (zejména na dirigentských odděleních Pražské konzervatoře a Konzervatoře a VOŠ J. Ježka). Zároveň spolupracuje s pěveckými sbory (např. Pražský filharmonický sbor, VUS UK a další) a hostuje v orchestrech (např. FOK).
 
 Od roku 1999 žije v Praze 1.
