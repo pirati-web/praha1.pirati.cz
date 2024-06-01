@@ -13,9 +13,8 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-  - link: /lide/
-    name: Naši lidé    
-  - name: VOLBY
+  - link:
+    name: VOLBY
     submenu: 
      - link: /volby/2022-komunalni.html
        name: Komunální volby 2022
