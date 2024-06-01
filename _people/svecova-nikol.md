@@ -3,7 +3,6 @@ uid: nikol.svecova
 name:     Bc. Nikol Švecová
 profession: učitelka ZŠ, metodička prevence
 category:
-  - kandidat-obec
   - clenove
 description: zastupitelka, členka kontrolního výboru, učitelka ZŠ, metodička prevence
 img: people/nikol-svecova.jpg
